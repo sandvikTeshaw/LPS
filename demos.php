@@ -17,6 +17,7 @@
 include_once 'copysource/config.php';
 include 'copysource/functions.php';
 include '../common/copysource/global_functions.php';
+//Testing the commit
 
 headerFrame ( $_SESSION ['name'] );
 
