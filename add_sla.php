@@ -1,5 +1,4 @@
 <?php
-//Test
 /**
  * System Name:             Logistics Process Support
  * Program Name:            add_sla.php<br>
