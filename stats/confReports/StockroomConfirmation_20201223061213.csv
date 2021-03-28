@@ -1,0 +1,9 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C2,4782,Terry Lalonde,606663,20200124,Short Shipment,12-99018,,
+12,4782,Ted Shaw,606664,20200127,Over Shipment,7733-5148A-S80,,
+C1,120,Radek Brodecky,606686,20200302,Short Shipment,00054686700,,
+C1,120,Radek Brodecky,606687,20200302,Short Shipment,55186333,,
+C1,120,Radek Brodecky,606688,20200302,Short Shipment,BG00385921,,
+C1,120,Radek Brodecky,606688,20200303,Expediting,BG00385921,,
+07,1861,Niall Maher,606702,20200622,Damaged Part,BG00274502,,
+,120,Radek Brodecky,606948,20200915,Short Shipment,831.0016-00,,

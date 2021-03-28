@@ -1,0 +1,17 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C2,5800,Warehouse Lima,699483,20191212,Short Shipment,014750-001,,
+C2,5681,Edgar A. Caldera (DHL SR02),699493,20191212,Damaged part / Quality issue,56023052,,
+C2,5681,Edgar A. Caldera (DHL SR02),699495,20191212,Damaged part / Quality issue,55014884,,
+C1,280,Jari-Pekka Huttula,699498,20191212,Damaged part / Quality issue,BF00001304,,
+C1,280,Jari-Pekka Huttula,699499,20191212,Damaged part / Quality issue,BF00005394,,
+63,9885,ashla henderson,699500,20191212,Misdirected Part/Shipment,c2a1136250,,
+63,9885,ashla henderson,699501,20191212,Short Shipment,56012338,,
+C3,8481,Freeport Warehouse Inbound,699502,20191212,Short Shipment,55152848,,
+C3,8289,Ragi Prakash,699506,20191212,Damaged part / Quality issue,81917809,,N
+C1,3200,Danielle Martins,699556,20191212,Damaged part / Quality issue,55014884,,
+C1,6825,HENRY OPARE ADJEI,699562,20191212,Short Shipment,85516179,,
+C1,6825,HENRY OPARE ADJEI,699563,20191212,Short Shipment,56031342,,N
+C4,6481,Justin Hodgson,699567,20191212,Over Shipment,86910619,,
+C4,6481,Justin Hodgson,699569,20191212,Over Shipment,81051209,,
+C4,6481,Justin Hodgson,699571,20191212,Over Shipment,70430543,,
+C4,6481,Hannes Esterhuizen,699589,20191212,Short Shipment,04004080,,

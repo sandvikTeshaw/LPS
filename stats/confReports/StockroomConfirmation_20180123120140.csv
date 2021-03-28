@@ -1,0 +1,30 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C1,1861,C3 Inbound,527228,20180123,Short Shipment,56002247,,
+63,9885,Hvss.receipts,527230,20180123,Over Shipment,04699000,,
+63,9885,Hvss.receipts,527231,20180123,Short Shipment,04698526,,
+63,9885,Hvss.receipts,527232,20180123,Short Shipment,04697096,,
+C1,9885,Hvss.receipts,527233,20180123,Short Shipment,445800933,,
+C1,9885,Hvss.receipts,527234,20180123,Short Shipment,445405188,,
+C1,9885,Hvss.receipts,527235,20180123,Short Shipment,432310540002,,
+C1,9885,Hvss.receipts,527236,20180123,Short Shipment,445203206,,
+63,9885,Kaitlyn Turnbull,527251,20180123,Short Shipment,80759069,,N
+63,9885,Timothy Osborne,527266,20180123,Short Shipment,55003400,,
+66,9885,Inventory Brisbane,527271,20180123,Short Shipment,55044674,,
+C1,3081,Kseniya Ivanova,527275,20180123,Short Shipment,85069909,,
+C1,3081,Alias Bochkarev,527276,20180123,Damaged Part,77009815,,
+C2,2300,C1Deviations,527288,20180123,Over Shipment,55200655,,
+C4,6487,Suzette Bester,527292,20180123,Over Shipment,55178995,,N/A
+C4,6487,Katlego Lepedi,527303,20180123,Short Shipment,003763-001,,N/A
+C3,120,Leif Hedberg,527318,20180123,Over Shipment,7314-3355,,
+C4,6487,Katlego Lepedi,527319,20180123,Over Shipment,AFP1006-4,,N/A
+C3,120,Leif Hedberg,527320,20180123,Over Shipment,7795-5232-B48,,
+C4,6487,Thabo Malatji,527328,20180123,Short Shipment,BH00011334,,N/A
+C1,9999,DHL Warehouse,527332,20180123,Short Shipment,56049465,,
+C1,9999,DHL Warehouse,527333,20180123,Damaged Part,55066836,,
+C1,9999,DHL Warehouse,527334,20180123,Short Shipment,BG00401772,,
+C1,9999,DHL Warehouse,527336,20180123,Over Shipment,55088189,,
+,6526,Malambo Haampeyo,527337,20180123,Short Shipment,7314-3355,,N/A
+C1,6526,Malambo Haampeyo,527342,20180123,Short Shipment,06743229,,
+C1,1882,Chris Murray,527348,20180123,Short Shipment,488.1704-901,,
+C1,9500,Selcuk Unal,527376,20180123,Short Shipment,88652829,,
+C4,6487,Justin Hodgson,527423,20180123,Damaged Part,036273-045,,

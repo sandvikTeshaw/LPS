@@ -1,0 +1,15 @@
+[29-Jan-2021 08:44:06 UTC] PHP Notice:  Undefined index: BACK29 in E:\Apache24\htdocs\production\smc\global\lps\maintenance\inboundMaintenance.php on line 89
+[05-Feb-2021 15:41:45 UTC] PHP Notice:  Undefined variable: class in E:\Apache24\htdocs\production\smc\global\lps\maintenance\tsdMaintenance.php on line 118
+[05-Feb-2021 15:41:46 UTC] PHP Notice:  Undefined variable: responsible in E:\Apache24\htdocs\production\smc\global\lps\maintenance\tsdMaintenance.php on line 138
+[09-Feb-2021 10:04:28 UTC] PHP Warning:  include(copysource/config.php): failed to open stream: No such file or directory in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[09-Feb-2021 10:04:28 UTC] PHP Warning:  include(): Failed opening 'copysource/config.php' for inclusion (include_path='.;e:\php\PEAR') in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[09-Feb-2021 10:04:28 UTC] PHP Notice:  Undefined variable: title in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 168
+[10-Feb-2021 16:21:25 UTC] PHP Warning:  include(copysource/config.php): failed to open stream: No such file or directory in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[10-Feb-2021 16:21:25 UTC] PHP Warning:  include(): Failed opening 'copysource/config.php' for inclusion (include_path='.;e:\php\PEAR') in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[10-Feb-2021 16:21:25 UTC] PHP Notice:  Undefined variable: title in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 168
+[10-Feb-2021 16:22:06 UTC] PHP Notice:  Undefined variable: PHP_SELF in E:\Apache24\htdocs\production\smc\global\lps\maintenance\editAm.php on line 71
+[11-Feb-2021 21:07:41 UTC] PHP Warning:  include(copysource/config.php): failed to open stream: No such file or directory in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[11-Feb-2021 21:07:41 UTC] PHP Warning:  include(): Failed opening 'copysource/config.php' for inclusion (include_path='.;e:\php\PEAR') in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 160
+[11-Feb-2021 21:07:41 UTC] PHP Notice:  Undefined variable: title in E:\Apache24\htdocs\production\smc\global\common\copysource\global_functions.php on line 168
+[18-Feb-2021 10:12:46 UTC] PHP Notice:  Undefined variable: PHP_SELF in E:\Apache24\htdocs\production\smc\global\lps\maintenance\editPlanner.php on line 73
+[18-Feb-2021 10:13:17 UTC] PHP Notice:  Undefined variable: PHP_SELF in E:\Apache24\htdocs\production\smc\global\lps\maintenance\editPlanner.php on line 73

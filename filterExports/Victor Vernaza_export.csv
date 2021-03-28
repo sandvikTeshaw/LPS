@@ -1,0 +1,5 @@
+"Parent Ticket","Ticket ID",Company,Classification,Priority,Type,"Item Number","Order Number",Requester,"Date Created","Last Update","Last Updater",Owner,Planner,Stockroom,Buyer,"Days Open",Status,Res.,"Last Comment"
+0,802179,"Sandvik del Peru S.A.","Regional Order Process Support",2,"Wrong Part",,,"Ericson Castillo Alvarez","2021/02/15 14:23:55",-,"No Update","Victor Vernaza","Victor Vernaza",02,,0,Open,No,
+0,800507,"Sandvik Chile S.A.",Returns,3,"Global Returns",,,"Marcelo Munoz","2021/02/08 15:49:05","2021/02/08 19:43:09","Judith Escrich","Victor Vernaza","Victor Vernaza",C2,,7,Open,No,"Hi Victor, please process DRP 0510061 to RT and confirm. Thanks"
+0,800505,"Sandvik Chile S.A.",Returns,3,"Global Returns",,,"Marcelo Munoz","2021/02/08 15:48:03","2021/02/08 19:37:25","Judith Escrich","Victor Vernaza","Victor Vernaza",C2,,7,Open,No,"Hi Victor, please process DRP 0510060 to RT and confirm. Thanks"
+0,782315,"Sandvik del Peru S.A.","Regional Order Process Support",2,Miscellaneous,,,"Gilberto Timoteo Ricaldi","2020/11/23 16:35:28","2020/11/26 13:12:02","Denilson Cordeiro","Victor Vernaza","Victor Vernaza",02,,84,Open,No,"Issue Escalated to Aris Michaelides"

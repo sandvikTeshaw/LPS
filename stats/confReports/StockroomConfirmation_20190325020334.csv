@@ -1,0 +1,827 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+63,9885,Scott Speirs,624939,20190301,Short Shipment,55100216,,N/A
+63,9885,Evan Jones,624980,20190301,Short Shipment,04004085,,N
+C1,9885,Inbound Perth Hub,624999,20190301,Short Shipment,04705922,,N/A
+67,9885,Deborah Goodall,625001,20190301,Over Shipment,7314-3555,,
+C4,6487,Mishack Magoa,625002,20190301,Over Shipment,04732112,,Y
+C1,8986,Amy Zheng,625011,20190301,Short Shipment,56031550,,Y
+C4,6481,Hannes Esterhuizen,625016,20190301,Short Shipment,04762222,,Y
+C4,6487,Rachel Thobejane,625037,20190301,Short Shipment,04521030,,N/A
+C4,6487,Rachel Thobejane,625039,20190301,Short Shipment,32890548,,Y
+C2,8986,Amy Zheng,625041,20190301,Short Shipment,64404234,,Y
+C1,6487,Zintle Biata,625089,20190301,Short Shipment,77012149,,Y
+15,2300,C1Deviations,625090,20190301,Over Shipment,500955065,,N
+C3,2300,C1Deviations,625099,20190301,Damaged part / Quality issue,65671464000,,N
+C1,9995,Fred Ritchie C2 DHL Supply Chain,625145,20190301,Short Shipment,07534011,,Y
+C1,6825,Rebecca Naa Aryee,625173,20190301,Short Shipment,55078275,,N/A
+C1,6825,Rebecca Naa Aryee,625176,20190301,Short Shipment,AF01900011,,Y
+C1,6825,Rebecca Naa Aryee,625178,20190301,Short Shipment,88231419,,Y
+C2,4782,Dennis Manarin,625179,20190301,Misdirected Part/Shipment,BG00395793,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),625187,20190301,Short Shipment,AF02000005,,N
+C2,4684,Margaret Sampson,625201,20190301,Over Shipment,77015160,,Y
+C2,5681,Jennyfer Vera,625216,20190301,Misdirected Part/Shipment,CP16015-3,,N
+C2,5681,Jennyfer Vera,625222,20190301,Misdirected Part/Shipment,56009813,,N
+C2,5681,Luis Angel Cuevas,625224,20190301,Damaged part / Quality issue,73288003,,N
+C2,5681,Luis Angel Cuevas,625227,20190301,Short Shipment,77011581,,Y
+C1,5100,Fernando Madariaga,625233,20190301,Over Shipment,08002283,,Y
+C2,4684,Leza Jones,625266,20190301,Short Shipment,64803473,,Y
+C2,4782,Dennis Manarin,625271,20190301,Damaged part / Quality issue,61419989,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),625276,20190301,Over Shipment,7776-4438-B48,,N/A
+C2,5681,Pedro A. Saucedo (DHL SR02),625277,20190301,Short Shipment,7514-4876-S48,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),625279,20190301,Over Shipment,77018367,,N/A
+C2,4684,Leza Jones,625299,20190302,Short Shipment,73930192,,Y
+C2,5681,Roberto Burciaga,625300,20190302,Short Shipment,20828718,,N
+C3,8289,KEDAR ROY,625305,20190302,Short Shipment,22336588,,Y
+C3,8289,KEDAR ROY,625306,20190302,Short Shipment,452.7656-001,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,625317,20190302,Short Shipment,70880191,,Y
+C2,5681,MARCO IVAN PEREZ,625323,20190302,Over Shipment,08900794,,N
+C2,9885,Inventory Brisbane,625336,20190303,Short Shipment,65083455,,
+C3,9885,Inventory Brisbane,625339,20190303,Short Shipment,69039969,,
+C1,9885,Inventory Brisbane,625344,20190303,Over Shipment,65690325000,,
+37,1861,Lily.lee,625361,20190304,Short Shipment,452.4303-001,,
+C3,8481,Freeport Warehouse Inbound,625370,20190304,Over Shipment,910.0114-00,,N/A
+C1,8986,Amy Zheng,625385,20190304,Short Shipment,86930549,,N
+C1,7950,Joann Zacarias,625389,20190304,Damaged part / Quality issue,85676689,,N
+C1,3081,DHL Warehouse,625394,20190304,Short Shipment,42870210,,N
+C1,3081,DHL Warehouse,625399,20190304,Over Shipment,001170-003,,N
+C1,3081,DHL Warehouse,625400,20190304,Short Shipment,04000051,,N
+C4,6487,Rachel Thobejane,625406,20190304,Short Shipment,55025794,,N/A
+C4,6487,Rachel Thobejane,625409,20190304,Over Shipment,55085201,,N/A
+C1,3081,DHL Warehouse,625429,20190304,Over Shipment,AF00101747,,N
+C1,6825,Rebecca Naa Aryee,625439,20190304,Short Shipment,55014530,,N
+C3,2300,C1Deviations,625441,20190304,Over Shipment,BA00000230,,N
+C1,2781,Arkadiusz Garbacz,625450,20190304,Short Shipment,08001098,,N
+C3,2300,C1Deviations,625465,20190304,Damaged part / Quality issue,BG00647517,,N
+C2,4684,Theresa Hazuda,625466,20190304,Short Shipment,65647402000,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625467,20190304,Short Shipment,BG00395793,,Y
+C3,2300,C1Deviations,625468,20190304,Damaged part / Quality issue,BG00863818,,N
+C3,120,Fred Ritchie C2 DHL Supply Chain,625473,20190304,Short Shipment,009215-015,,Y
+37,1886,Hayley Bell,625490,20190304,Over Shipment,53-366-419-503,,
+37,1886,Hayley Bell,625491,20190304,Over Shipment,BG00919511,,
+C2,4684,Tiffany Juggins,625497,20190304,Short Shipment,64101553,,Y
+C2,4684,Margaret Sampson,625500,20190304,Damaged part / Quality issue,78410572,,Y
+12,6825,Benedicta Gotah,625502,20190304,Short Shipment,7620-4927-S55,,Y
+12,6825,Benedicta Gotah,625503,20190304,Short Shipment,7620-4927-S55,,
+C2,6487,Lindy Nyathi,625518,20190304,Short Shipment,64404343,,Y
+C2,5681,Jose Hiram Guerrero,625526,20190304,Over Shipment,020002-066,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,625547,20190304,Short Shipment,55052069,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625554,20190304,Short Shipment,70534253,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625559,20190304,Short Shipment,55187747,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625563,20190304,Short Shipment,55192756,,Y
+C2,5681,Luis Angel Cuevas,625565,20190304,Short Shipment,70271378,,N
+C2,5681,Luis Angel Cuevas,625566,20190304,Short Shipment,70430530,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),625567,20190304,Over Shipment,59943148,,N/A
+C2,5681,Luis Angel Cuevas,625568,20190304,Short Shipment,70450680,,N
+C2,5681,Luis Angel Cuevas,625569,20190304,Short Shipment,70821228,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,625570,20190304,Short Shipment,56015666,,Y
+C2,5681,Luis Angel Cuevas,625571,20190304,Short Shipment,73101556,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,625573,20190304,Short Shipment,56015865,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625574,20190304,Short Shipment,56016886,,Y
+C2,5681,Luis Angel Cuevas,625577,20190304,Short Shipment,78401076,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,625582,20190304,Short Shipment,56030297,,Y
+C2,4782,Martin Houle,625584,20190304,Misdirected Part/Shipment,04910091,,N/A
+C2,120,Carl Acheson,625586,20190304,Short Shipment,76315057,,Y
+C2,4782,Martin Houle,625587,20190304,Short Shipment,516995,,Y
+C2,4684,Theresa Hazuda,625592,20190304,Damaged part / Quality issue,65644851000,,Y
+C2,4684,Rhonda Powrie,625593,20190304,Over Shipment,BG00325401,,Y
+C2,120,Carl Acheson,625605,20190304,Short Shipment,BG00428191,,Y
+C2,4782,Katelynn Battams,625609,20190304,Short Shipment,70.300.1640.0,,Y
+63,1861,Hvss.receipts,625632,20190304,Short Shipment,A2U220-592056,,N/A
+67,9885,Nita Broughton,625634,20190305,Short Shipment,03383758,,N/A
+C1,9885,Inventory Brisbane,625646,20190305,Short Shipment,04730047,,
+C3,8441,Balikpapan WH,625650,20190305,Short Shipment,55046005,,N
+C3,1861,Yuki Yoshioka,625664,20190305,Short Shipment,442.7170-01,,
+6A,9885,Inbound Perth Hub,625667,20190305,Short Shipment,88670869,,N/A
+67,9885,Nita Broughton,625668,20190305,Short Shipment,30897558,,
+6A,9885,Inbound Perth Hub,625677,20190305,Short Shipment,88288009,,N/A
+C1,6635,Hamis Lubasha,625755,20190305,Short Shipment,AF21150014,,N/A
+C1,3200,Danielle Martins,625767,20190305,Misdirected Part/Shipment,09370583,,N
+C3,2300,C1Deviations,625768,20190305,Short Shipment,20-540-R35,,N/A
+C1,9500,Burak Ayer,625798,20190305,Short Shipment,88268339,,N
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),625830,20190305,Over Shipment,88723589,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,625834,20190305,Short Shipment,BG00379724,,Y
+C3,8289,Busam Bhaskar,625836,20190305,Short Shipment,04700304,,Y
+C3,8289,Busam Bhaskar,625837,20190305,Short Shipment,04700296,,Y
+C3,8289,Busam Bhaskar,625838,20190305,Short Shipment,04698335,,Y
+C4,6510,Muchineripi Mutandare,625856,20190305,Short Shipment,04694612,,N/A
+C1,6487,Zintle Biata,625860,20190305,Short Shipment,81013509,,N/A
+C2,2300,C1Deviations,625877,20190305,Damaged part / Quality issue,6S7124,,N
+C1,5201,Almacen Colombia,625887,20190305,Damaged part / Quality issue,55175035,,N/A
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),625890,20190305,Damaged part / Quality issue,BG00868709,,Y
+C2,4684,Kimberly Fetters,625911,20190305,Damaged part / Quality issue,BG00625758,,Y
+C2,4684,Margaret Sampson,625947,20190305,Short Shipment,55082949,,Y
+C2,4684,Margaret Sampson,625950,20190305,Short Shipment,64552299,,Y
+21,2300,C1Deviations,625964,20190305,Short Shipment,BF00006312,,N/A
+C2,5681,Pedro A. Saucedo (DHL SR02),625980,20190305,Short Shipment,26393408,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),625982,20190305,Short Shipment,7733-5248A-S48,,
+C2,5681,Jennyfer Vera,625986,20190305,Misdirected Part/Shipment,64120361,,N
+C2,5681,Jennyfer Vera,625987,20190305,Misdirected Part/Shipment,88682099,,N
+C2,5681,Jennyfer Vera,625988,20190305,Misdirected Part/Shipment,55014921,,N
+C3,2300,C1Deviations,625997,20190305,Damaged part / Quality issue,76315601,,N
+C2,2300,C1Deviations,626002,20190305,Damaged part / Quality issue,32223808,,N/A
+C1,9885,Inventory Brisbane,626011,20190305,Short Shipment,450072456,,
+C2,5681,Daniel Alejandro Salcedo Garcia,626021,20190305,Short Shipment,80759069,,N
+C1,9885,Inventory Brisbane,626025,20190306,Short Shipment,BU00016156,,
+63,1861,Hvss.receipts,626028,20190306,Short Shipment,65667575002,,
+C3,8481,Freeport Warehouse Inbound,626031,20190306,Short Shipment,80815289,,N/A
+37,9885,Inventory Brisbane,626033,20190306,Damaged part / Quality issue,442.8730-01,,
+63,9885,Scott Speirs,626040,20190306,Short Shipment,15178158,,N/A
+61,9885,Sara Fitzpatrick,626043,20190306,Short Shipment,023237-002,,N
+63,9885,Sara Fitzpatrick,626044,20190306,Over Shipment,020070-057,,N/A
+C3,2300,C1Deviations,626079,20190306,Damaged part / Quality issue,55016277,,N
+C1,6526,Titus Sikamikami,626082,20190306,Short Shipment,86793649,,Y
+C2,120,SR12 Warehouse Support,626130,20190306,Short Shipment,7870-1172-11,,N/A
+C2,4782,Robert Thriault,626135,20190306,Damaged part / Quality issue,04700374,,Y
+C2,4881,Alejandro Ferraiolo,626155,20190306,Short Shipment,CP48001-0414,,Y
+C1,3981,Erika Wieser,626165,20190306,Short Shipment,65673593000,,N
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),626185,20190306,Short Shipment,55035604,,Y
+C2,4684,Stacey Anderson,626217,20190306,Damaged part / Quality issue,04004079,,Y
+C2,5681,Jennyfer Vera,626221,20190306,Misdirected Part/Shipment,02956700,,N/A
+C2,4782,Dennis Manarin,626222,20190306,Short Shipment,87496399,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),626226,20190306,Over Shipment,04732101,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),626228,20190306,Over Shipment,04698529,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),626229,20190306,Short Shipment,56025949,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),626230,20190306,Short Shipment,56002681,,N
+C1,5100,Fernando Madariaga,626232,20190306,Short Shipment,56021058,,N
+C2,4684,Antonia Pierce,626233,20190306,Short Shipment,BG00378271,,Y
+C1,5100,Fernando Madariaga,626239,20190306,Short Shipment,56040667,,Y
+C1,5100,Fernando Madariaga,626241,20190306,Short Shipment,81623869,,Y
+C1,5100,Fernando Madariaga,626242,20190306,Short Shipment,AF02300005,,Y
+C2,4684,Rhonda Powrie,626243,20190306,Over Shipment,BG00325401,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),626244,20190306,Short Shipment,73702505,,N
+C2,4684,Tiffany Juggins,626248,20190306,Damaged part / Quality issue,71020931,,Y
+C1,5100,Fernando Madariaga,626249,20190306,Short Shipment,AF02500006,,Y
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),626254,20190306,Short Shipment,620060800,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626276,20190306,Short Shipment,08002282,,Y
+C3,2300,C1Deviations,626278,20190306,Damaged part / Quality issue,55057005,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,626279,20190306,Short Shipment,08000180,,Y
+63,9885,Eric Rowsell,626283,20190306,Short Shipment,56043635,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,626289,20190306,Short Shipment,AF00101124,,Y
+C1,9885,Inventory Brisbane,626291,20190306,Misdirected Part/Shipment,253,,N/A
+C2,2300,C1Deviations,626298,20190306,Short Shipment,CP16202,,N
+63,1861,Hvss.receipts,626301,20190306,Short Shipment,BU00016859,,N/A
+C2,2300,C1Deviations,626302,20190306,Short Shipment,55030888,,N
+63,1861,Hvss.receipts,626304,20190306,Short Shipment,BU00005145,,N/A
+C3,2300,C1Deviations,626308,20190306,Damaged part / Quality issue,20880145,,N
+C3,8481,Freeport Warehouse Inbound,626322,20190307,Short Shipment,77022433,,N/A
+C1,1861,C3 Inbound,626347,20190307,Short Shipment,56018194,,
+C1,1861,C3 Inbound,626348,20190307,Short Shipment,56018304,,
+C2,9885,Inventory Brisbane,626362,20190307,Damaged part / Quality issue,020123-052,,
+C3,8481,Freeport Warehouse Inbound,626374,20190307,Short Shipment,AF00100739,,N/A
+63,9885,Steven Daly,626380,20190307,Short Shipment,55008132,,N
+C4,6487,Mishack Magoa,626385,20190307,Over Shipment,56026106,,N
+C1,3081,DHL Warehouse,626398,20190307,Short Shipment,BG00416953,,N
+C1,3081,DHL Warehouse,626401,20190307,Over Shipment,87218939,,N
+C3,8481,Freeport Warehouse Inbound,626403,20190307,Short Shipment,022740-003,,N/A
+C4,6487,Rachel Thobejane,626452,20190307,Short Shipment,69040158,,N/A
+,6526,Saul Njekwa,626466,20190307,Short Shipment,014029-002,,N
+C3,8289,Somenath Banerjee,626468,20190307,Short Shipment,85159999,,Y
+C1,5100,Fernando Madariaga,626470,20190307,Short Shipment,06532087,,N
+,6526,Saul Njekwa,626471,20190307,Short Shipment,018157-186,,Y
+C1,5100,Fernando Madariaga,626472,20190307,Short Shipment,07534055,,N
+C3,8289,Somenath Banerjee,626476,20190307,Short Shipment,AF02400005,,N
+C1,5100,Fernando Madariaga,626478,20190307,Short Shipment,08002282,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626480,20190307,Short Shipment,BG00766820,,Y
+C3,8289,Ragi Prakash,626486,20190307,Short Shipment,71194347,,N
+C3,8289,Somenath Banerjee,626490,20190307,Over Shipment,55154250,,Y
+C2,4782,Robert Thriault,626492,20190307,Short Shipment,07529010,,Y
+C1,5100,Fernando Madariaga,626493,20190307,Short Shipment,AF02300006,,Y
+C3,8289,Somenath Banerjee,626503,20190307,Over Shipment,55053857,,Y
+C1,6526,Saul Njekwa,626505,20190307,Short Shipment,56044721,,N
+C3,8289,Somenath Banerjee,626507,20190307,Short Shipment,55185277,,Y
+C1,6487,Buseka Nono,626508,20190307,Short Shipment,55170824,,N/A
+C1,6526,Saul Njekwa,626509,20190307,Short Shipment,88110729,,N
+,6526,Saul Njekwa,626513,20190307,Short Shipment,002764-125,,N
+,6526,Saul Njekwa,626514,20190307,Short Shipment,003935-002,,Y
+37,6526,Saul Njekwa,626515,20190307,Short Shipment,442.8642-00,,N
+C2,6526,Saul Njekwa,626520,20190307,Short Shipment,64403680,,N/A
+C2,6526,Saul Njekwa,626521,20190307,Short Shipment,69063427,,N/A
+C1,2083,Severine Ghalem-Malric,626522,20190307,Short Shipment,86727289,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,626538,20190307,Short Shipment,55016284,,Y
+C1,6487,Buseka Nono,626556,20190307,Over Shipment,88177759,,Y
+C1,6487,Buseka Nono,626559,20190307,Short Shipment,76313211,,Y
+C1,6487,Buseka Nono,626571,20190307,Short Shipment,85443529,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,626573,20190307,Short Shipment,AF00100233,,Y
+C2,5681,Luis Daniel Hernandez (DHL SR02),626576,20190307,Short Shipment,AF11430005,,N
+C2,4782,Katelynn Battams,626583,20190307,Short Shipment,56209700,,Y
+C2,4782,Kevin Montambeault,626609,20190307,Over Shipment,7306-7577-03,,N/A
+C2,5681,MARCO IVAN PEREZ,626610,20190307,Short Shipment,02956680,,N
+C1,4881,Alejandro Ferraiolo,626613,20190307,Damaged part / Quality issue,88663179,,Y
+C2,120,Amanda Lariviere-Melanson,626624,20190307,Damaged part / Quality issue,BG00786509,,Y
+C3,2301,Cesar Velasquez,626631,20190307,Short Shipment,7993-3644,,
+63,1861,Hvss.receipts,626633,20190307,Short Shipment,627950220,,N/A
+C2,2300,C1Deviations,626649,20190307,Short Shipment,56018250,,N
+C2,2300,C1Deviations,626650,20190307,Damaged part / Quality issue,001535-087,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),626661,20190307,Short Shipment,81816349,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),626662,20190307,Short Shipment,88177889,,N
+C2,5681,Jennyfer Vera,626663,20190307,Short Shipment,771,,N
+C2,120,Carl Acheson,626664,20190307,Short Shipment,BG00400910,,Y
+C2,4684,Antonia Pierce,626665,20190307,Short Shipment,003837-104,,Y
+C3,8481,Freeport Warehouse Inbound,626670,20190308,Short Shipment,15217628,,N/A
+63,9885,Eric Rowsell,626671,20190308,Short Shipment,81765809,,N/A
+63,9885,Lance Waddell-Smith,626672,20190308,Short Shipment,912.0374-00,,N/A
+63,9885,Lance Waddell-Smith,626673,20190308,Damaged part / Quality issue,442.7911-01,,N/A
+C1,8986,Amy Zheng,626676,20190308,Short Shipment,AF00500840,,Y
+63,1861,Hvss.receipts,626683,20190308,Damaged part / Quality issue,65681469801,,N/A
+C4,6481,Tumo Finger,626701,20190308,Short Shipment,78071268,,N
+C2,2300,C1Deviations,626715,20190308,Damaged part / Quality issue,77019097,,N
+C2,2300,C1Deviations,626716,20190308,Over Shipment,BG00328307,,N
+C4,6487,Rachel Thobejane,626718,20190308,Short Shipment,AF00500566,,N/A
+C1,6487,Buseka Nono,626721,20190308,Over Shipment,02864280,,Y
+C1,9500,Ibrahim Cetindag,626748,20190308,Damaged part / Quality issue,81893749,,N
+C1,6635,Hamis Lubasha,626751,20190308,Short Shipment,20890738,,N
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),626752,20190308,Over Shipment,DB224000,,Y
+C2,4782,Robert Thriault,626759,20190308,Short Shipment,56204580,,Y
+C1,6487,Buseka Nono,626766,20190308,Short Shipment,52204900,,Y
+C1,6487,Buseka Nono,626769,20190308,Short Shipment,56211638,,Y
+C1,2301,Cesar Velasquez,626791,20190308,Damaged part / Quality issue,300-025-853,,Y
+C2,5681,Jennyfer Vera,626809,20190308,Over Shipment,04790826,,N
+C2,4683,Jennifer Keeler,626817,20190308,Damaged part / Quality issue,001882-002,,N/A
+C2,5681,Miguel Angel Garcia,626847,20190308,Over Shipment,442.8115-90,,N
+C2,2300,C1Deviations,626856,20190308,Damaged part / Quality issue,014429-053,,N
+C2,2300,C1Deviations,626861,20190308,Damaged part / Quality issue,BH00012693,,N
+C2,2300,C1Deviations,626863,20190308,Damaged part / Quality issue,BG00792576,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,626872,20190308,Short Shipment,08001361,,Y
+C2,5681,Jennyfer Vera,626892,20190308,Misdirected Part/Shipment,797-1185-28,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,626893,20190308,Short Shipment,88288419,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626897,20190308,Short Shipment,08537018,,Y
+C2,2301,Cesar Velasquez,626919,20190308,Damaged part / Quality issue,CP000821,,Y
+C2,5681,Yishar Galindo,626920,20190308,Over Shipment,55010167,,N/A
+C2,5681,Jose Hiram Guerrero,626930,20190309,Over Shipment,442.8814-02,,N/A
+C2,6526,Titus Sikamikami,626957,20190309,Short Shipment,003765-004,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,626958,20190309,Short Shipment,04110404,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626959,20190309,Short Shipment,AF10140014,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626960,20190309,Short Shipment,08000180,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626961,20190309,Short Shipment,74196511,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626962,20190309,Short Shipment,04705972,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626963,20190309,Short Shipment,08001991,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626964,20190309,Short Shipment,29521421,,Y
+C4,6481,Mpho Mbangi,626965,20190309,Short Shipment,00883150,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,626967,20190309,Short Shipment,06532043,,Y
+C4,6481,Mpho Mbangi,626972,20190309,Short Shipment,88553829,,N
+C3,8289,Somenath Banerjee,626978,20190310,Short Shipment,06532085,,Y
+C3,8289,Somenath Banerjee,626979,20190310,Short Shipment,AF03000031,,Y
+C3,8289,Somenath Banerjee,626980,20190310,Short Shipment,56002244,,Y
+C3,8289,Somenath Banerjee,626981,20190310,Damaged part / Quality issue,55051973,,N
+C3,8289,Somenath Banerjee,626983,20190310,Short Shipment,55051165,,Y
+63,1861,Hvss.receipts,626985,20190310,Short Shipment,65694356000,,N/A
+63,1861,Hvss.receipts,626986,20190310,Short Shipment,600005800,,N/A
+63,1861,Hvss.receipts,626987,20190310,Damaged part / Quality issue,BR00078019,,N/A
+C3,8289,Bhasker Ameta,627004,20190311,Over Shipment,55038493,,Y
+C3,8289,Bhasker Ameta,627005,20190311,Over Shipment,02695400,,Y
+C3,8289,Bhasker Ameta,627007,20190311,Over Shipment,56023052,,Y
+C3,8289,Bhasker Ameta,627008,20190311,Over Shipment,85727129,,Y
+C3,8289,Bhasker Ameta,627009,20190311,Over Shipment,56041624,,Y
+C3,8289,Bhasker Ameta,627010,20190311,Over Shipment,BG00451123,,Y
+C1,1861,C3 Inbound,627015,20190311,Short Shipment,31225518,,
+C1,1861,C3 Inbound,627016,20190311,Short Shipment,55156281,,
+C1,1861,Hvss.receipts,627020,20190311,Damaged part / Quality issue,66813095000,,N/A
+C1,9885,Inventory Brisbane,627021,20190311,Short Shipment,523755120,,
+C1,9885,Inventory Brisbane,627022,20190311,Over Shipment,65649403000,,
+C1,9885,Inventory Brisbane,627023,20190311,Over Shipment,55051975,,
+C1,9885,Inventory Brisbane,627025,20190311,Over Shipment,450086003,,
+C1,9885,Inventory Brisbane,627026,20190311,Over Shipment,445210857,,
+C1,9885,Inventory Brisbane,627027,20190311,Misdirected Part/Shipment,56029993,,N/A
+C1,9885,Inventory Brisbane,627029,20190311,Over Shipment,445210939,,
+C1,9885,Inventory Brisbane,627030,20190311,Short Shipment,55013153,,
+,6526,Malambo Haampeyo,627038,20190311,Short Shipment,002764-125,,N/A
+,6526,Malambo Haampeyo,627040,20190311,Short Shipment,014029-002,,N/A
+,6526,Malambo Haampeyo,627042,20190311,Short Shipment,018157-186,,N/A
+C4,6526,Malambo Haampeyo,627050,20190311,Short Shipment,400.1648-901,,
+C4,6526,Malambo Haampeyo,627055,20190311,Short Shipment,7324-9655-20,,
+37,6526,Malambo Haampeyo,627056,20190311,Short Shipment,442.8642-00,,
+C1,6526,Malambo Haampeyo,627057,20190311,Short Shipment,CP48001-RK,,
+C1,6526,Malambo Haampeyo,627058,20190311,Short Shipment,56044721,,N
+C2,6526,Malambo Haampeyo,627060,20190311,Short Shipment,69063427,,N/A
+C2,6526,Malambo Haampeyo,627062,20190311,Short Shipment,64403680,,N
+C1,6526,Malambo Haampeyo,627063,20190311,Short Shipment,88110729,,N
+C1,3081,DHL Warehouse,627089,20190311,Short Shipment,73692715,,N
+C4,6510,Maxwell Gava,627090,20190311,Short Shipment,04700497,,N/A
+C4,6510,Maxwell Gava,627092,20190311,Short Shipment,56007115,,N/A
+C4,6510,Maxwell Gava,627093,20190311,Short Shipment,56007115,,N
+C1,3081,DHL Warehouse,627104,20190311,Short Shipment,PD206050,,N
+,6526,Malambo Haampeyo,627105,20190311,Short Shipment,003935-002,,N/A
+C4,6510,Maxwell Gava,627109,20190311,Short Shipment,64597993,,N
+C3,8441,Balikpapan WH,627114,20190311,Short Shipment,55015254,,N
+C3,8441,Balikpapan WH,627116,20190311,Short Shipment,23351368,,Y
+C1,2781,Robert Gebala,627118,20190311,Short Shipment,56202447,,N
+C1,6526,Malambo Haampeyo,627150,20190311,Short Shipment,AF02400005,,Y
+C3,8289,Ragi Prakash,627155,20190311,Short Shipment,69039006,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627184,20190311,Short Shipment,86665709,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627185,20190311,Short Shipment,78402210,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627186,20190311,Short Shipment,56007379,,Y
+C1,5100,Fernando Madariaga,627197,20190311,Short Shipment,29606889,,Y
+C1,5100,Fernando Madariaga,627199,20190311,Short Shipment,AF10730001,,N
+C1,6526,Malambo Haampeyo,627206,20190311,Short Shipment,81709469,,N/A
+C1,5100,Fernando Madariaga,627210,20190311,Over Shipment,15228008,,Y
+C2,5100,Fernando Madariaga,627222,20190311,Over Shipment,021434-003,,Y
+C2,4782,Chris Wilkins,627224,20190311,Short Shipment,7516-7989-S48,,
+C1,6487,Zintle Biata,627225,20190311,Damaged part / Quality issue,04004080,,Y
+C2,4782,Chris Wilkins,627229,20190311,Over Shipment,7515-7976-S48,,
+C2,4782,Chris Wilkins,627232,20190311,Short Shipment,7516-4883-R48,,
+C2,4782,Chris Wilkins,627233,20190311,Short Shipment,7515-7976-S48,,N/A
+C2,4782,Chris Wilkins,627234,20190311,Over Shipment,7515-4883-R48,,Y
+C1,6526,Malambo Haampeyo,627237,20190311,Short Shipment,56016483,,
+C1,6487,Zintle Biata,627238,20190311,Short Shipment,56017253,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627243,20190311,Short Shipment,80878839,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627246,20190311,Short Shipment,85178379,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627248,20190311,Short Shipment,85596889,,Y
+C2,2301,Cesar Velasquez,627251,20190311,Damaged part / Quality issue,CP000822,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627253,20190311,Short Shipment,86568309,,Y
+C2,2301,Cesar Velasquez,627255,20190311,Damaged part / Quality issue,CP000821,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627256,20190311,Short Shipment,87493779,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627257,20190311,Short Shipment,87908849,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627258,20190311,Short Shipment,88114079,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627261,20190311,Short Shipment,88552539,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627264,20190311,Short Shipment,88750669,,Y
+C2,4684,Theresa Hazuda,627267,20190311,Short Shipment,1540027,,Y
+C3,2301,Cesar Velasquez,627279,20190311,Short Shipment,7776-4438-B48,,
+C1,120,Fred Ritchie C2 DHL Supply Chain,627281,20190311,Short Shipment,88780929,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627282,20190311,Short Shipment,89556219,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627284,20190311,Short Shipment,AF00100231,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),627286,20190311,Short Shipment,AF03000032,,N
+C1,120,Fred Ritchie C2 DHL Supply Chain,627287,20190311,Short Shipment,AF00500135,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627295,20190311,Short Shipment,AF01100221,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627298,20190311,Short Shipment,AF03600104,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627300,20190311,Short Shipment,AF10270012,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627301,20190311,Short Shipment,AF10400006,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627302,20190311,Short Shipment,BG00323883,,Y
+C2,4684,Leza Jones,627305,20190311,Damaged part / Quality issue,77009850,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627306,20190311,Short Shipment,BG00326359,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627307,20190311,Short Shipment,BG00433602,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627308,20190311,Short Shipment,BG01147463,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627326,20190311,Short Shipment,88182869,,Y
+C1,120,Fred Ritchie C2 DHL Supply Chain,627331,20190311,Short Shipment,88189709,,Y
+C2,4782,Lucie Daoust,627332,20190311,Over Shipment,33-48001-1/16A,,N/A
+C1,120,Fred Ritchie C2 DHL Supply Chain,627333,20190311,Short Shipment,88267049,,Y
+43,120,Fred Ritchie C2 DHL Supply Chain,627365,20190311,Over Shipment,32-5140-RMA-11S,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),627374,20190311,Damaged part / Quality issue,77022590,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),627375,20190311,Over Shipment,80759069,,N/A
+C2,4684,Antonia Pierce,627396,20190311,Short Shipment,81558479,,Y
+C1,9885,Inventory Brisbane,627400,20190311,Damaged part / Quality issue,56008602,,
+C1,9885,Inventory Brisbane,627403,20190311,Over Shipment,56008551,,
+C1,9885,Inventory Brisbane,627404,20190311,Short Shipment,04004091,,
+C1,9885,Inventory Brisbane,627405,20190311,Over Shipment,AF02000006,,
+C1,9885,Inventory Brisbane,627406,20190311,Over Shipment,AF03000124,,
+C1,9885,Inventory Brisbane,627407,20190311,Over Shipment,AF00500336,,
+C1,9885,Inventory Brisbane,627408,20190311,Over Shipment,55044377,,
+C2,5681,Luis Angel Cuevas,627411,20190311,Short Shipment,64120257,,N
+C3,8481,Freeport Warehouse Inbound,627432,20190312,Short Shipment,67006698,,N/A
+63,9885,Paul T Walker,627457,20190312,Damaged part / Quality issue,BG00549519,,N
+63,9885,Paul T Walker,627466,20190312,Misdirected Part/Shipment,65667575002,,N/A
+C1,6487,Zintle Biata,627481,20190312,Short Shipment,04910193,,N/A
+63,6487,Zintle Biata,627495,20190312,Over Shipment,A2U900-594285,,Y
+C4,6487,Suzette Bester,627502,20190312,Short Shipment,04697333,,Y
+37,1861,C3 Inbound,627510,20190312,Short Shipment,172308,,
+C4,6481,Gladys Letsitsi,627526,20190312,Short Shipment,69039949,,N
+C4,6481,Gladys Letsitsi,627532,20190312,Short Shipment,56024393,,Y
+63,6487,Zintle Biata,627547,20190312,Over Shipment,A2U900-594285,,Y
+C4,6510,linda.musarurwa,627584,20190312,Short Shipment,77007968,,N/A
+C4,6510,linda.musarurwa,627586,20190312,Short Shipment,55003400,,N
+C4,6487,Rachel Thobejane,627587,20190312,Short Shipment,33191231,,N
+C4,6510,linda.musarurwa,627590,20190312,Short Shipment,BG00255816,,N
+C4,6510,linda.musarurwa,627591,20190312,Short Shipment,55060046,,N
+C4,6510,linda.musarurwa,627592,20190312,Short Shipment,77022088,,N/A
+C4,6510,linda.musarurwa,627593,20190312,Short Shipment,55077569,,N
+C4,6510,linda.musarurwa,627596,20190312,Short Shipment,7803-7663-01,,Y
+C4,6481,Matsiliso Hilda Ramahetlane,627604,20190312,Short Shipment,7324-8637-20,,N/A
+C1,3081,DHL Warehouse,627605,20190312,Short Shipment,031829-059,,N
+C1,3081,DHL Warehouse,627606,20190312,Short Shipment,85176769,,N
+67,2300,C1Deviations,627608,20190312,Damaged part / Quality issue,BG00720266,,N
+C1,3081,DHL Warehouse,627610,20190312,Over Shipment,56027214,,N
+C1,3081,DHL Warehouse,627612,20190312,Short Shipment,56002679,,N
+C1,3081,DHL Warehouse,627614,20190312,Short Shipment,78407074,,N
+C1,3081,DHL Warehouse,627622,20190312,Over Shipment,20611688,,N
+C1,3081,DHL Warehouse,627630,20190312,Over Shipment,BG00400910,,N
+C1,6487,Zintle Biata,627649,20190312,Short Shipment,56017253,,Y
+63,6487,Zintle Biata,627650,20190312,Short Shipment,A2U130-261076,,N
+63,6487,Zintle Biata,627653,20190312,Short Shipment,A2U900-594574,,Y
+67,2300,C1Deviations,627658,20190312,Damaged part / Quality issue,05412308,,N/A
+C1,5100,Fernando Madariaga,627663,20190312,Damaged part / Quality issue,56023052,,Y
+C1,5100,Fernando Madariaga,627666,20190312,Damaged part / Quality issue,06429035,,N
+C4,2300,C1Deviations,627681,20190312,Damaged part / Quality issue,55171354,,N
+C2,5681,Roberto Burciaga,627684,20190312,Short Shipment,04700570,,N
+C2,5681,Roberto Burciaga,627695,20190312,Short Shipment,35113802,,N
+C2,2300,C1Deviations,627705,20190312,Over Shipment,404-801-041,,N
+C2,5681,Jennyfer Vera,627706,20190312,Short Shipment,BG00780675,,N/A
+C2,4782,Robert Thriault,627738,20190312,Damaged part / Quality issue,CP001060,,N
+C2,5681,MIGUEL ANGEL MENDOZA,627739,20190312,Misdirected Part/Shipment,001171-047,,N
+C2,5681,Jennyfer Vera,627743,20190312,Over Shipment,32-5140-RMA-16S,,N/A
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),627786,20190312,Short Shipment,02807600,,Y
+C2,5100,Fernando Madariaga,627799,20190312,Over Shipment,015671-001,,Y
+C1,9995,Jennifer Mossberger (C2 DHL Supply chain),627803,20190312,Damaged part / Quality issue,04910352,,Y
+C2,2301,Cesar Velasquez,627822,20190312,Damaged part / Quality issue,BH00022313,,N
+C2,2300,C1Deviations,627831,20190312,Over Shipment,012606-001,,N
+C1,5681,Pedro A. Saucedo (DHL SR02),627832,20190312,Over Shipment,404-800-867,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),627841,20190312,Damaged part / Quality issue,56006066,,N
+63,2300,C1Deviations,627843,20190312,Damaged part / Quality issue,DP440100-204,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),627852,20190312,Short Shipment,300-020-496,,N
+63,1861,Hvss.receipts,627856,20190312,Short Shipment,A2U900-690018,,N/A
+C2,5681,Pedro A. Saucedo (DHL SR02),627862,20190312,Short Shipment,44221310,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),627863,20190312,Short Shipment,BG00433559,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),627864,20190312,Short Shipment,04696991,,N
+C2,5681,MIGUEL ANGEL MENDOZA,627869,20190312,Over Shipment,001112-003,,N/A
+C2,5681,Jennyfer Vera,627871,20190312,Misdirected Part/Shipment,56020157,,N
+C3,8961,Uugantsetseg,627875,20190313,Short Shipment,56047448,,Y
+C3,8961,Uugantsetseg,627877,20190313,Short Shipment,001696-054,,Y
+C1,9885,Inventory Brisbane,627895,20190313,Misdirected Part/Shipment,06532043,,N/A
+C2,9885,Inventory Brisbane,627898,20190313,Short Shipment,15695948,,
+63,9885,Timothy Osborne,627909,20190313,Short Shipment,55100070,,N/A
+C3,9690,Rajina,627913,20190313,Short Shipment,55055874,,Y
+C3,8481,Freeport Warehouse Inbound,627915,20190313,Short Shipment,55174939,,N/A
+63,9885,Martin Rogers,627922,20190313,Short Shipment,56011846,,N/A
+C4,6487,Rachel Thobejane,627928,20190313,Short Shipment,20796808,,N/A
+,1861,Yuki Yoshioka,627930,20190313,Over Shipment,55087919,,N/A
+43,120,Leif Hedberg,627968,20190313,Short Shipment,7515-4870-R48,,N/A
+C3,8181,Nonoy Loriega,627997,20190313,Over Shipment,714-0840-65,,Y
+C3,8181,Nonoy Loriega,628002,20190313,Short Shipment,BG00516930,,Y
+C3,8289,KEDAR ROY,628004,20190313,Over Shipment,88523979,,Y
+C3,8181,Nonoy Loriega,628016,20190313,Short Shipment,56031570,,Y
+C3,8181,Nonoy Loriega,628025,20190313,Damaged part / Quality issue,55205492,,Y
+C3,8181,Nonoy Loriega,628026,20190313,Short Shipment,85516179,,Y
+C3,8181,Nonoy Loriega,628028,20190313,Over Shipment,33001698,,Y
+C2,2300,C1Deviations,628040,20190313,Short Shipment,04521003,,N
+C2,2300,C1Deviations,628045,20190313,Short Shipment,006677-234,,N
+C1,3200,Danielle Martins,628068,20190313,Misdirected Part/Shipment,26372438,,N
+C1,9500,Ibrahim Cetindag,628081,20190313,Short Shipment,55200154,,N
+C1,2301,Cesar Velasquez,628082,20190313,Short Shipment,55098713,,Y
+67,2300,C1Deviations,628094,20190313,Damaged part / Quality issue,69037875,,
+37,3200,Alejandro Teba,628098,20190313,Over Shipment,873.1012-00,,Y
+C1,5100,Fernando Madariaga,628102,20190313,Short Shipment,06429035,,Y
+C2,5681,Jennyfer Vera,628103,20190313,Misdirected Part/Shipment,04695714,,N
+C2,5681,MARCO IVAN PEREZ,628107,20190313,Short Shipment,04732073,,N
+C2,4782,Joanne Grenier,628133,20190313,Short Shipment,04697444,,Y
+C2,5100,Fernando Madariaga,628143,20190313,Damaged part / Quality issue,035635-008,,Y
+C2,4684,Lori Reed,628155,20190313,Short Shipment,001232-004,,Y
+C2,5681,Jennyfer Vera,628165,20190313,Misdirected Part/Shipment,69036542,,N
+C2,5681,Jennyfer Vera,628169,20190313,Misdirected Part/Shipment,55180870,,N/A
+C2,4684,Christopher Richmond,628179,20190313,Short Shipment,08900761,,Y
+C2,2300,C1Deviations,628188,20190313,Damaged part / Quality issue,017911-005,,N
+C1,120,Eric Dodge C2 DHL Supply,628191,20190313,Short Shipment,81500339,,Y
+C1,120,Eric Dodge C2 DHL Supply,628194,20190313,Short Shipment,81820039,,Y
+63,9885,Timothy Osborne,628199,20190313,Short Shipment,88021199,,N/A
+C2,5681,Miguel Angel Garcia,628210,20190313,Short Shipment,442.7893-01,,N
+C2,5681,Jennyfer Vera,628212,20190313,Misdirected Part/Shipment,04698250,,N
+C3,8481,Freeport Warehouse Inbound,628214,20190313,Short Shipment,AF00101232,,N/A
+C2,5681,MARCO IVAN PEREZ,628215,20190313,Short Shipment,04698633,,N
+C1,1861,C3 Inbound,628227,20190314,Short Shipment,BG00987111,,
+C2,1861,C3 Inbound,628237,20190314,Short Shipment,018338-052,,
+C2,9885,Inventory Brisbane,628240,20190314,Short Shipment,04697721,,
+C3,8289,Ragi Prakash,628246,20190314,Short Shipment,85119609,,Y
+C1,8289,Ragi Prakash,628250,20190314,Short Shipment,BG00672355,,N
+C2,6487,Buseka Nono,628265,20190314,Over Shipment,64132096,,Y
+C2,6487,Buseka Nono,628267,20190314,Over Shipment,003056-009,,Y
+37,3200,Alejandro Teba,628293,20190314,Misdirected Part/Shipment,7314-3652,,Y
+C3,8441,Balikpapan WH,628300,20190314,Short Shipment,BH00010580,,Y
+67,9885,Nita Broughton,628303,20190314,Short Shipment,81756629,,
+67,9885,Nita Broughton,628304,20190314,Short Shipment,AF02000006,,N/A
+C3,8441,Balikpapan WH,628308,20190314,Short Shipment,BG00556104,,Y
+C3,8441,Balikpapan WH,628317,20190314,Damaged part / Quality issue,001988-004,,Y
+C1,3081,Olga Gruzdeva,628318,20190314,Short Shipment,001003-073,,N
+C1,3081,Olga Gruzdeva,628319,20190314,Short Shipment,001670-002,,N
+C1,3081,Olga Gruzdeva,628320,20190314,Short Shipment,007022-001,,N
+C4,6487,Suzette Bester,628360,20190314,Damaged part / Quality issue,55199140,,N/A
+12,280,Marita Fagerstedt,628369,20190314,Short Shipment,7853-5831-20,,Y
+C1,280,Adon Mansour,628374,20190314,Short Shipment,517930,,N
+C4,6481,Hannes Esterhuizen,628380,20190314,Short Shipment,56042288,,Y
+C3,8289,Bhasker Ameta,628385,20190314,Short Shipment,56040822,,Y
+C3,8289,Bhasker Ameta,628386,20190314,Short Shipment,81558479,,Y
+C3,8289,Bhasker Ameta,628388,20190314,Short Shipment,02797970,,Y
+C3,8289,Bhasker Ameta,628390,20190314,Short Shipment,04521030,,Y
+C3,8289,Bhasker Ameta,628392,20190314,Short Shipment,04521002,,Y
+C3,8289,Bhasker Ameta,628393,20190314,Over Shipment,56024287,,Y
+C3,5100,Fernando Madariaga,628395,20190314,Short Shipment,02800740,,Y
+C3,8289,Bhasker Ameta,628397,20190314,Over Shipment,56029993,,N/A
+C1,5100,Fernando Madariaga,628400,20190314,Over Shipment,56014500,,Y
+C1,5100,Fernando Madariaga,628401,20190314,Over Shipment,88601349,,Y
+C2,4684,Jean Grant,628404,20190314,Short Shipment,452.7208-901,,N/A
+C1,120,Eric Dodge C2 DHL Supply,628405,20190314,Short Shipment,04182893,,Y
+C1,120,Eric Dodge C2 DHL Supply,628407,20190314,Short Shipment,56018371,,Y
+C1,120,Eric Dodge C2 DHL Supply,628420,20190314,Short Shipment,AF00100143,,
+C1,120,Eric Dodge C2 DHL Supply,628422,20190314,Short Shipment,AF00500776,,Y
+C1,120,Eric Dodge C2 DHL Supply,628423,20190314,Short Shipment,AF00500955,,
+C1,6487,Buseka Nono,628437,20190314,Short Shipment,55056748,,Y
+C2,6487,Buseka Nono,628439,20190314,Short Shipment,69042499,,N/A
+C2,6487,Buseka Nono,628441,20190314,Short Shipment,64123082,,N/A
+C2,6487,Buseka Nono,628442,20190314,Short Shipment,CP45290-6,,Y
+C4,6487,Henricus Van Der Ryst,628446,20190314,Damaged part / Quality issue,55022518,,Y
+C1,120,Eric Dodge C2 DHL Supply,628454,20190314,Short Shipment,AF00500331,,Y
+C1,120,Eric Dodge C2 DHL Supply,628460,20190314,Short Shipment,56050036,,Y
+C2,4684,Antonia Pierce,628461,20190314,Short Shipment,55045836,,Y
+C2,5100,Fernando Madariaga,628464,20190314,Over Shipment,BG00729292,,Y
+C2,4684,Antonia Pierce,628465,20190314,Damaged part / Quality issue,014878-002,,Y
+C2,4684,Antonia Pierce,628468,20190314,Damaged part / Quality issue,014878-002,,Y
+C2,4684,Lori Reed,628477,20190314,Short Shipment,018157-283,,Y
+C2,4684,Lori Reed,628478,20190314,Short Shipment,003849-001,,Y
+C2,4684,Lori Reed,628479,20190314,Short Shipment,020049-003,,Y
+63,1861,Hvss.receipts,628495,20190314,Damaged part / Quality issue,55027766,,N/A
+63,9885,Timothy Osborne,628506,20190314,Over Shipment,56038055,,N/A
+63,9885,David Gill,628507,20190314,Damaged part / Quality issue,019137-005,,N/A
+63,9885,Inbound Perth Hub,628510,20190314,Short Shipment,WU5025,,N/A
+63,9885,Sara Fitzpatrick,628518,20190315,Damaged part / Quality issue,65688945803,,N
+C3,8181,Nonoy Loriega,628519,20190315,Short Shipment,56207349,,Y
+C1,1861,C3 Inbound,628524,20190315,Short Shipment,80024509,,
+C2,1861,C3 Inbound,628536,20190315,Short Shipment,003828-003,,
+C1,9885,Inventory Brisbane,628548,20190315,Short Shipment,85681129,,
+C1,9885,Inventory Brisbane,628550,20190315,Short Shipment,56038855,,
+C3,8289,Sachin Kumar,628556,20190315,Damaged part / Quality issue,56023052,,N
+C3,8289,Sachin Kumar,628557,20190315,Short Shipment,AF03000031,,Y
+C3,8289,Sachin Kumar,628559,20190315,Short Shipment,56017850,,Y
+C3,8289,Sachin Kumar,628560,20190315,Short Shipment,56008025,,Y
+C3,8289,Sachin Kumar,628561,20190315,Short Shipment,55003400,,Y
+C1,3081,Olga Gruzdeva,628562,20190315,Damaged part / Quality issue,55170784,,N
+C4,6510,Muchineripi Mutandare,628565,20190315,Short Shipment,BG00478533,,N
+C4,6510,Muchineripi Mutandare,628566,20190315,Short Shipment,67014006,,N/A
+C3,8181,Nonoy Loriega,628584,20190315,Short Shipment,55066836,,Y
+C3,8289,Sachin Kumar,628585,20190315,Short Shipment,56002244,,Y
+C1,280,Goran Sonnerstrand,628595,20190315,Damaged part / Quality issue,BG00822714,,N
+C3,8289,Somenath Banerjee,628619,20190315,Over Shipment,85178789,,Y
+C2,6526,Malambo Haampeyo,628620,20190315,Short Shipment,021892-052,,Y
+37,3200,Margarita De Diego,628636,20190315,Short Shipment,7516-4889-S48,,Y
+C1,120,Eric Dodge C2 DHL Supply,628640,20190315,Short Shipment,70390846,,Y
+C2,6526,Malambo Haampeyo,628654,20190315,Short Shipment,04700339,,Y
+C3,8289,Ragi Prakash,628657,20190315,Short Shipment,504134,,Y
+C1,120,Eric Dodge C2 DHL Supply,628663,20190315,Short Shipment,55023117,,Y
+C1,120,Eric Dodge C2 DHL Supply,628664,20190315,Short Shipment,56013313,,Y
+C1,120,Eric Dodge C2 DHL Supply,628666,20190315,Short Shipment,85178249,,Y
+C4,6487,Henricus Van Der Ryst,628667,20190315,Damaged part / Quality issue,10600638,,Y
+C3,8289,KEDAR ROY,628677,20190315,Over Shipment,86779089,,Y
+C1,120,Eric Dodge C2 DHL Supply,628688,20190315,Short Shipment,56018329,,
+C1,120,Eric Dodge C2 DHL Supply,628694,20190315,Short Shipment,55027767,,Y
+C1,120,Eric Dodge C2 DHL Supply,628723,20190315,Short Shipment,08001686,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),628725,20190315,Short Shipment,00824980,,N
+C1,120,Eric Dodge C2 DHL Supply,628727,20190315,Damaged part / Quality issue,55163724,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),628738,20190315,Over Shipment,04697157,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),628743,20190315,Short Shipment,AF00100641,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),628744,20190315,Short Shipment,06544971,,N
+37,2301,Cesar Velasquez,628758,20190315,Damaged part / Quality issue,825.0182-00,,Y
+C1,1861,C3 Inbound,628779,20190316,Short Shipment,61447799,,
+C1,1861,C3 Inbound,628780,20190316,Short Shipment,55011532,,
+C1,1861,C3 Inbound,628781,20190316,Short Shipment,55152205,,
+C4,6510,Collin Chimhande,628785,20190316,Short Shipment,BT00016118,,N
+C3,8289,MANI SEKAR,628786,20190316,Short Shipment,400.1575-901,,Y
+C3,8289,KEDAR ROY,628789,20190316,Over Shipment,88423429,,Y
+C3,8289,KEDAR ROY,628790,20190316,Over Shipment,80759069,,Y
+C3,8289,KEDAR ROY,628791,20190316,Short Shipment,AF02300007,,N
+C3,8289,KEDAR ROY,628792,20190316,Damaged part / Quality issue,AF02300007,,N
+C2,5681,Rafael Vilches,628797,20190316,Short Shipment,70821228,,N
+C3,8289,Bhasker Ameta,628806,20190317,Damaged part / Quality issue,56045682,,Y
+C3,8289,Somenath Banerjee,628807,20190317,Short Shipment,15574978,,N
+C3,8289,Somenath Banerjee,628809,20190317,Short Shipment,88601219,,N
+C3,8289,Somenath Banerjee,628810,20190317,Short Shipment,AF00500392,,N
+C3,8289,Somenath Banerjee,628811,20190317,Short Shipment,29503270,,Y
+C1,9885,Inventory Brisbane,628812,20190317,Short Shipment,AF02900009,,
+C2,9885,Inventory Brisbane,628814,20190317,Short Shipment,BG00825417,,
+C2,9885,Inventory Brisbane,628815,20190317,Short Shipment,CM48024-350-214,,
+C2,9885,Inventory Brisbane,628816,20190317,Short Shipment,018180-057,,
+60,9885,Fiona Hack,628840,20190318,Short Shipment,7379-8718-26,,N
+C1,9885,Martin Rogers,628856,20190318,Misdirected Part/Shipment,BG00195603,,N/A
+C4,2300,C1Deviations,628879,20190318,Over Shipment,55017817,,
+C2,8441,Balikpapan WH,628902,20190318,Short Shipment,006677-519,,N
+C1,1861,C3 Inbound,628907,20190318,Short Shipment,15420048,,
+C1,8181,Nonoy Loriega,628911,20190318,Short Shipment,AF00100324,,Y
+C1,3081,DHL Warehouse,628915,20190318,Short Shipment,55202276,,N
+C1,3081,DHL Warehouse,628916,20190318,Short Shipment,55027767,,N
+C1,3081,DHL Warehouse,628917,20190318,Short Shipment,AF10140027,,N
+C4,6481,Matsiliso Hilda Ramahetlane,628920,20190318,Over Shipment,7324-8637-20,,N/A
+C4,6487,Mishack Magoa,628928,20190318,Over Shipment,08000203,,Y
+C2,2300,C1Deviations,628941,20190318,Over Shipment,009868-214,,N
+C1,6635,Rachel Lukamisa,628958,20190318,Short Shipment,55153319,,N
+C1,120,Eric Dodge C2 DHL Supply,628960,20190318,Short Shipment,77017196,,Y
+C1,120,Eric Dodge C2 DHL Supply,628961,20190318,Short Shipment,87491909,,Y
+63,120,Eric Dodge C2 DHL Supply,628972,20190318,Misdirected Part/Shipment,A2U130-162225,,N/A
+C2,4684,Tiffany Juggins,629005,20190318,Short Shipment,30191589,,N/A
+37,2083,Severine Ghalem-Malric,629011,20190318,Over Shipment,863.0058-00,,Y
+C2,5100,Fernando Madariaga,629036,20190318,Short Shipment,04696460,,Y
+C2,5100,Fernando Madariaga,629037,20190318,Short Shipment,04700673,,N
+C2,4684,Candy Shields,629092,20190318,Damaged part / Quality issue,BG00371970,,Y
+,9885,Sara Fitzpatrick,629127,20190318,Short Shipment,BU00001124,,
+63,9885,Sara Fitzpatrick,629128,20190318,Short Shipment,001232-072,,N/A
+C1,9885,Inbound Perth Hub,629130,20190318,Short Shipment,80091579,,N/A
+C1,9885,Inbound Perth Hub,629131,20190318,Short Shipment,88126839,,N/A
+C1,9885,Inbound Perth Hub,629134,20190319,Short Shipment,20795108,,N/A
+C1,9885,Inbound Perth Hub,629135,20190319,Short Shipment,20793908,,N/A
+C1,9885,Inbound Perth Hub,629136,20190319,Short Shipment,29504170,,N/A
+C1,9885,Inbound Perth Hub,629137,20190319,Short Shipment,BG00682397,,N/A
+C1,9885,Inbound Perth Hub,629138,20190319,Short Shipment,AF00101655,,N/A
+C1,9885,Inbound Perth Hub,629139,20190319,Short Shipment,AF00101342,,N/A
+C1,9885,Inbound Perth Hub,629140,20190319,Short Shipment,BG00300481,,N/A
+C1,9885,Inbound Perth Hub,629141,20190319,Short Shipment,BG00212574,,N/A
+C1,9885,Inbound Perth Hub,629143,20190319,Short Shipment,BG00780957,,N/A
+C1,9885,Inbound Perth Hub,629144,20190319,Short Shipment,59206525,,N/A
+C1,9885,Inbound Perth Hub,629145,20190319,Short Shipment,85387979,,N/A
+C3,8481,Freeport Warehouse Inbound,629152,20190319,Over Shipment,014853-004,,N/A
+C1,8986,Amy Zheng,629157,20190319,Short Shipment,04182200,,Y
+C4,6526,Malambo Haampeyo,629189,20190319,Short Shipment,7853-3727-20,,N/A
+C4,6526,Malambo Haampeyo,629190,20190319,Short Shipment,7853-5118-20,,N/A
+C3,8481,Freeport Warehouse Inbound,629196,20190319,Short Shipment,906.0502-00,,N/A
+C3,8481,Freeport Warehouse Inbound,629197,20190319,Short Shipment,32106058,,N
+C3,8961,Uugantsetseg,629201,20190319,Short Shipment,56024620,,N/A
+37,8289,Ragi Prakash,629203,20190319,Short Shipment,868.0790-00,,Y
+C3,8961,Uugantsetseg,629205,20190319,Short Shipment,29606471,,N/A
+C3,8961,Uugantsetseg,629206,20190319,Over Shipment,56036356,,
+C3,8961,Uugantsetseg,629207,20190319,Over Shipment,56036984,,
+C3,8961,Uugantsetseg,629208,20190319,Short Shipment,55051524,,N/A
+C3,8961,Uugantsetseg,629210,20190319,Short Shipment,56000218,,N/A
+C3,8961,Uugantsetseg,629211,20190319,Short Shipment,55038493,,N/A
+C3,8961,Uugantsetseg,629212,20190319,Short Shipment,04004081,,N/A
+C3,8961,Uugantsetseg,629213,20190319,Short Shipment,56042841,,N/A
+C3,8961,Uugantsetseg,629215,20190319,Short Shipment,AF00100637,,N/A
+C3,8961,Uugantsetseg,629216,20190319,Short Shipment,56008551,,N/A
+C3,8961,Uugantsetseg,629224,20190319,Damaged part / Quality issue,55004226,,Y
+C1,1861,Michelle Cummins,629229,20190319,Short Shipment,56025110,,N/A
+67,9885,Nita Broughton,629251,20190319,Short Shipment,88737269,,
+C1,6487,Buseka Nono,629252,20190319,Over Shipment,AF00100765,,Y
+67,9885,Nita Broughton,629254,20190319,Short Shipment,88174449,,
+C1,3200,Marta Raposo,629266,20190319,Over Shipment,65660311770,,N/A
+C4,6481,Keneilwe Mosadi,629269,20190319,Short Shipment,77010210,,Y
+C2,120,Leif Hedberg,629278,20190319,Short Shipment,7870-6131-11,,
+C1,9995,C2 Inbound Deviations,629318,20190319,Short Shipment,620061411,,Y
+C4,6481,Gladys Letsitsi,629350,20190319,Short Shipment,BU00010144,,N
+66,6481,Simangele Mkhize,629352,20190319,Short Shipment,BG00714754,,N/A
+C4,6481,Simangele Mkhize,629355,20190319,Short Shipment,74031875,,N
+C1,9995,C2 Inbound Deviations,629366,20190319,Over Shipment,81344929,,Y
+C4,6526,Malambo Haampeyo,629367,20190319,Short Shipment,29-68017A,,N
+C1,6526,Malambo Haampeyo,629368,20190319,Short Shipment,56043716,,
+C2,4684,Theresa Hazuda,629379,20190319,Damaged part / Quality issue,66811877000,,Y
+C2,5681,Yishar Galindo,629385,20190319,Damaged part / Quality issue,55052045,,N
+C2,4684,Suzanne Mendez,629386,20190319,Misdirected Part/Shipment,13512373,,Y
+C1,5100,Fernando Madariaga,629429,20190319,Over Shipment,04762150,,Y
+C2,5681,Luis Daniel Hernandez (DHL SR02),629449,20190319,Damaged part / Quality issue,56017425,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),629455,20190319,Damaged part / Quality issue,BG00707749,,N
+C2,5681,MARCO IVAN PEREZ,629495,20190319,Short Shipment,04111204,,N
+C2,5681,Jennyfer Vera,629509,20190320,Misdirected Part/Shipment,796-3800,,N/A
+63,1861,Hvss.receipts,629516,20190320,Short Shipment,65653481800,,N/A
+C1,1861,C3 Inbound,629518,20190320,Short Shipment,55173798,,
+C3,9690,Nurol Hijjah,629529,20190320,Short Shipment,88423429,,N/A
+63,9885,Paul T Walker,629533,20190320,Short Shipment,33001698,,N
+C3,8181,Nonoy Loriega,629538,20190320,Short Shipment,56049815,,N/A
+C3,8181,Nonoy Loriega,629540,20190320,Over Shipment,BG00853654,,N/A
+C2,6526,Malambo Haampeyo,629543,20190320,Short Shipment,001554-157,,
+C1,9885,Inbound Perth Hub,629544,20190320,Short Shipment,56027623,,N/A
+C1,8289,Ragi Prakash,629546,20190320,Short Shipment,81906209,,N/A
+C3,9885,Inbound Perth Hub,629547,20190320,Short Shipment,62-054R-510HFDE,,N/A
+C1,6526,Malambo Haampeyo,629548,20190320,Short Shipment,56031535,,
+C1,9885,Inbound Perth Hub,629549,20190320,Short Shipment,26419168,,N/A
+C1,9885,Inbound Perth Hub,629550,20190320,Over Shipment,56206790,,N/A
+C2,2300,C1Deviations,629568,20190320,Over Shipment,016879-003,,N
+C1,1861,C3 Inbound,629595,20190320,Short Shipment,56019176,,
+C1,1861,C3 Inbound,629597,20190320,Short Shipment,71194833,,
+C1,3081,DHL Warehouse,629622,20190320,Short Shipment,56040822,,N
+C1,3081,DHL Warehouse,629623,20190320,Short Shipment,55071773,,N
+C1,3081,DHL Warehouse,629624,20190320,Over Shipment,81621029,,N
+C2,9885,Inbound Perth Hub,629637,20190320,Short Shipment,CP001953,,N/A
+C4,2300,C1Deviations,629647,20190320,Damaged part / Quality issue,515104,,N
+C1,6825,Rebecca Naa Aryee,629648,20190320,Short Shipment,15251148,,N
+37,2900,Anca Trica,629655,20190320,Short Shipment,442.7230-02,,
+12,9995,C2 Inbound Deviations,629657,20190320,Short Shipment,7732-4437C-S48,,
+C1,9995,C2 Inbound Deviations,629667,20190320,Short Shipment,55027766,,Y
+C1,9995,C2 Inbound Deviations,629669,20190320,Short Shipment,AF00500848,,Y
+C1,9995,C2 Inbound Deviations,629681,20190320,Short Shipment,70801206,,Y
+C1,9995,C2 Inbound Deviations,629682,20190320,Short Shipment,77006816,,Y
+C1,9995,C2 Inbound Deviations,629684,20190320,Short Shipment,77007209,,Y
+C1,9995,C2 Inbound Deviations,629686,20190320,Short Shipment,BG00785048,,Y
+C1,9995,C2 Inbound Deviations,629687,20190320,Short Shipment,26438771,,Y
+C3,8289,Ragi Prakash,629689,20190320,Short Shipment,7770-5433-B48,,N/A
+C3,8289,Ragi Prakash,629693,20190320,Short Shipment,PD22912Q,,N/A
+C1,3081,Olga Gruzdeva,629705,20190320,Short Shipment,20782438,,N
+C1,3081,Olga Gruzdeva,629748,20190320,Short Shipment,BG00584710,,N
+C1,3081,Olga Gruzdeva,629750,20190320,Short Shipment,007039-001,,N
+C2,4684,Tiffany Juggins,629782,20190320,Short Shipment,003837-105,,N/A
+63,2300,C1Deviations,629791,20190320,Damaged part / Quality issue,A2U900-552028,,N
+C4,2300,C1Deviations,629796,20190320,Damaged part / Quality issue,66809786050,,N
+C2,4782,Brenda Radakovich,629797,20190320,Short Shipment,02798310,,N
+C2,4782,Brenda Radakovich,629798,20190320,Short Shipment,09373664,,Y
+C2,4782,Brenda Radakovich,629799,20190320,Short Shipment,61306108,,Y
+C2,4782,Brenda Radakovich,629800,20190320,Short Shipment,04700462,,N
+C2,4782,Brenda Radakovich,629801,20190320,Short Shipment,81078769,,N
+C2,4782,Brenda Radakovich,629802,20190320,Short Shipment,55020130,,N
+C2,4782,Brenda Radakovich,629803,20190320,Short Shipment,26312908,,N
+C2,4782,Brenda Radakovich,629804,20190320,Short Shipment,56207370,,N
+C2,4684,Antonia Pierce,629807,20190320,Damaged part / Quality issue,014878-002,,N/A
+C1,5100,Fernando Madariaga,629825,20190320,Short Shipment,55170952,,Y
+C2,4684,Elaine McCrary,629829,20190320,Misdirected Part/Shipment,7306-7715-15,,
+C2,5681,Yusdivia Avila,629830,20190320,Over Shipment,56039580,,N/A
+C2,2300,C1Deviations,629835,20190320,Damaged part / Quality issue,023211-059,,N
+C2,2300,C1Deviations,629836,20190320,Damaged part / Quality issue,033461-060,,N
+C2,2300,C1Deviations,629842,20190320,Short Shipment,018671-008,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),629846,20190320,Damaged part / Quality issue,56006066,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),629848,20190320,Short Shipment,56045594,,N
+C1,9885,Inventory Brisbane,629855,20190320,Over Shipment,AF02900009,,
+C1,9885,Inventory Brisbane,629862,20190320,Over Shipment,55014865,,
+C1,9885,Inventory Brisbane,629868,20190320,Short Shipment,AF25010524,,
+C2,120,Carl Acheson,629874,20190320,Short Shipment,7876-6120-11,,
+C2,5681,Pedro A. Saucedo (DHL SR02),629876,20190321,Short Shipment,56030210,,N
+C1,9885,Inventory Brisbane,629881,20190321,Damaged part / Quality issue,55052071,,
+C1,1861,C3 Inbound,629886,20190321,Short Shipment,80665869,,
+63,9885,Sara Fitzpatrick,629889,20190321,Damaged part / Quality issue,65678602000,,N/A
+C1,9885,Inbound Perth Hub,629890,20190321,Damaged part / Quality issue,80312339,,N/A
+63,9885,Sara Fitzpatrick,629892,20190321,Damaged part / Quality issue,65662412639,,N/A
+63,9885,Sara Fitzpatrick,629914,20190321,Short Shipment,A2U220-318001,,
+63,2300,C1Deviations,629917,20190321,Damaged part / Quality issue,DP350122,,N
+C1,1000,Merja Pehula,629923,20190321,Short Shipment,88561019,,N
+C1,1861,C3 Inbound,629924,20190321,Short Shipment,55031364,,
+C1,1861,C3 Inbound,629926,20190321,Short Shipment,AF00100140,,
+C2,6526,Titus Sikamikami,629933,20190321,Short Shipment,CX014727,,N/A
+C1,1861,C3 Inbound,629935,20190321,Short Shipment,502613,,
+63,2300,C1Deviations,629936,20190321,Damaged part / Quality issue,DP350122,,N
+63,2300,C1Deviations,629943,20190321,Damaged part / Quality issue,DP350120,,N
+63,9885,Maria Sadlier,629956,20190321,Short Shipment,BG01128351,,N/A
+C1,1861,C3 Inbound,629970,20190321,Short Shipment,56011326,,
+C2,2300,C1Deviations,629995,20190321,Damaged part / Quality issue,55055874,,N
+C1,1161,Matti Juvonen,629998,20190321,Short Shipment,06743260,,N
+C1,9995,C2 Inbound Deviations,630011,20190321,Short Shipment,445210843,,
+C1,9995,C2 Inbound Deviations,630014,20190321,Short Shipment,55011843,,
+C1,9995,C2 Inbound Deviations,630015,20190321,Short Shipment,65639642800,,
+37,9995,C2 Inbound Deviations,630016,20190321,Short Shipment,863.0032-00,,
+C2,5100,Fernando Madariaga,630018,20190321,Short Shipment,022416-003,,
+C1,9995,C2 Inbound Deviations,630021,20190321,Short Shipment,73930163,,
+C4,2300,C1Deviations,630023,20190321,Short Shipment,515104,,
+C4,2300,C1Deviations,630024,20190321,Short Shipment,BG00220914,,N
+C2,4684,Margaret Sampson,630035,20190321,Over Shipment,77006814,,
+C2,4684,Theresa Hazuda,630038,20190321,Short Shipment,66811147800,,
+C2,4684,Theresa Hazuda,630040,20190321,Short Shipment,66809115000,,
+C2,4684,Theresa Hazuda,630043,20190321,Short Shipment,65644851000,,
+C1,9995,C2 Inbound Deviations,630062,20190321,Short Shipment,20892628,,Y
+C1,9995,C2 Inbound Deviations,630077,20190321,Short Shipment,85160659,,
+C1,9995,C2 Inbound Deviations,630078,20190321,Short Shipment,85160659,,
+C1,9995,C2 Inbound Deviations,630079,20190321,Short Shipment,85160659,,
+C2,4684,Suzanne Mendez,630095,20190321,Damaged part / Quality issue,007725-490,,Y
+C1,9995,C2 Inbound Deviations,630124,20190321,Short Shipment,AF20010038,,Y
+C2,5681,Pedro A. Saucedo (DHL SR02),630125,20190321,Short Shipment,08002216,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),630127,20190321,Short Shipment,29613225,,
+C1,9995,C2 Inbound Deviations,630129,20190321,Short Shipment,29418140,,Y
+C2,4684,Candy Shields,630133,20190321,Short Shipment,7732-5345F-R48,,
+C1,9995,C2 Inbound Deviations,630140,20190321,Short Shipment,56021062,,Y
+C2,4684,Cathy Kempen,630142,20190321,Over Shipment,442.8804-01,,
+C1,9995,C2 Inbound Deviations,630167,20190321,Over Shipment,06429019,,Y
+C1,9995,C2 Inbound Deviations,630186,20190321,Over Shipment,55013323,,Y
+C1,9995,C2 Inbound Deviations,630200,20190321,Short Shipment,45368998,,Y
+C1,9995,C2 Inbound Deviations,630208,20190321,Over Shipment,56008551,,Y
+C2,5681,Jennyfer Vera,630210,20190321,Misdirected Part/Shipment,56021061,,
+C2,8441,Balikpapan WH,630243,20190322,Short Shipment,001330-368,,
+C2,5681,Pedro A. Saucedo (DHL SR02),630248,20190322,Short Shipment,55170648,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),630249,20190322,Short Shipment,70821228,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),630250,20190322,Short Shipment,55064386,,N
+C2,5681,Pedro A. Saucedo (DHL SR02),630251,20190322,Short Shipment,55025293,,
+C1,1861,Hvss.receipts,630266,20190322,Short Shipment,66807338000,,N/A
+C3,8481,Freeport Warehouse Inbound,630307,20190322,Short Shipment,153246,,N/A
+C1,8881,Ayu Taniguchi,630312,20190322,Damaged part / Quality issue,86711049,,
+C2,5681,Manuel Meza (DHL SR02),630316,20190322,Damaged part / Quality issue,55027766,,N
+C4,6510,Nico Marara,630330,20190322,Short Shipment,78401935,,N/A
+C3,8441,Balikpapan WH,630337,20190322,Short Shipment,023063-054,,N/A
+C3,8441,Balikpapan WH,630344,20190322,Over Shipment,80759069,,
+C3,8441,Balikpapan WH,630351,20190322,Short Shipment,016153-320,,N/A
+C2,5681,Manuel Meza (DHL SR02),630352,20190322,Short Shipment,AF10140001,,N
+C2,8289,Sachin Kumar,630367,20190322,Misdirected Part/Shipment,CX017759,,N/A
+C2,8289,Sachin Kumar,630370,20190322,Misdirected Part/Shipment,04521030,,N/A
+C3,8289,Somenath Banerjee,630373,20190322,Short Shipment,20841018,,N/A
+C1,1281,Ivar Johnson,630374,20190322,Damaged part / Quality issue,55042540,,
+C2,8289,Sachin Kumar,630375,20190322,Misdirected Part/Shipment,04697115,,N/A
+C2,2300,C1Deviations,630383,20190322,Over Shipment,04700339,,
+C2,2300,C1Deviations,630401,20190322,Short Shipment,04699717,,
+63,2300,C1Deviations,630403,20190322,Short Shipment,SBS035,,
+37,3200,Danielle Martins,630417,20190322,Damaged part / Quality issue,7870-1188-11,,
+37,3200,Danielle Martins,630419,20190322,Damaged part / Quality issue,7870-1172-11,,
+C1,9995,C2 Inbound Deviations,630420,20190322,Short Shipment,04000041,,Y
+C1,9995,C2 Inbound Deviations,630422,20190322,Short Shipment,06429030,,
+C1,9995,C2 Inbound Deviations,630423,20190322,Short Shipment,06535048,,
+63,6487,Buseka Nono,630424,20190322,Over Shipment,A2U130-194385,,
+C1,9995,C2 Inbound Deviations,630429,20190322,Short Shipment,73692731,,
+C1,9995,C2 Inbound Deviations,630430,20190322,Short Shipment,55050828,,Y
+37,9995,C2 Inbound Deviations,630432,20190322,Short Shipment,891.2035-901,,
+C1,9995,C2 Inbound Deviations,630441,20190322,Short Shipment,521141603,,
+37,1000,Merja Pehula,630443,20190322,Short Shipment,853.0118-00,,
+C2,990,Kenneth Tverå,630449,20190322,Short Shipment,442.8099-90,,
+C2,4684,Theresa Hazuda,630464,20190322,Damaged part / Quality issue,66812485000,,
+C1,7030,Kribe Diarra,630472,20190322,Short Shipment,88664909,,
+C1,9995,C2 Inbound Deviations,630480,20190322,Over Shipment,56018329,,
+C1,9995,C2 Inbound Deviations,630493,20190322,Short Shipment,77011202,,
+C1,9995,C2 Inbound Deviations,630498,20190322,Short Shipment,AF01900009,,
+C2,5681,Jennyfer Vera,630509,20190322,Misdirected Part/Shipment,70450636,,
+C4,2300,C1Deviations,630519,20190322,Damaged part / Quality issue,53760047,,
+C1,9995,C2 Inbound Deviations,630523,20190322,Short Shipment,BG00690432,,
+C2,5681,Pedro A. Saucedo (DHL SR02),630525,20190322,Short Shipment,56203548,,
+C2,5681,Pedro A. Saucedo (DHL SR02),630526,20190322,Short Shipment,64403992,,
+C2,5100,Fernando Madariaga,630533,20190322,Short Shipment,003500-001,,
+C2,5681,Yishar Galindo,630551,20190322,Over Shipment,7304-7531-01,,
+C2,5681,Pedro A. Saucedo (DHL SR02),630562,20190322,Misdirected Part/Shipment,034884-001,,
+C3,8481,Freeport Warehouse Inbound,630596,20190323,Short Shipment,55040993,,N/A
+C1,6526,Titus Sikamikami,630604,20190323,Over Shipment,56041085,,
+C1,6487,Buseka Nono,630605,20190323,Damaged part / Quality issue,BG00865151,,
+C2,5681,Manuel Meza (DHL SR02),630606,20190323,Over Shipment,33001698,,
+C1,6487,Buseka Nono,630607,20190323,Over Shipment,AF01400015,,
+C1,6487,Buseka Nono,630608,20190323,Short Shipment,35113802,,
+C2,5681,Roberto Burciaga,630610,20190323,Damaged part / Quality issue,55046126,,
+C2,5681,Roberto Burciaga,630611,20190323,Damaged part / Quality issue,56002244,,
+C2,5681,Roberto Burciaga,630612,20190323,Short Shipment,26500607,,
+C1,5201,Almacen Colombia,630614,20190323,Short Shipment,004754-001,,
+C1,5201,Almacen Colombia,630615,20190323,Over Shipment,70880191,,
+C1,5201,Almacen Colombia,630616,20190323,Over Shipment,506708,,
+C3,8289,Bhasker Ameta,630624,20190324,Short Shipment,04790080,,
+C3,8289,Somenath Banerjee,630627,20190324,Short Shipment,56024393,,
+C3,8289,Somenath Banerjee,630628,20190324,Over Shipment,04004079,,
+C3,8289,Somenath Banerjee,630629,20190324,Short Shipment,442.7913-01,,
+C3,8289,Somenath Banerjee,630633,20190324,Short Shipment,04697782,,
+C3,8289,Somenath Banerjee,630635,20190324,Short Shipment,04521002,,
+C3,8289,Somenath Banerjee,630636,20190324,Over Shipment,20782438,,

@@ -1,0 +1,523 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C2,5681,Fernanda Diaz (DHL SR02),746398,20200701,Over Shipment,73411390,,Y
+C2,5681,Fernanda Diaz (DHL SR02),746400,20200701,Short Shipment,71407134,,Y
+C2,5681,Fernanda Diaz (DHL SR02),746401,20200701,Short Shipment,AF00100526,,Y
+C2,5681,Fernanda Diaz (DHL SR02),746402,20200701,Short Shipment,70450680,,Y
+6A,9885,Grace Sebastian,746403,20200701,Short Shipment,55028279,,
+C2,5681,Fernanda Diaz (DHL SR02),746404,20200701,Short Shipment,77012898,,Y
+63,1861,Hvss.receipts,746406,20200701,Short Shipment,A2U220-254089,,
+63,1861,Hvss.receipts,746407,20200701,Short Shipment,661366082,,
+63,1861,Hvss.receipts,746408,20200701,Short Shipment,64802577,,
+63,1861,Hvss.receipts,746409,20200701,Short Shipment,56029271,,
+63,1861,Hvss.receipts,746410,20200701,Short Shipment,09260298,,
+63,1861,Hvss.receipts,746411,20200701,Short Shipment,BG00530267,,
+63,1861,Hvss.receipts,746412,20200701,Short Shipment,E2HSM250,,N/A
+63,1861,Hvss.receipts,746413,20200701,Short Shipment,A2U900-471093,,
+63,1861,Hvss.receipts,746414,20200701,Short Shipment,841.0019-00,,
+63,1861,Hvss.receipts,746415,20200701,Short Shipment,PE063021,,N/A
+63,1861,Hvss.receipts,746416,20200701,Short Shipment,BU00008246,,
+63,1861,Hvss.receipts,746417,20200701,Short Shipment,627180253,,N/A
+63,1861,Hvss.receipts,746418,20200701,Short Shipment,69041129,,
+63,1861,Hvss.receipts,746422,20200701,Short Shipment,BS00067313,,N/A
+63,1861,Hvss.receipts,746423,20200701,Short Shipment,BS00121572,,N/A
+67,120,Phil Zuidema,746426,20200701,Damaged part / Quality issue,32302448,,N/A
+C1,9885,Inventory Brisbane,746439,20200701,Over Shipment,BG01265638,,
+63,9885,Mt Isa Warehouse,746448,20200701,Short Shipment,55077074,,N/A
+63,9885,Mt Isa Warehouse,746450,20200701,Short Shipment,81873539,,N/A
+63,9885,Paul T Walker,746476,20200701,Short Shipment,BG01076310,,N/A
+63,9885,Paul T Walker,746484,20200701,Short Shipment,08900778,,N/A
+63,9885,Paul T Walker,746486,20200701,Short Shipment,90520,,N/A
+67,9885,Nita Broughton,746493,20200701,Short Shipment,BG00802449,,
+C2,2300,C1Deviations,746510,20200701,Short Shipment,CX001199,,N
+C1,1861,C3 Inbound,746523,20200701,Short Shipment,88067849,,
+C1,1161,Susanne Niskanen,746532,20200701,Short Shipment,56037946,,N
+C4,6481,Gladys Tsotetsi,746533,20200701,Short Shipment,55014896,,Y
+63,8990,Jacky chen,746540,20200701,Damaged part / Quality issue,A2U900-411033,,N/A
+67,6487,Buseka Nono,746563,20200701,Damaged part / Quality issue,SS950162,,Y
+67,6487,Buseka Nono,746566,20200701,Damaged part / Quality issue,BI00016204,,Y
+C1,6487,Buseka Nono,746568,20200701,Short Shipment,73411131,,N
+C1,2781,Tomasz Copija,746569,20200701,Short Shipment,880220150,,N/A
+67,1861,Dermot Carty,746576,20200701,Short Shipment,BG00633898,,N
+C3,8181,Nonoy Loriega,746579,20200701,Short Shipment,56000679,,Y
+C2,1861,Dermot Carty,746581,20200701,Short Shipment,015807-004,,N/A
+C2,1861,Dermot Carty,746585,20200701,Short Shipment,016698-061,,N
+C3,8289,Somenath Banerjee,746592,20200701,Damaged part / Quality issue,08001150,,N
+38,9995,C2 Inbound Deviations,746598,20200701,Short Shipment,1510713,,Y
+C4,6481,Willem Huyzers,746602,20200701,Short Shipment,77010798,,Y
+38,9995,C2 Inbound Deviations,746603,20200701,Damaged part / Quality issue,1510714,,Y
+C4,6481,Willem Huyzers,746605,20200701,Over Shipment,70450663,,Y
+C1,3070,Helen.Tumarkina,746606,20200701,Short Shipment,56042522,,N/A
+C2,2300,C1Deviations,746622,20200701,Short Shipment,013166-001,,N/A
+63,6487,Buseka Nono,746627,20200701,Short Shipment,915-26018,,
+C4,6510,Lillian Muzimba,746628,20200701,Short Shipment,56029525,,N/A
+C4,6510,Lillian Muzimba,746629,20200701,Short Shipment,56029525,,N/A
+C1,5800,Warehouse Lima,746634,20200701,Damaged part / Quality issue,70900057,,Y
+C2,1861,Dermot Carty,746637,20200701,Short Shipment,016310-002,,N
+C3,8289,Somenath Banerjee,746706,20200701,Damaged part / Quality issue,56013637,,N
+C2,5100,Roberto Manriquez,746707,20200701,Short Shipment,005099-001,,N
+C1,9995,C2 Inbound Deviations,746711,20200701,Short Shipment,55051953,,
+37,9995,C2 Inbound Deviations,746712,20200701,Short Shipment,831.0016-00,,
+C1,2083,Severine Ghalem-Malric,746713,20200701,Over Shipment,001528-003,,N/A
+C2,5681,Rafael Vilches,746754,20200701,Short Shipment,BG00837519,,Y
+C2,5681,Fernanda Diaz (DHL SR02),746779,20200701,Short Shipment,04698911,,Y
+C1,9885,Inventory Brisbane,746784,20200701,Over Shipment,86631809,,
+63,1861,Hvss.receipts,746787,20200701,Over Shipment,432399004,,
+63,120,Michelle Buckley,746790,20200701,Short Shipment,019028-071,,
+63,120,Michelle Buckley,746791,20200701,Short Shipment,A2U220-254088,,
+63,120,Michelle Buckley,746792,20200701,Short Shipment,A2U913-694007,,
+67,9885,Brian Rushmore,746798,20200701,Short Shipment,56030480,,
+63,9885,Paul T Walker,746827,20200702,Short Shipment,56210437,,N/A
+63,9885,Peter Cramp,746831,20200702,Short Shipment,87491629,,N
+C3,8441,Balikpapan WH,746832,20200702,Short Shipment,56040067,,Y
+C3,8441,Balikpapan WH,746833,20200702,Short Shipment,81255399,,Y
+C3,8441,Balikpapan WH,746835,20200702,Short Shipment,26509688,,Y
+C3,8441,Balikpapan WH,746839,20200702,Short Shipment,32340568,,Y
+C3,8441,Balikpapan WH,746840,20200702,Short Shipment,20790608,,Y
+C3,8441,Balikpapan WH,746842,20200702,Short Shipment,81255399,,Y
+C3,8441,Balikpapan WH,746843,20200702,Short Shipment,26509688,,Y
+63,9885,Mt Isa Warehouse,746844,20200702,Short Shipment,86576579,,
+67,2300,C1Deviations,746846,20200702,Short Shipment,55187754,,N/A
+C2,2300,C1Deviations,746957,20200702,Damaged part / Quality issue,77021022,,Y
+C1,3200,Marta Raposo,746968,20200702,Short Shipment,65655275000,,N
+C2,1861,Dermot Carty,746988,20200702,Short Shipment,016310-002,,N
+C2,1861,Dermot Carty,746990,20200702,Short Shipment,04699764,,N
+37,1861,Lily.lee,746992,20200702,Short Shipment,10-314-481-000,,
+C4,1861,Dermot Carty,747014,20200702,Short Shipment,BH00012645,,N/A
+C3,2300,C1Deviations,747019,20200702,Damaged part / Quality issue,32543228,,N
+C4,1861,Dermot Carty,747021,20200702,Short Shipment,883950029,,N
+37,6825,Rebecca Naa Aryee,747027,20200702,Short Shipment,442.8419-02,,N/A
+63,1861,Dermot Carty,747032,20200702,Short Shipment,H63425,,N
+37,1281,Ivar Johnson,747038,20200702,Damaged part / Quality issue,797-5870-15,,
+C1,1861,C3 Inbound,747042,20200702,Short Shipment,55055045,,
+C1,1861,C3 Inbound,747043,20200702,Over Shipment,56036989,,
+C3,9995,C2 Inbound Deviations,747055,20200702,Short Shipment,62-052-508HF,,
+C3,2300,C1Deviations,747060,20200702,Over Shipment,62-545-508HF65,,N
+C1,7030,Assitan Sylla,747066,20200702,Misdirected Part/Shipment,WU4190,,N
+C2,4782,Katelynn Battams,747093,20200702,Over Shipment,BG00371985,,N
+C2,4782,Katelynn Battams,747094,20200702,Over Shipment,BG00371986,,N
+C2,120,veronica hassinger,747104,20200702,Damaged part / Quality issue,56209865,,Y
+C1,5800,Warehouse Lima,747112,20200702,Over Shipment,55049092,,N
+C1,5800,Warehouse Lima,747114,20200702,Over Shipment,009141-005,,N
+C2,1861,Flora Edith Molina Medina,747120,20200702,Short Shipment,55050828,,Y
+C2,5681,MIGUEL ANGEL ZAPATA,747124,20200702,Over Shipment,88110859,,Y
+C2,4782,Nathan Emmell,747126,20200702,Short Shipment,02802840,,N
+C1,9995,C2 Inbound Deviations,747127,20200702,Short Shipment,56212080,,
+C1,5800,Warehouse Lima,747130,20200702,Over Shipment,55025293,,N
+C1,5800,Warehouse Lima,747132,20200702,Over Shipment,70012330,,N
+C1,5800,Warehouse Lima,747134,20200702,Over Shipment,88815329,,N
+C1,5800,Warehouse Lima,747138,20200702,Over Shipment,87218939,,N
+C1,5800,Warehouse Lima,747143,20200702,Over Shipment,AF03000031,,N
+C1,5800,Warehouse Lima,747145,20200702,Over Shipment,AF03000032,,N
+C1,5800,Warehouse Lima,747146,20200702,Over Shipment,AF02000008,,N
+C1,5800,Warehouse Lima,747149,20200702,Over Shipment,55003603,,N
+63,1861,Hvss.receipts,747153,20200702,Misdirected Part/Shipment,BG00838621,,N/A
+38,5681,Fernanda Diaz (DHL SR02),747154,20200702,Short Shipment,7515-1876-S48,,
+C2,5681,Fernanda Diaz (DHL SR02),747163,20200702,Over Shipment,56049456,,Y
+C2,4684,Margaret Sampson,747205,20200703,Damaged part / Quality issue,77018745,,N
+C3,8181,Nonoy Loriega,747206,20200703,Short Shipment,64101672,,Y
+6E,9885,Ishani Hewavitharana,747219,20200703,Short Shipment,56024620,,
+67,9885,Jenny Ignacio,747222,20200703,Short Shipment,69039963,,
+63,120,Michelle Buckley,747229,20200703,Damaged part / Quality issue,69008787,,
+63,120,Michelle Buckley,747230,20200703,Over Shipment,001171-023,,
+C1,3081,Dmitriy Kazancev,747235,20200703,Damaged part / Quality issue,55071773,,N
+C1,1861,C3 Inbound,747237,20200703,Short Shipment,55042715,,N/A
+C1,1861,C3 Inbound,747238,20200703,Short Shipment,55042715,,N/A
+C3,8961,Ulziikhishig Davaadagva,747249,20200703,Short Shipment,56014931,,Y
+C3,8961,Ulziikhishig Davaadagva,747250,20200703,Short Shipment,CX003172,,N
+C3,8961,Ulziikhishig Davaadagva,747253,20200703,Short Shipment,55023674,,N
+C3,8961,Ulziikhishig Davaadagva,747254,20200703,Short Shipment,56031333,,N
+C1,1861,C3 Inbound,747266,20200703,Short Shipment,BG00255003,,N/A
+C2,2300,C1Deviations,747267,20200703,Short Shipment,016698-061,,Y
+37,1861,Lily.lee,747273,20200703,Short Shipment,930.0344-00,,N/A
+C1,1861,C3 Inbound,747275,20200703,Short Shipment,77015649,,
+C4,2300,C1Deviations,747277,20200703,Short Shipment,BG00523136,,
+C4,2300,C1Deviations,747279,20200703,Short Shipment,BG00823173,,
+C4,2300,C1Deviations,747280,20200703,Short Shipment,BF00000263,,N/A
+C4,2300,C1Deviations,747281,20200703,Short Shipment,BF00001166,,N/A
+C4,2300,C1Deviations,747282,20200703,Short Shipment,56030799,,N/A
+C4,2300,C1Deviations,747285,20200703,Short Shipment,56042693,,N/A
+C4,2300,C1Deviations,747286,20200703,Short Shipment,BH00010638,,N/A
+C4,2300,C1Deviations,747288,20200703,Short Shipment,883950029,,
+C4,2300,C1Deviations,747289,20200703,Short Shipment,BR00076765,,N
+C4,2300,C1Deviations,747292,20200703,Short Shipment,38-054-001,,N/A
+C1,9995,C2 Inbound Deviations,747305,20200703,Over Shipment,89594469,,
+C1,9995,C2 Inbound Deviations,747335,20200703,Short Shipment,66813246000,,Y
+C1,7030,Kribe Diarra,747342,20200703,Damaged part / Quality issue,BG00865160,,N
+C1,5100,Roberto Manriquez,747370,20200703,Damaged part / Quality issue,55037833,,Y
+37,5100,Roberto Manriquez,747374,20200703,Short Shipment,912.0139-00,,Y
+C2,5100,Roberto Manriquez,747379,20200703,Short Shipment,BH00011258,,N
+C1,5800,Warehouse Lima,747382,20200703,Short Shipment,56030652,,Y
+C1,5100,Roberto Manriquez,747386,20200703,Short Shipment,88383109,,Y
+C1,5100,Roberto Manriquez,747387,20200703,Short Shipment,85176359,,Y
+C1,5800,Warehouse Lima,747395,20200703,Over Shipment,00696160,,Y
+C2,5800,Warehouse Lima,747400,20200703,Over Shipment,BH00010717,,Y
+C1,5201,Almacen Colombia,747405,20200703,Damaged part / Quality issue,77012149,,Y
+38,5681,Fernanda Diaz (DHL SR02),747408,20200703,Over Shipment,7324-9655-20,,
+C2,5681,Fernanda Diaz (DHL SR02),747410,20200703,Damaged part / Quality issue,BG00989106,,Y
+C2,5681,Fernanda Diaz (DHL SR02),747414,20200703,Over Shipment,80769529,,Y
+C3,8289,Somenath Banerjee,747423,20200705,Short Shipment,AF03000032,,N
+C3,8289,Somenath Banerjee,747424,20200705,Short Shipment,08002284,,N
+C3,8289,Bhasker Ameta,747426,20200705,Short Shipment,55158399,,N
+C3,8289,Bhasker Ameta,747428,20200705,Short Shipment,56210469,,N
+C3,8289,Bhasker Ameta,747429,20200705,Short Shipment,AF03000031,,N
+38,4684,Stacey Anderson,747432,20200705,Short Shipment,7854-8631-20,,
+60,9885,Mt Isa Warehouse,747441,20200705,Short Shipment,7979-2626,,N/A
+C1,9885,Inventory Brisbane,747451,20200705,Over Shipment,20806188,,
+67,9885,Jenny Ignacio,747466,20200706,Over Shipment,69040887,,
+,9885,Inventory Brisbane,747470,20200706,Short Shipment,55020745,,N/A
+65,9885,Inventory Brisbane,747471,20200706,Short Shipment,56019887,,N/A
+07,120,Zoe Patching,747472,20200706,Over Shipment,LC0000001789,,N
+C3,8289,Ragi Prakash,747476,20200706,Short Shipment,55026347,,N
+C1,3485,Iris Naumann,747484,20200706,Short Shipment,56023375,,N
+C1,3081,Dmitriy Kazancev,747493,20200706,Over Shipment,04691011,,N
+C1,3081,Dmitriy Kazancev,747494,20200706,Short Shipment,04762075,,N
+C1,3081,Dmitriy Kazancev,747495,20200706,Short Shipment,04704291,,N
+C1,3081,Dmitriy Kazancev,747496,20200706,Over Shipment,04694262,,N
+32,6481,Gladys Letsitsi,747511,20200706,Over Shipment,81332299,,N
+32,6481,Gladys Letsitsi,747512,20200706,Over Shipment,81342219,,Y
+32,6481,Gladys Letsitsi,747514,20200706,Over Shipment,77013162,,Y
+C3,8961,Ulziikhishig Davaadagva,747524,20200706,Short Shipment,AF00700099,,N
+C1,3200,Danielle Martins,747527,20200706,Damaged part / Quality issue,BG00385921,,N
+C1,1861,C3 Inbound,747530,20200706,Short Shipment,BG00378529,,N/A
+32,6481,Gladys Letsitsi,747538,20200706,Over Shipment,56024134,,Y
+C1,9995,C2 Inbound Deviations,747552,20200706,Short Shipment,23339408,,
+C1,9995,C2 Inbound Deviations,747553,20200706,Short Shipment,02943710,,Y
+C1,3081,Dmitriy Kazancev,747557,20200706,Short Shipment,74196601,,N
+C1,3081,Dmitriy Kazancev,747558,20200706,Over Shipment,15575038,,N
+C1,3081,Dmitriy Kazancev,747561,20200706,Over Shipment,04705135,,N
+C1,9995,C2 Inbound Deviations,747564,20200706,Over Shipment,74034362,,
+C1,6825,HENRY OPARE ADJEI,747569,20200706,Short Shipment,02808380,,N
+C1,6825,HENRY OPARE ADJEI,747570,20200706,Short Shipment,AF00100327,,Y
+C1,9995,C2 Inbound Deviations,747575,20200706,Short Shipment,73826020,,
+C1,9995,C2 Inbound Deviations,747581,20200706,Over Shipment,AF00101123,,
+C1,6825,HENRY OPARE ADJEI,747585,20200706,Short Shipment,55007609,,N
+C1,6825,HENRY OPARE ADJEI,747589,20200706,Short Shipment,55064526,,N
+C1,6825,HENRY OPARE ADJEI,747593,20200706,Short Shipment,20714468,,N
+C1,9885,Inbound Perth Hub,747598,20200706,Short Shipment,AF01400006,,N/A
+C2,4782,Katelynn Battams,747611,20200706,Short Shipment,55018631,,N
+C1,9995,C2 Inbound Deviations,747630,20200706,Short Shipment,88544789,,
+C1,6635,Hamis Lubasha,747638,20200706,Short Shipment,55057688,,Y
+C1,6825,HENRY OPARE ADJEI,747642,20200706,Short Shipment,BG00357250,,N
+12,5201,Almacen Colombia,747643,20200706,Short Shipment,7304-3666-01,,N/A
+C1,6487,Zintle Biata,747654,20200706,Short Shipment,AF11720027,,
+C1,9995,C2 Inbound Deviations,747655,20200706,Short Shipment,70650149,,
+C2,2300,C1Deviations,747656,20200706,Short Shipment,CP18014-1,,N/A
+C1,9995,C2 Inbound Deviations,747657,20200706,Short Shipment,15545618,,
+C1,9995,C2 Inbound Deviations,747658,20200706,Short Shipment,55030149,,
+C1,9995,C2 Inbound Deviations,747659,20200706,Short Shipment,BG00422748,,
+C1,9995,C2 Inbound Deviations,747660,20200706,Short Shipment,16457708,,
+C1,9995,C2 Inbound Deviations,747661,20200706,Short Shipment,BG00753526,,
+C1,9995,C2 Inbound Deviations,747663,20200706,Short Shipment,BG00792008,,
+C1,9995,C2 Inbound Deviations,747664,20200706,Short Shipment,77007229,,
+C1,9995,C2 Inbound Deviations,747665,20200706,Short Shipment,77007229,,
+C1,9995,C2 Inbound Deviations,747670,20200706,Short Shipment,AF10070008,,
+C1,9995,C2 Inbound Deviations,747671,20200706,Short Shipment,AF10070008,,
+C1,9995,C2 Inbound Deviations,747673,20200706,Short Shipment,56043822,,
+C2,2300,C1Deviations,747675,20200706,Short Shipment,CX001199,,N/A
+C1,9995,C2 Inbound Deviations,747682,20200706,Short Shipment,56009144,,
+38,4684,Stacey Anderson,747688,20200706,Damaged part / Quality issue,7516-4902-S48,,
+C2,4684,Cathy Kempen,747696,20200706,Damaged part / Quality issue,906.0298-00,,Y
+C2,4684,Jenny Thome,747699,20200706,Over Shipment,CX002889,,N/A
+C3,2300,C1Deviations,747702,20200706,Damaged part / Quality issue,55059183,,N/A
+C1,5100,Roberto Manriquez,747703,20200706,Over Shipment,02830190,,Y
+67,2300,C1Deviations,747708,20200706,Damaged part / Quality issue,69037873,,N/A
+63,9885,Allan Sauer,747720,20200706,Over Shipment,04530205,,
+C2,4684,Cristy Polack,747725,20200706,Damaged part / Quality issue,55016899,,Y
+C2,5681,Fernanda Diaz (DHL SR02),747731,20200706,Short Shipment,20467658,,Y
+C2,5681,Fernanda Diaz (DHL SR02),747732,20200706,Short Shipment,55066836,,Y
+C2,5681,Fernanda Diaz (DHL SR02),747734,20200706,Short Shipment,06544971,,Y
+C2,5681,Fernanda Diaz (DHL SR02),747740,20200706,Over Shipment,80769529,,Y
+63,120,Michelle Buckley,747746,20200706,Short Shipment,BH00014948,,
+63,120,Michelle Buckley,747749,20200706,Over Shipment,005115-002,,
+63,9885,Paul T Walker,747751,20200707,Short Shipment,15271108,,N/A
+67,9885,Hayden Trow,747761,20200707,Short Shipment,BG00427833,,
+C3,1861,Yuki Yoshioka,747767,20200707,Short Shipment,55210762,,N
+C3,1861,Yuki Yoshioka,747768,20200707,Short Shipment,55042715,,N/A
+C1,6487,Buseka Nono,747805,20200707,Over Shipment,BH00010656,,Y
+63,120,Michelle Buckley,747810,20200707,Short Shipment,019474-003,,
+C1,6487,Buseka Nono,747824,20200707,Over Shipment,77012898,,N
+67,9885,Jenny Ignacio,747833,20200707,Short Shipment,29430036,,
+C1,6487,Buseka Nono,747846,20200707,Short Shipment,74201542,,N
+C1,9885,Inbound Perth Hub,747847,20200707,Short Shipment,20890738,,N/A
+C1,9885,Inbound Perth Hub,747849,20200707,Short Shipment,33276778,,N/A
+C1,6487,Buseka Nono,747850,20200707,Over Shipment,77010961,,N
+C1,9885,Inbound Perth Hub,747851,20200707,Short Shipment,BG00648570,,N/A
+12,9885,Inbound Perth Hub,747852,20200707,Short Shipment,7305-7714-15,,N/A
+12,9885,Inbound Perth Hub,747853,20200707,Short Shipment,7306-7715-15,,N/A
+6E,9885,Inbound Perth Hub,747854,20200707,Short Shipment,89726009,,N/A
+C1,6487,Buseka Nono,747855,20200707,Short Shipment,77007550,,N
+C1,9885,Inbound Perth Hub,747856,20200707,Short Shipment,BG00844053,,N/A
+C1,6487,Buseka Nono,747858,20200707,Short Shipment,81351369,,N
+60,9885,Erin Schmidt,747860,20200707,Short Shipment,7853-3037-20,,
+67,9885,Nita Broughton,747881,20200707,Short Shipment,AF03000036,,
+C1,1861,C3 Inbound,747926,20200707,Short Shipment,AF00101265,,
+C1,2781,Robert Gebala,747947,20200707,Short Shipment,29604200,,N
+C4,9995,C2 Inbound Deviations,747950,20200707,Damaged part / Quality issue,020055-001,,N
+C3,2300,C1Deviations,747955,20200707,Short Shipment,88178899,,N/A
+38,9995,C2 Inbound Deviations,747977,20200707,Misdirected Part/Shipment,32-5155-GMA-04C,,
+C4,9995,C2 Inbound Deviations,747978,20200707,Short Shipment,CP17020,,Y
+43,120,Patrik Strandberg,747993,20200707,Short Shipment,7802-6103-11,,
+C2,4684,Cristy Polack,748016,20200707,Short Shipment,17683957,,Y
+C1,9995,C2 Inbound Deviations,748023,20200707,Short Shipment,73826020,,
+C1,9995,C2 Inbound Deviations,748024,20200707,Short Shipment,56048619,,Y
+C1,9995,C2 Inbound Deviations,748029,20200707,Short Shipment,04600191,,N
+C1,9995,C2 Inbound Deviations,748030,20200707,Over Shipment,BG01410695,,
+C1,9995,C2 Inbound Deviations,748043,20200707,Short Shipment,BG00766820,,Y
+C2,5100,Roberto Manriquez,748057,20200707,Short Shipment,CP001736,,Y
+43,120,Patrik Strandberg,748058,20200707,Short Shipment,7802-6124-11,,
+43,120,Patrik Strandberg,748059,20200707,Over Shipment,7807-6124-11,,
+C1,9995,C2 Inbound Deviations,748062,20200707,Short Shipment,87459309,,
+C1,9995,C2 Inbound Deviations,748064,20200707,Over Shipment,53520040,,
+63,9885,Allan Sauer,748097,20200707,Short Shipment,660070158,,
+C1,5800,Warehouse Lima,748101,20200707,Over Shipment,55047677,,Y
+C2,5800,Warehouse Lima,748102,20200707,Over Shipment,019596-001,,Y
+C2,5800,Warehouse Lima,748104,20200707,Over Shipment,80759069,,Y
+C1,5800,Warehouse Lima,748105,20200707,Over Shipment,26439808,,Y
+C1,5800,Warehouse Lima,748106,20200707,Over Shipment,BR00050633,,Y
+C1,5800,Warehouse Lima,748108,20200707,Over Shipment,BG00910850,,Y
+C1,5800,Warehouse Lima,748109,20200707,Over Shipment,70533742,,Y
+C2,4684,Montana Robinson,748113,20200707,Damaged part / Quality issue,55089269,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748114,20200707,Short Shipment,70450627,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748127,20200708,Short Shipment,88195669,,Y
+63,9885,Mt Isa Warehouse,748129,20200708,Short Shipment,04004086,,
+63,9885,Mt Isa Warehouse,748130,20200708,Short Shipment,56040861,,
+C3,8961,Ulziikhishig Davaadagva,748131,20200708,Damaged part / Quality issue,15253988,,N/A
+C1,1861,C3 Inbound,748136,20200708,Short Shipment,09373264,,
+C3,1861,Takako Ishii,748169,20200708,Short Shipment,08771808,,N/A
+,120,Zoe Patching,748170,20200708,Over Shipment,56037097,,
+37,990,Rawlings Mbiru Nechavava,748177,20200708,Misdirected Part/Shipment,930.0248-00,,
+C1,1861,C3 Inbound,748178,20200708,Short Shipment,55214593,,N/A
+C3,8181,Nonoy Loriega,748196,20200708,Over Shipment,55032339,,Y
+C3,8289,Somenath Banerjee,748199,20200708,Short Shipment,AF03000036,,N
+C1,9082,yoonsun park,748233,20200708,Damaged part / Quality issue,55000153,,N/A
+C1,1861,Lynne Li,748245,20200708,Short Shipment,PD160000,,Y
+C1,1861,Lynne Li,748246,20200708,Short Shipment,PD161000,,N/A
+C1,1861,C3 Inbound,748248,20200708,Short Shipment,02990860,,
+C1,1861,C3 Inbound,748249,20200708,Short Shipment,AF01300270,,N/A
+C3,6825,Priscilla Opoku,748255,20200708,Short Shipment,5900000600-K100,,Y
+C4,6481,Gladys Letsitsi,748258,20200708,Short Shipment,55215621,,Y
+C1,3081,Dmitriy Kazancev,748262,20200708,Damaged part / Quality issue,525955014,,N
+C4,6481,Gladys Letsitsi,748300,20200708,Short Shipment,77017352,,N/A
+C2,2300,C1Deviations,748307,20200708,Short Shipment,64582637,,N
+37,1886,Hayley Bell,748311,20200708,Damaged part / Quality issue,984.1008-00,,
+C4,6481,Tumo Finger,748333,20200708,Short Shipment,002301-001,,N/A
+C4,6481,Tumo Finger,748334,20200708,Short Shipment,001171-009,,N/A
+C2,4684,Kimberly Fetters,748360,20200708,Damaged part / Quality issue,56002244,,Y
+C2,4684,Kimberly Fetters,748361,20200708,Damaged part / Quality issue,56002244,,Y
+C2,5681,Marisol Luna,748365,20200708,Over Shipment,85325179,,Y
+C3,7030,Dihara Traore,748366,20200708,Short Shipment,797-5120-14,,Y
+C4,2300,C1Deviations,748378,20200708,Damaged part / Quality issue,69040888,,N
+38,4684,Stacey Anderson,748379,20200708,Short Shipment,72-68GE165-R48,,N
+C2,5800,Warehouse Lima,748388,20200708,Short Shipment,04700716,,Y
+C2,5681,Luis Angel Cuevas,748393,20200708,Short Shipment,73704251,,Y
+C3,2300,C1Deviations,748395,20200708,Short Shipment,BG00779931,,N/A
+C2,4684,Kimberly Fetters,748396,20200708,Short Shipment,85603819,,Y
+C2,5681,Luis Angel Cuevas,748397,20200708,Short Shipment,88129179,,Y
+C2,5100,Roberto Manriquez,748403,20200708,Over Shipment,04700549,,Y
+C2,5681,Luis Angel Cuevas,748405,20200708,Short Shipment,55201102,,Y
+12,5800,Warehouse Lima,748411,20200708,Over Shipment,7803-4726-01,,N/A
+C2,1861,Flora Edith Molina Medina,748412,20200708,Short Shipment,32156788,,Y
+C2,4684,Montana Robinson,748416,20200708,Short Shipment,05231878,,Y
+C2,4684,Montana Robinson,748417,20200708,Short Shipment,05231748,,Y
+43,5800,Warehouse Lima,748418,20200708,Over Shipment,7514-4664-S48,,N/A
+,5800,Warehouse Lima,748422,20200708,Short Shipment,7314-3355,,N/A
+12,5800,Warehouse Lima,748424,20200708,Over Shipment,7767-5245A-S48,,N/A
+67,9885,Jolene Kurthi,748430,20200709,Short Shipment,7305-7669-01,,
+C1,9885,Inventory Brisbane,748431,20200709,Short Shipment,BG00504860,,N/A
+67,9885,Jolene Kurthi,748432,20200709,Over Shipment,7529-8902-S65,,
+C3,8441,Balikpapan WH,748435,20200709,Damaged part / Quality issue,55052071,,N
+C3,8441,Balikpapan WH,748436,20200709,Short Shipment,32107508,,N/A
+C3,8289,Somenath Banerjee,748468,20200709,Short Shipment,BG00540788,,N
+C2,6487,Buseka Nono,748469,20200709,Short Shipment,CP18322-3,,Y
+63,120,Michelle Buckley,748471,20200709,Short Shipment,A2U900-694102,,
+63,6487,Buseka Nono,748474,20200709,Short Shipment,A2U130-598118,,
+C1,6487,Buseka Nono,748476,20200709,Short Shipment,08000203,,N
+63,6487,Buseka Nono,748477,20200709,Short Shipment,A2U130-598118,,
+C1,6487,Buseka Nono,748478,20200709,Short Shipment,34497528,,N
+C1,6635,Hamis Lubasha,748539,20200709,Short Shipment,87218939,,Y
+C1,6635,Hamis Lubasha,748540,20200709,Short Shipment,41-D1400-0520,,Y
+C4,6481,Tumo Finger,748552,20200709,Short Shipment,015279-051,,N/A
+67,9885,Nita Broughton,748556,20200709,Short Shipment,7314-3652,,
+C4,6481,Tumo Finger,748558,20200709,Short Shipment,010133-054,,N/A
+67,9885,Nita Broughton,748559,20200709,Short Shipment,33191231,,
+C4,6481,Tumo Finger,748562,20200709,Short Shipment,004785-054,,N/A
+C4,6481,Matsiliso Hilda Ramahetlane,748573,20200709,Short Shipment,7807-61013-16,,N/A
+C4,6481,Matsiliso Hilda Ramahetlane,748575,20200709,Short Shipment,7304-7585-01,,N/A
+C1,3485,Iris Naumann,748579,20200709,Short Shipment,56016410,,N/A
+C1,3485,Iris Naumann,748581,20200709,Short Shipment,55187047,,N/A
+C1,3485,Iris Naumann,748582,20200709,Short Shipment,56034562,,N/A
+C1,3081,Dmitriy Kazancev,748594,20200709,Short Shipment,35113802,,N
+C1,3485,Angelika Remy,748597,20200709,Damaged part / Quality issue,88021199,,N
+C1,5090,Guilherme Figueiredo,748633,20200709,Short Shipment,02869870,,Y
+C2,4782,Matthew Cormier,748634,20200709,Short Shipment,55043532,,Y
+C1,6526,Malambo Haampeyo,748644,20200709,Short Shipment,26452778,,
+C1,6526,Malambo Haampeyo,748647,20200709,Short Shipment,AF02200012,,
+C1,6526,Malambo Haampeyo,748654,20200709,Short Shipment,04004047,,Y
+C1,6526,Malambo Haampeyo,748657,20200709,Short Shipment,08003247,,
+C1,6526,Malambo Haampeyo,748658,20200709,Short Shipment,56020572,,
+C1,6526,Malambo Haampeyo,748661,20200709,Short Shipment,56032191,,
+C2,4684,Cristy Polack,748662,20200709,Damaged part / Quality issue,020059-002,,N/A
+C3,9995,C2 Inbound Deviations,748677,20200709,Short Shipment,31-531-000,,N
+12,120,Frank Huddy,748702,20200709,Short Shipment,7528-5652-S65,,Y
+C2,5100,Roberto Manriquez,748727,20200709,Short Shipment,04700393,,Y
+37,5100,Roberto Manriquez,748728,20200709,Short Shipment,442.7102-01,,
+63,1861,Hvss.receipts,748736,20200709,Short Shipment,PE123120,,
+C2,5681,Fernanda Diaz (DHL SR02),748740,20200709,Over Shipment,81917809,,Y
+C2,5800,Warehouse Lima,748746,20200709,Over Shipment,04790826,,Y
+C2,5800,Warehouse Lima,748747,20200709,Over Shipment,04790826,,Y
+C1,5800,Warehouse Lima,748753,20200709,Over Shipment,55033478,,Y
+C1,5800,Warehouse Lima,748754,20200709,Over Shipment,77794282,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748758,20200709,Damaged part / Quality issue,BG00323815,,Y
+C1,5800,Warehouse Lima,748759,20200709,Over Shipment,BG00800865,,Y
+C1,5800,Warehouse Lima,748760,20200709,Over Shipment,BG00549519,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748762,20200709,Over Shipment,09349124,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748765,20200710,Over Shipment,85443409,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748767,20200710,Over Shipment,04790080,,Y
+C2,5681,Fernanda Diaz (DHL SR02),748768,20200710,Over Shipment,56008025,,Y
+C3,9182,apple zhuang,748774,20200710,Short Shipment,PE045000,,N/A
+C2,5681,Fernanda Diaz (DHL SR02),748778,20200710,Over Shipment,55084694,,Y
+67,9885,Jenny Ignacio,748779,20200710,Short Shipment,BG00795099,,
+67,9885,Jenny Ignacio,748780,20200710,Short Shipment,04697027,,
+67,9885,Jenny Ignacio,748781,20200710,Short Shipment,04697027,,
+67,9885,Jenny Ignacio,748782,20200710,Short Shipment,BG00876401,,
+67,9885,Jenny Ignacio,748783,20200710,Short Shipment,BG00876398,,
+C2,5681,Fernanda Diaz (DHL SR02),748785,20200710,Short Shipment,BG00323348,,N/A
+C1,9885,Inventory Brisbane,748786,20200710,Short Shipment,26438368,,
+63,120,Michelle Buckley,748793,20200710,Short Shipment,001079-003,,
+63,120,Michelle Buckley,748794,20200710,Short Shipment,69041542,,
+63,120,Michelle Buckley,748795,20200710,Short Shipment,64804381,,
+C3,8441,Balikpapan WH,748806,20200710,Short Shipment,002182-002,,N/A
+C3,1861,Lily.lee,748811,20200710,Damaged part / Quality issue,847.0265-00,,
+C3,1861,Lily.lee,748813,20200710,Damaged part / Quality issue,442.7997-01,,
+C4,6481,Gladys Letsitsi,748816,20200710,Over Shipment,A2U913-651005,,N/A
+C1,6526,Malambo Haampeyo,748820,20200710,Short Shipment,BG00493851,,
+C1,1861,Lynne Li,748830,20200710,Short Shipment,660706152000,,N/A
+C4,6481,Gladys Letsitsi,748836,20200710,Short Shipment,33001698,,N/A
+C4,6420,NAMETSO RAPULA,748838,20200710,Short Shipment,7324-6731-20,,
+C1,6526,Malambo Haampeyo,748841,20200710,Short Shipment,BG01048549,,Y
+C1,1186,Satu Kangasperko,748848,20200710,Over Shipment,BG00802723,,N/A
+37,9995,C2 Inbound Deviations,748851,20200710,Short Shipment,868.0802-00,,
+37,9995,C2 Inbound Deviations,748852,20200710,Short Shipment,840.0652-00,,
+C3,9995,C2 Inbound Deviations,748853,20200710,Short Shipment,009460-033,,N
+C3,9995,C2 Inbound Deviations,748854,20200710,Short Shipment,009460-034,,N
+C3,9995,C2 Inbound Deviations,748855,20200710,Short Shipment,BA00000515,,N
+C1,1186,Satu Kangasperko,748856,20200710,Over Shipment,BG00804937,,N
+67,9995,C2 Inbound Deviations,748857,20200710,Damaged part / Quality issue,020058-003,,
+67,9995,C2 Inbound Deviations,748858,20200710,Damaged part / Quality issue,BG01081202,,
+C4,9995,C2 Inbound Deviations,748861,20200710,Short Shipment,BF00007291,,N
+C3,9995,C2 Inbound Deviations,748869,20200710,Short Shipment,26-120-000,,N
+C2,4782,Holly Lapper,748872,20200710,Short Shipment,55178672,,N
+C2,4684,Jean Grant,748886,20200710,Misdirected Part/Shipment,BG00864057,,N/A
+C2,4684,Jenny Thome,748912,20200710,Short Shipment,028806-001,,Y
+C2,5800,Warehouse Lima,748932,20200710,Short Shipment,BG00357245,,Y
+C1,5800,Warehouse Lima,748937,20200710,Over Shipment,BG00323348,,Y
+,4782,Holly Lapper,748949,20200710,Short Shipment,CQ41253,,N
+C2,4684,Margaret Sampson,748970,20200710,Short Shipment,BG00573019,,Y
+C2,4684,Margaret Sampson,748971,20200710,Short Shipment,BG00573019,,Y
+C2,120,veronica hassinger,748972,20200710,Short Shipment,56046462,,Y
+38,4684,Stacey Anderson,748975,20200710,Damaged part / Quality issue,32-5165-GMA-04C,,N/A
+C2,5681,Fernanda Diaz (DHL SR02),748976,20200710,Damaged part / Quality issue,00703410,,N/A
+C3,5681,Fernanda Diaz (DHL SR02),748977,20200710,Over Shipment,7994-4055,,Y
+C4,6481,Joyce Tsieane,748988,20200711,Damaged part / Quality issue,88663179,,N/A
+C4,6481,Tumo Finger,748989,20200711,Short Shipment,88636409,,Y
+C1,6526,Malambo Haampeyo,748992,20200712,Short Shipment,56025927,,Y
+C1,6526,Malambo Haampeyo,748993,20200712,Short Shipment,00804310,,Y
+C1,120,Felix Chanda,748994,20200712,Short Shipment,88201309,,Y
+C1,6526,Malambo Haampeyo,748995,20200712,Short Shipment,29602259,,
+C1,6526,Malambo Haampeyo,748996,20200712,Short Shipment,00804310,,Y
+C1,9885,Inventory Brisbane,749000,20200712,Short Shipment,55199068,,
+67,9885,Randy Khera,749006,20200713,Short Shipment,55044379,,
+63,1861,Hvss.receipts,749009,20200713,Over Shipment,024843-004,,
+C3,8289,Bhasker Ameta,749020,20200713,Short Shipment,AF21150017,,N
+C3,8289,Bhasker Ameta,749021,20200713,Short Shipment,73692731,,N
+C3,8289,Bhupesh Jalgaonkar,749023,20200713,Damaged part / Quality issue,04700483,,N
+12,3081,Dmitriy Kazancev,749055,20200713,Short Shipment,7767-1876-S48,,
+C1,3081,Dmitriy Kazancev,749056,20200713,Short Shipment,BG00400910,,N
+C1,3081,Dmitriy Kazancev,749057,20200713,Short Shipment,55014883,,N
+C1,3081,Dmitriy Kazancev,749060,20200713,Over Shipment,55053612,,N
+67,2300,C1Deviations,749061,20200713,Damaged part / Quality issue,56027528,,N/A
+C1,9500,Ibrahim Cetindag,749065,20200713,Short Shipment,56205178,,N
+C1,6526,Malambo Haampeyo,749066,20200713,Short Shipment,56044431,,
+C1,1861,Amy Zheng,749076,20200713,Short Shipment,00723880,,N/A
+C3,9500,Ibrahim Cetindag,749081,20200713,Short Shipment,7315-3663,,
+32,6481,Justin Hodgson,749084,20200713,Over Shipment,7370847,,N/A
+67,9885,Nita Broughton,749088,20200713,Short Shipment,AF00500565,,
+C1,120,Felix Chanda,749094,20200713,Short Shipment,02703100,,Y
+C1,6526,Malambo Haampeyo,749101,20200713,Short Shipment,55041554,,Y
+C2,1861,C3 Inbound,749107,20200713,Over Shipment,64594406,,
+C1,1861,C3 Inbound,749113,20200713,Short Shipment,55026391,,
+C2,2300,C1Deviations,749121,20200713,Over Shipment,04698491,,N/A
+C4,6481,Justin Hodgson,749123,20200713,Over Shipment,70481362,,
+C4,6487,Rachel Thobejane,749143,20200713,Short Shipment,77794282,,N/A
+C1,1700,Petya Yosifova,749151,20200713,Damaged part / Quality issue,30834971,,N
+C1,6526,Malambo Haampeyo,749160,20200713,Short Shipment,00296680,,Y
+C4,6481,Keneilwe Mosadi,749163,20200713,Short Shipment,85854349,,
+C2,2300,C1Deviations,749165,20200713,Over Shipment,022737-014,,
+C2,2300,C1Deviations,749168,20200713,Over Shipment,022737-015,,
+C4,6481,Keneilwe Mosadi,749171,20200713,Over Shipment,33001698,,
+37,9995,C2 Inbound Deviations,749177,20200713,Damaged part / Quality issue,912.0139-00,,
+C2,4782,Matthew Cormier,749209,20200713,Short Shipment,002011-002,,Y
+C2,4782,Matthew Cormier,749210,20200713,Short Shipment,010110-001,,N
+C3,5100,Roberto Manriquez,749213,20200713,Short Shipment,BA00000185,,Y
+67,2300,C1Deviations,749215,20200713,Damaged part / Quality issue,00876600,,N/A
+C3,2300,C1Deviations,749223,20200713,Damaged part / Quality issue,70460803,,N/A
+C2,4782,Shelley Maki,749243,20200713,Damaged part / Quality issue,31-052-000,,
+C2,5681,Fernanda Diaz (DHL SR02),749260,20200713,Short Shipment,88288549,,
+C2,5681,Fernanda Diaz (DHL SR02),749261,20200713,Short Shipment,56024424,,
+C2,5681,Fernanda Diaz (DHL SR02),749263,20200713,Short Shipment,56204207,,Y
+C2,5681,Fernanda Diaz (DHL SR02),749266,20200713,Over Shipment,55059349,,Y
+C2,5681,MIGUEL ANGEL ZAPATA,749271,20200713,Short Shipment,AF03000124,,N/A
+C2,5681,MARCO IVAN PEREZ,749286,20200713,Short Shipment,04700355,,Y
+C2,120,veronica hassinger,749293,20200714,Short Shipment,55199068,,N/A
+C2,120,veronica hassinger,749295,20200714,Short Shipment,78407069,,Y
+12,9885,Inbound Perth Hub,749300,20200714,Misdirected Part/Shipment,7304-7669-01,,
+C2,1861,C3 Inbound,749306,20200714,Over Shipment,69003140,,N/A
+63,9885,Mt Isa Warehouse,749317,20200714,Short Shipment,55184429,,
+63,9885,Mt Isa Warehouse,749318,20200714,Short Shipment,04697038,,
+C2,2300,C1Deviations,749324,20200714,Short Shipment,04696891,,
+67,9885,Christie Bithrey,749330,20200714,Short Shipment,7324-6737-20,,
+67,9885,Sharon Cocks,749332,20200714,Short Shipment,20709638,,
+67,9885,Sharon Cocks,749333,20200714,Short Shipment,AF20010038,,
+67,9885,Sharon Cocks,749334,20200714,Short Shipment,08537018,,
+63,9885,Kaelem Ewins,749335,20200714,Short Shipment,BG00797631,,
+67,120,Zoe Patching,749337,20200714,Over Shipment,CX077006,,
+C1,6487,Zintle Biata,749341,20200714,Short Shipment,AF00500620,,Y
+C1,6487,Zintle Biata,749342,20200714,Over Shipment,70180436,,N
+C2,2300,C1Deviations,749343,20200714,Misdirected Part/Shipment,78071223,,Y
+C1,1861,C3 Inbound,749357,20200714,Short Shipment,BG00219724,,
+C1,1861,C3 Inbound,749359,20200714,Short Shipment,502436,,
+C1,1861,C3 Inbound,749361,20200714,Short Shipment,07615555,,
+C1,6526,Malambo Haampeyo,749369,20200714,Short Shipment,BG00736562,,N/A
+C1,1861,C3 Inbound,749379,20200714,Short Shipment,55067999,,
+C1,1861,C3 Inbound,749382,20200714,Short Shipment,55068001,,
+63,2300,C1Deviations,749396,20200714,Short Shipment,H44000-102,,
+C1,1861,C3 Inbound,749404,20200714,Short Shipment,56024408,,
+C3,8289,Ragi Prakash,749416,20200714,Short Shipment,20891908,,N/A
+C3,8289,Ragi Prakash,749417,20200714,Short Shipment,BG00362695,,N/A
+63,6487,Zintle Biata,749420,20200714,Short Shipment,A2U900-292041,,
+C1,6487,Zintle Biata,749422,20200714,Short Shipment,56208427,,
+C4,6526,Saul Njekwa,749441,20200714,Damaged part / Quality issue,831.0016-00,,
+C1,6526,Malambo Haampeyo,749453,20200714,Short Shipment,56042643,,
+C1,3081,Dmitriy Kazancev,749461,20200714,Damaged part / Quality issue,56034952,,
+37,5090,Guilherme Figueiredo,749474,20200714,Over Shipment,847.0299-00,,
+C1,5090,Guilherme Figueiredo,749493,20200714,Damaged part / Quality issue,55155077,,
+C2,4782,Gilles Brousseau,749526,20200714,Short Shipment,CP001238,,
+63,9995,C2 Inbound Deviations,749536,20200714,Damaged part / Quality issue,014099-001,,
+63,9995,C2 Inbound Deviations,749537,20200714,Damaged part / Quality issue,005117-001,,
+C1,5201,Almacen Colombia,749547,20200714,Short Shipment,04791248,,
+C2,4782,Gilles Brousseau,749557,20200714,Short Shipment,CP001101,,
+C2,120,veronica hassinger,749566,20200714,Short Shipment,56040822,,
+C2,120,veronica hassinger,749570,20200714,Short Shipment,BG00630946,,
+63,1861,Hvss.receipts,749572,20200714,Over Shipment,86973329,,
+63,1861,Hvss.receipts,749573,20200714,Short Shipment,BD00028267,,
+63,1861,Hvss.receipts,749574,20200714,Short Shipment,AFP1006-4,,
+C2,5681,Fernanda Diaz (DHL SR02),749607,20200715,Over Shipment,69016407,,
+63,1861,Hvss.receipts,749609,20200715,Short Shipment,411129908,,
+C3,9082,yoonsun park,749610,20200715,Short Shipment,912.0126-00,,
+C3,9082,yoonsun park,749611,20200715,Short Shipment,912.0129-00,,
+C1,9885,Inventory Brisbane,749621,20200715,Over Shipment,AF02300006,,
+C1,9885,Inventory Brisbane,749623,20200715,Short Shipment,29607036,,
+C2,9885,Inbound.BrisbaneHub,749624,20200715,Damaged part / Quality issue,001079-003,,N/A
+60,9885,Jolene Kurthi,749636,20200715,Short Shipment,7767-5148A-S80,,
+C1,6487,Zintle Biata,749637,20200715,Short Shipment,AF00500380,,
+C1,1861,C3 Inbound,749644,20200715,Short Shipment,33107408,,

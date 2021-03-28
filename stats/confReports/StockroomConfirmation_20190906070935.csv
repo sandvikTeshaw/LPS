@@ -1,0 +1,11 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C2,5681,Edgar A. Caldera (DHL SR02),674743,20190906,Short Shipment,BG01122890,,
+67,9885,Deborah Goodall,674744,20190906,Short Shipment,7528-7389-R65,,
+63,9885,Nathan Cummings,674751,20190906,Short Shipment,018551-002,,
+C1,1861,C3 Inbound,674798,20190906,Short Shipment,32262528,,
+63,9885,Steven Daly,674800,20190906,Short Shipment,88601349,,
+C3,2300,C1Deviations,674803,20190906,Over Shipment,69039948,,
+C2,1861,C3 Inbound,674820,20190906,Short Shipment,04700497,,
+63,9885,Kaelem Ewins,674821,20190906,Short Shipment,26438772,,
+C1,1861,C3 Inbound,674824,20190906,Short Shipment,AF00500566,,
+C4,6487,Mishack Magoa,674831,20190906,Over Shipment,BG00836894,,

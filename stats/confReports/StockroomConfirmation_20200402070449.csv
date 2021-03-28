@@ -1,0 +1,34 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+60,9885,Erin Schmidt,727034,20200402,Short Shipment,7732-4435-S48,,
+C2,1861,Flora Edith Molina Medina,727041,20200402,Misdirected Part/Shipment,64632212,,
+63,1861,Hvss.receipts,727043,20200402,Over Shipment,491213200,,
+63,9885,Timothy Osborne,727046,20200402,Misdirected Part/Shipment,BG00357250,,N/A
+63,9885,Martin Rogers,727052,20200402,Short Shipment,55170785,,N/A
+63,8990,Lei Wang,727065,20200402,Damaged part / Quality issue,A2U900-694059,,N/A
+63,9885,Eric Rowsell,727066,20200402,Over Shipment,88288549,,N/A
+C4,6510,Pardon Mhembere,727138,20200402,Short Shipment,78401629,,
+C4,6510,Pardon Mhembere,727144,20200402,Short Shipment,55060251,,
+C1,9995,C2 Inbound Deviations,727162,20200402,Over Shipment,02772460,,
+C1,9995,C2 Inbound Deviations,727175,20200402,Short Shipment,32512498,,
+67,9995,C2 Inbound Deviations,727184,20200402,Short Shipment,BG01032448,,
+07,9995,C2 Inbound Deviations,727186,20200402,Short Shipment,400.2207-002,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727187,20200402,Misdirected Part/Shipment,69038400,,N/A
+38,5681,Fernanda Diaz Mendez (DHL SR02),727201,20200402,Short Shipment,7767-5345A-R48,,
+38,5681,Fernanda Diaz Mendez (DHL SR02),727204,20200402,Short Shipment,7767-5345A-R48,,
+C2,5681,Julio Revilla SR 23 (DHL SR02),727210,20200402,Damaged part / Quality issue,04693146,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727218,20200402,Over Shipment,33143628,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727219,20200402,Misdirected Part/Shipment,BG00771979,,N/A
+C2,4782,Krysta Telenko,727220,20200402,Short Shipment,55066836,,
+C2,4782,Krysta Telenko,727221,20200402,Short Shipment,80759069,,
+C1,9995,C2 Inbound Deviations,727222,20200402,Short Shipment,06575013,,
+C2,5681,Arturo V. Aguilera Celis,727228,20200402,Misdirected Part/Shipment,7379-8718-26,,N/A
+C3,5090,Guilherme Figueiredo,727232,20200402,Short Shipment,BH00012136,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727244,20200402,Short Shipment,AF03000032,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727246,20200402,Short Shipment,AF03000036,,
+C2,5681,Luis Angel Cuevas,727251,20200402,Short Shipment,09030038,,
+C2,5681,Luis Angel Cuevas,727252,20200402,Short Shipment,88126839,,
+C2,5681,Luis Angel Cuevas,727254,20200402,Short Shipment,88782259,,
+C2,5681,Luis Angel Cuevas,727255,20200402,Short Shipment,09030038,,
+C2,5681,Luis Angel Cuevas,727256,20200402,Short Shipment,08900033,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727261,20200402,Over Shipment,56045206,,
+C2,5681,Fernanda Diaz Mendez (DHL SR02),727266,20200402,Over Shipment,81325579,,

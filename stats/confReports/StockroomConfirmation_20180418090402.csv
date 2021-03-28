@@ -1,0 +1,48 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C2,2302,Berenice Guzman,547899,20180418,Short Shipment,56041859,,
+43,2301,Julio Cotera,547902,20180418,Short Shipment,7733-5245A-S48,,
+63,9885,Brendan Heuston,547905,20180418,Short Shipment,BG00764246,,N/A
+C1,9885,Inventory Brisbane,547913,20180418,Short Shipment,585000022063,,
+C1,9885,Inventory Brisbane,547917,20180418,Short Shipment,BG00837556,,
+C3,8481,Freeport Warehouse Inbound,547920,20180418,Short Shipment,AF01000223,,N/A
+C1,1861,Hvss.receipts,547924,20180418,Short Shipment,65694367002,,
+63,9885,Rylie Thomas,547925,20180418,Damaged Part,BG00488404,,
+C2,2302,Berenice Guzman,547933,20180418,Short Shipment,71055050,,
+C2,2302,Berenice Guzman,547934,20180418,Short Shipment,73391824,,
+C2,2302,Berenice Guzman,547935,20180418,Over Shipment,71406550,,
+C2,1861,Amy Zheng,547958,20180418,Damaged Part,04694189,,
+C2,9885,Inbound Perth Hub,547968,20180418,Damaged Part,BH00013689,,
+C3,8441,Balikpapan Warehouse,547971,20180418,Short Shipment,BH00010612,,N/A
+C3,8441,Balikpapan Warehouse,547978,20180418,Short Shipment,87082139,,N/A
+C3,8441,Balikpapan Warehouse,547995,20180418,Damaged Part,001680-054,,
+C1,9082,yoonsun park,548011,20180418,Short Shipment,85798409,,
+C4,6481,Tsholofelo,548032,20180418,Short Shipment,7773-1936-B48,,N/A
+C1,280,Jari-Pekka Huttula,548037,20180418,Short Shipment,BG00357245,,N/A
+C1,280,Jari-Pekka Huttula,548039,20180418,Short Shipment,BG00357245,,N/A
+C2,2302,Berenice Guzman,548044,20180418,Over Shipment,04790254,,
+C4,6481,Tsholofelo,548047,20180418,Misdirected Part/Shipment,7324-8637-20,,N/A
+C4,2300,C1Deviations,548051,20180418,Damaged Part,04704254,,N/A
+C2,2300,C1Deviations,548063,20180418,Short Shipment,022738-053,,
+C1,8200,Bhasker Ameta,548067,20180418,Over Shipment,08471033,,
+,6526,Saul Njekwa,548070,20180418,Short Shipment,CP47505-94,,
+C1,3200,Maria Jose,548071,20180418,Short Shipment,04758408,,
+C1,3200,Maria Jose,548072,20180418,Short Shipment,50057618,,
+C1,3200,Maria Jose,548073,20180418,Short Shipment,85069909,,
+C4,6481,Tsholofelo,548081,20180418,Over Shipment,7305-7586-01,,N/A
+C2,4684,Theresa Hazuda,548142,20180418,Damaged Part,RTVG,,Y
+C4,6487,Corry Selete,548162,20180418,Over Shipment,AF03000030,,N/A
+C4,6487,Corry Selete,548177,20180418,Short Shipment,73551001,,
+C4,6487,Corry Selete,548179,20180418,Short Shipment,77014401,,
+C2,6487,Albert Siaga,548238,20180418,Short Shipment,56033078,,
+C1,6487,Albert Siaga,548254,20180418,Over Shipment,445403188,,
+C2,4684,Antonia Pierce,548263,20180418,Damaged Part,BG00641499,,
+12,6487,Albert Siaga,548270,20180418,Short Shipment,7857-4810-20,,
+12,6487,Albert Siaga,548272,20180418,Short Shipment,7857-4810-20,,
+12,6487,Albert Siaga,548273,20180418,Short Shipment,7857-4810-20,,
+12,6487,Albert Siaga,548275,20180418,Short Shipment,7324-9655-20,,
+12,6487,Albert Siaga,548276,20180418,Short Shipment,7324-9655-20,,
+12,6487,Albert Siaga,548278,20180418,Short Shipment,7324-8631-20,,
+12,6487,Albert Siaga,548279,20180418,Short Shipment,7324-8643-20,,
+12,6487,Albert Siaga,548282,20180418,Short Shipment,7324-9643-20,,
+12,6487,Albert Siaga,548283,20180418,Short Shipment,7324-4715C-20,,
+C2,4684,Timothy Elsesser,548288,20180418,Short Shipment,751.0878-901,,

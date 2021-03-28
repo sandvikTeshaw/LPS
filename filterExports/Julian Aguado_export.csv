@@ -1,0 +1,48 @@
+"Parent Ticket","Ticket ID",Company,Classification,Priority,Type,"Item Number","Order Number",Requester,"Date Created","Last Update","Last Updater",Owner,Planner,Stockroom,Buyer,"Days Open",Status,Res.,"Last Comment"
+0,807160,"Sandvik Mining and Construction France","Global Order Processing Support",2,"Damaged part",56019703,6118004,"Mustapha Drissi","2021/02/24 07:47:41","2021/02/24 11:42:27","Julian Aguado","Mustapha Drissi","Julian Aguado",C1,,0,Open,No,"Hi Mustapha,
+
+Use RTDI046158 for this return. Please provide Dims and weight and ensure this return number is on the outside of the package. Also confirm the pick up address. Once RTDI046158 is returned into C1 a credit will be issued.  BR, Julian"
+0,806954,"Sandvik Mining and Construction Sverige AB","Global Order Processing Support",2,Expediting,23709208,6122377,"Goran Pettersson","2021/02/23 16:25:35","2021/02/24 10:37:42","Julian Aguado","Goran Pettersson","Julian Aguado",C1,,1,Comp,No,"COMPLETE - Assign Resource - Hi Goran,
+
+Best ETA is 16.3.2021 into C1. Please resolve this ticket. BR, Julian"
+0,806788,"Sandvik Mining and Construction Sverige AB","Global Order Processing Support",2,"Track and Trace Issue",,6104596,"Goran Pettersson","2021/02/23 09:41:00","2021/02/24 13:14:15","Goran Pettersson","Goran Pettersson","Julian Aguado",,,1,Open,No,"Hi Chris,
+
+I did place a new order for these parts yesterday.
+
+Br
+Göran"
+0,805407,"CEVA Logistics","Global Order Processing Support",3,"Short Shipment",56208728,6088054,"C1 Deviations","2021/02/18 17:57:12",-,"No Update","C2 Outbound","Julian Aguado",C2,,6,Open,No,
+0,803119,"SMC Logistics Ltd","Global Order Processing Support",3,Expediting,67465531,6102807,"Mustapha Drissi","2021/02/18 12:39:06","2021/02/18 12:41:21","Julian Aguado","Willam Theron","Julian Aguado",C1,,6,Open,No,"Reminder Sent to PFC"
+0,803092,"Sandvik Mining and Construction France","Global Order Processing Support",2,Expediting,BG00769484,6072716,Laurence.mollon,"2021/02/18 11:03:17","2021/02/24 08:41:16","Ambre Bidaud","Ambre Bidaud","Julian Aguado",,,6,Open,No,CLOSED
+0,803086,"Sandvik Mining and Construction Sverige AB","Global Order Processing Support",1,Expediting,BG00428191,6115783,"Goran Pettersson","2021/02/18 10:13:35","2021/02/24 11:22:31","Jagoda Staworzynska","James Hallford","Julian Aguado",C1,,6,Open,No,"Hi Jim, due to collapsing of the TNT hub in Belgium caused by the snow, TNT services has been suspended. CEVA has escalated to carrier and carrier has escalated internally, but there is no update for this parcel at the moment. I was assured this issue has been looked after and I will be informed as soon there is any change, but for now status of the part stays unknown.
+
+Br, Jagoda"
+0,802696,"Sandvik E.M.S. Ticaret A.S.","Global Order Processing Support",2,Miscellaneous,BG00579886,5966914,"Turkey Logistic","2021/02/17 07:24:32","2021/02/23 19:30:08","Julian Aguado","Maria Carrick","Julian Aguado",C1,,7,Open,No,"Thanks Maria"
+0,801627,"Sandvik Mining and Construction France","Global Order Processing Support",2,"Wrong Part",BG00361397,6087909,Laurence.mollon,"2021/02/11 12:31:07","2021/02/19 16:41:30","Julian Aguado",Laurence.mollon,"Julian Aguado",C1,,13,Open,No,"Reminder Sent to Owner Laurence.mollon"
+0,801590,"Sandvik Mining and Construction Ltd","Global Order Processing Support",2,Expediting,BG00984449,6029960,"Oliver Calland","2021/02/11 09:45:25","2021/02/11 13:38:53","Julian Aguado","Oliver Calland","Julian Aguado",24,,13,Comp,No,"COMPLETE - Assign Resource - Hi Oliver,
+
+As per comments, best ETA is 16.3.2021. Please resolve this ticket, BR, Julian"
+0,800874,"Sandvik E.M.S. Ticaret A.S.","Global Order Processing Support",2,Expediting,BB00000040,6024811,"Beril Basol","2021/02/09 11:51:59","2021/02/15 11:39:26","Raivis Perdijaks","Aayush Jain","Julian Aguado",C1,,15,Open,No,"Issue Escalated to Stewart Abbott"
+0,800026,"Sandvik Mining and Construction France","Global Order Processing Support",2,Expediting,017347-001,6096857,"Severine Ghalem-Malric","2021/02/05 10:31:46","2021/02/11 15:52:08","Julian Aguado","Severine Ghalem-Malric","Julian Aguado",C1,,19,Comp,No,"COMPLETE - Assign Resource - Hi Severine,
+
+Best ETA is 13.4.2021 at C2. DETA for RP 6096859 to C1 is 27.4.2021. lease resolve this ticket. BR, Julian"
+0,798659,"Sandvik Mining and Construction Ltd","Global Order Processing Support",2,"Wrong Part",BG00463211,6072672,"Oliver Calland","2021/02/02 09:30:10","2021/02/23 10:21:27","Oliver Calland","UG Drills Partssupport","Julian Aguado",C1,,22,Open,No,"Reminder Sent to Owner UG Drills Partssupport"
+0,793800,"Sandvik E.M.S. Ticaret A.S.","Global Order Processing Support",2,Miscellaneous,CP48301,5871222,"Turkey Logistic","2021/01/14 13:38:49","2021/02/17 19:23:03","Maria Carrick","Turkey Logistic","Julian Aguado",C1,,41,Open,No,"Issue Escalated to Tolga OZDEMIR"
+0,789884,"Sandvik Middle East FZE","Global Order Processing Support",2,Expediting,87994609,5987048,"Myla Ramos","2020/12/31 06:45:29","2021/02/10 12:45:18","Natalia Gladuneac","Myla Ramos","Julian Aguado",C1,,55,Comp,No,"COMPLETE - Assign Resource - Hi Myla, the like is already despatched: 5987048/08 -13/01/21 30.000 K672853.
+Kind Regards, Natalia"
+0,789550,"Sandvik Middle East FZE","Global Order Processing Support",2,Expediting,55190218,6012043,"Georgina Susan","2020/12/29 07:02:50","2021/02/11 13:54:06","Julian Aguado","Georgina Susan","Julian Aguado",C1,,57,Comp,No,"COMPLETE - Assign Resource - Hi Georgina,
+
+Best ETA is 9.4.2021 at C1. Please resolve this ticket. BR, Julian"
+0,780587,"Sandvik A/S","Global Order Processing Support",2,Expediting,BG00653211,5980171,"Merja Pehula","2020/11/16 08:29:19","2021/02/17 14:11:24","Michelle Cummins","Merja Pehula","Julian Aguado",C1,,100,Comp,No,"COMPLETE - Hi Merja,
+Please see below.
+Apologies for this delay.
+Can you please reclose ticket.
+Thanks,
+Michelle"
+0,763949,"Sandvik Middle East FZE","Global Order Processing Support",3,"Wrong Part",BG00439329,5829947,"Elma Ardona","2020/09/17 09:55:12","2021/02/23 18:20:16","Maria Carrick","Elma Ardona","Julian Aguado",C1,,160,Open,No,"Hello Elma
+
+I think this is a question for Natalia
+
+Rgds Maria"
+0,752128,"SMC Region NEU,Finland","Global Order Processing Support",2,"Wrong Part",55058782,5808479,"Aleksi Laakso","2020/07/24 09:35:15","2021/01/07 16:05:13","Julian Aguado","Mervi Kannisto","Julian Aguado",C1,,215,Open,No,"Issue Escalated to Joakim Strandberg"
+0,745989,"Sandvik Middle East FZE","Global Order Processing Support",2,"Wrong Part",BG01178423,5434005,"Myla Ramos","2020/06/29 12:38:30","2021/02/22 05:36:23","Myla Ramos","Myla Ramos","Julian Aguado",C1,,240,Open,No,"Hi Maria, I got the confirmation that shipment has departed. I shall keep this ticket open until we have the CN for this return. Thanks."

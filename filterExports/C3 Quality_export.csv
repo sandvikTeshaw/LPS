@@ -1,0 +1,6 @@
+"Parent Ticket","Ticket ID",Company,Classification,Priority,Type,"Item Number","Order Number",Requester,"Date Created","Last Update","Last Updater",Owner,Planner,Stockroom,Buyer,"Days Open",Status,Res.,"Last Comment"
+0,805869,"SMC Logistics Ltd","Global Order Processing Support",3,"Wrong Part",56025949,6104214,"C3 Inbound","2021/02/22 03:06:08",-,"No Update","C2 Outbound","Vincent Ling",C2,,0,Open,No,
+0,805813,"SMC Logistics Ltd","Global Order Processing Support",3,"Short Shipment",85223559,6030648,"C3 Inbound","2021/02/21 06:49:58",-,"No Update","C1 Eindhoven - CS Outbound","Vincent Ling",C1,,1,Open,No,
+0,805795,"SMC Logistics Ltd","Global Order Processing Support",3,"Short Shipment",70430538,6097609,"C3 Inbound","2021/02/20 04:04:22",-,"No Update","C1 Eindhoven - CS Outbound","Vincent Ling",C1,,2,Open,No,
+0,802259,"SMC Logistics Ltd","Global Order Processing Support",3,"Wrong Part",69041377,6090958,"C3 Inbound","2021/02/16 01:28:02",-,"No Update","C2 Outbound","Vincent Ling",C2,,6,Open,No,
+0,755249,"SMC Logistics Ltd","Global Order Processing Support",3,"Short Shipment",853.0646-00,5746680,"C3 Inbound","2020/08/11 01:49:10","2020/08/27 05:54:16","C3 Inbound","SR37 Venlo","Logistics Process Support",37,,195,Open,No,"Issue Escalated to Jamie Heath"

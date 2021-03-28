@@ -1,0 +1,876 @@
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210218, UTIM01='150043', EDAT01=20210218, ESTI01='150043', ESLV01=0, UPID01=14173, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7152791, , '', 20210218, '15:00:43', 14173, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210218, UTIM01='153034', EDAT01=20210218, ESTI01='153034', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7152883, , '', 20210218, '15:30:34', 15593, '')
+308 - maintenanceUserAdd.php,
+286 - maintenanceUserAdd.php,
+308 - maintenanceUserAdd.php,
+308 - maintenanceUserAdd.php,
+308 - maintenanceUserAdd.php,
+308 - maintenanceUserAdd.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210218, UTIM01='224846', EDAT01=20210218, ESTI01='224846', ESLV01=0, UPID01=16023, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7154284, , '', 20210218, '22:48:46', 16023, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210218, UTIM01='233755', EDAT01=20210218, ESTI01='233755', ESLV01=0, UPID01=16023, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7154321, , '', 20210218, '23:37:55', 16023, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = bg00323810
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210219, UTIM01='015443', EDAT01=20210219, ESTI01='015443', ESLV01=0, UPID01=12051, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7154606, , '', 20210219, '01:54:44', 12051, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210219, UTIM01='054143', EDAT01=20210219, ESTI01='054143', ESLV01=0, UPID01=14143, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7154808, , '', 20210219, '05:41:43', 14143, '')
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 411193
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210219, UTIM01='071907', EDAT01=20210219, ESTI01='071907', ESLV01=0, UPID01=13766, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7155000, , '', 20210219, '07:19:07', 13766, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 801678/
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210219, UTIM01='115118', EDAT01=20210219, ESTI01='115118', ESLV01=0, UPID01=15739, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7156842, , '', 20210219, '11:51:18', 15739, '')
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 802013 
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 336918
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = SN7740
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210220, UTIM01='141120', EDAT01=20210220, ESTI01='141120', ESLV01=0, UPID01=16098, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7159064, , '', 20210220, '14:11:20', 16098, '')
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = Hi Thuvesan ,
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = password
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = password
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 7022787 PIEZAS A RECIBIR EN TALLER SEMANA ENTRANTE
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = password
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = RTDI045185
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='080726', EDAT01=20210222, ESTI01='080726', ESLV01=0, UPID01=12955, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7162203, , '', 20210222, '08:07:26', 12955, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='082648', EDAT01=20210222, ESTI01='082648', ESLV01=0, UPID01=13643, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7162250, , '', 20210222, '08:26:48', 13643, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = BG00222246
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='093502', EDAT01=20210222, ESTI01='093502', ESLV01=0, UPID01=15006, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7162402, , '', 20210222, '09:35:02', 15006, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='094736', EDAT01=20210222, ESTI01='094736', ESLV01=0, UPID01=14725, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7162425, , '', 20210222, '09:47:36', 14725, '')
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+1046 - updateIssues.php,UPDATE CIL01 SET  OWNR01=, RESP01=, POFF01= WHERE ID01 = 806033
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = V
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='150045', EDAT01=20210222, ESTI01='150045', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7163450, , '', 20210222, '15:00:45', 15593, '')
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =1 AND USER08= 
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =3 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =4 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =5 AND USER08= 
+308 - maintenanceUserAdd.php,SELECT OPID08 FROM HLP08 WHERE ATTR08 =6 AND USER08= 
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = v
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+286 - maintenanceUserAdd.php,SELECT ID08, TEXT08 FROM HLP08 WHERE ATTR08=2 AND USER08=
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210222, UTIM01='214526', EDAT01=20210222, ESTI01='214526', ESLV01=0, UPID01=13766, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164145, , '', 20210222, '21:45:26', 13766, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='050146', EDAT01=20210223, ESTI01='050146', ESLV01=0, UPID01=15388, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164728, , '', 20210223, '05:01:46', 15388, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 802803,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='062802', EDAT01=20210223, ESTI01='062802', ESLV01=0, UPID01=14625, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164911, , '', 20210223, '06:28:02', 14625, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='062838', EDAT01=20210223, ESTI01='062838', ESLV01=0, UPID01=14625, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164912, , '', 20210223, '06:28:38', 14625, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='063125', EDAT01=20210223, ESTI01='063125', ESLV01=0, UPID01=12955, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164917, , '', 20210223, '06:31:25', 12955, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='064417', EDAT01=20210223, ESTI01='064417', ESLV01=0, UPID01=14563, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7164947, , '', 20210223, '06:44:17', 14563, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = v
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='092915', EDAT01=20210223, ESTI01='092915', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7165288, , '', 20210223, '09:29:15', 15593, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='101420', EDAT01=20210223, ESTI01='101420', ESLV01=0, UPID01=15388, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7165369, , '', 20210223, '10:14:20', 15388, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='110617', EDAT01=20210223, ESTI01='110617', ESLV01=0, UPID01=14808, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7165475, , '', 20210223, '11:06:17', 14808, '')
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='143922', EDAT01=20210223, ESTI01='143922', ESLV01=0, UPID01=13766, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7166072, , '', 20210223, '14:39:22', 13766, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 796730}
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210223, UTIM01='181948', EDAT01=20210223, ESTI01='181948', ESLV01=0, UPID01=15388, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7166542, , '', 20210223, '18:19:48', 15388, '')
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 414142
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 414144
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='073557', EDAT01=20210224, ESTI01='073557', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7168024, , '', 20210224, '07:35:57', 15593, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='083627', EDAT01=20210224, ESTI01='083627', ESLV01=0, UPID01=15993, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7169934, , '', 20210224, '08:36:27', 15993, '')
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = v
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 429285
+555 - updateIssues.php,UPDATE CIL36 SET AID36 =  WHERE ID36 = 429287
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='131412', EDAT01=20210224, ESTI01='131412', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7171171, , '', 20210224, '13:14:12', 15593, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='131414', EDAT01=20210224, ESTI01='131414', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7171171, , '', 20210224, '13:14:14', 15593, '')
+683 - showTicketDetails.php,SELECT ID01, RQID01, DESC01, LDES01, DATE01, STAT01, PRTY01, RSID01, TYPE01, CLAS01, BUYR01, OWNR01, POFF01,UDAT01,UTIM01,  KEY101, KEY201, KEY301, KEY401, CHCE01, IMPT01, EMDA01, EDAT01, ESTI01, PRNT01, CHLF01 FROM CIL01L00 WHERE ID01 = 803054/
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+745 - maintenanceUserEdit.php,
+754 - maintenanceUserEdit.php,
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='142327', EDAT01=20210224, ESTI01='142327', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7171398, , '', 20210224, '14:23:27', 15593, '')
+532 - updateIssues.php,SELECT * FROM CIL34 T1 LEFT JOIN CIL36 T2 ON T1.ID34 = T2.QID36 AND T2.TID36 =  WHERE T1.CLAS34 =  AND T1.TYPE34 = 
+823 - updateIssues.php,UPDATE CIL01 SET DESC01 = '', RQID01=, CLAS01=, TYPE01=, PRTY01=, RSID01=0,STAT01=, CDAT01=0, CTIM01='', UDAT01=20210224, UTIM01='142328', EDAT01=20210224, ESTI01='142328', ESLV01=0, UPID01=15593, OCCR01=0, EMDA01=0 WHERE ID01=
+913 - updateIssues.php,INSERT INTO CIL02 VALUES( 7171398, , '', 20210224, '14:23:28', 15593, '')

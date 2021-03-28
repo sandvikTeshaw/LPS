@@ -1,0 +1,930 @@
+Stockroom,Company,Requester,Ticket,Date,Type,Item Number,PFC Confirmation, Planner Confirmation
+C3,8200,Somenath Banerjee,540668,20180318,Over Shipment,08471033,,Y
+C3,8200,Somenath Banerjee,540669,20180318,Damaged Part,56023053,,Y
+C3,8200,Somenath Banerjee,540670,20180318,Damaged Part,56025948,,Y
+32,6487,Albert Siaga,540671,20180318,Short Shipment,56048473,,N/A
+C2,6487,Albert Siaga,540672,20180318,Short Shipment,04700857,,N/A
+C2,8289,Mv Sudheeran,540679,20180318,Short Shipment,65661472000,,Y
+63,1861,Hvss.receipts,540683,20180318,Short Shipment,04698158,,
+63,1861,Hvss.receipts,540711,20180319,Short Shipment,55019804,,
+C2,1861,C3 Inbound,540717,20180319,Short Shipment,004341-014,,
+C1,1861,C3 Inbound,540718,20180319,Short Shipment,55067473,,
+C2,1861,C3 Inbound,540725,20180319,Short Shipment,64552244,,
+C1,6526,Saul Njekwa,540760,20180319,Short Shipment,AF00100526,,N/A
+C1,2781,Tomasz Copija,540790,20180319,Short Shipment,473000104,,N
+C1,2781,Tomasz Copija,540791,20180319,Over Shipment,645582000,,N
+C1,3085,Kseniya Ivanova,540793,20180319,Short Shipment,15225488,,N
+C1,3085,Kseniya Ivanova,540796,20180319,Damaged Part,55037397,,N
+C4,6487,Katlego Lepedi,540816,20180319,Short Shipment,77009926,,N/A
+C4,6487,Andrea Schreuder,540836,20180319,Short Shipment,64402861,,N/A
+C4,6487,Andrea Schreuder,540838,20180319,Short Shipment,64402861,,N/A
+C1,1861,DHL Warehouse,540844,20180319,Short Shipment,629403990002,,
+C2,4684,Claudia Torres,540887,20180319,Short Shipment,55003603,,Y
+12,9500,Selcuk Unal,540902,20180319,Short Shipment,7515-4889-R48,,Y
+C1,6487,Lindy Nyathi,540943,20180319,Damaged Part,08471037,,N/A
+C2,4782,Doug Sibbald,540978,20180319,Short Shipment,CM65103-2,,Y
+C2,6487,Lindy Nyathi,540981,20180319,Short Shipment,55020129,,N/A
+C1,6487,Lindy Nyathi,540983,20180319,Short Shipment,77794282,,N/A
+C1,6487,Lindy Nyathi,540984,20180319,Short Shipment,04701244,,N/A
+C2,4782,Shelley Maki,540985,20180319,Short Shipment,WU11807,,Y
+C2,4684,Suzanne Mendez,540990,20180319,Over Shipment,55163726,,Y
+C2,4684,Claudia Torres,541015,20180319,Over Shipment,76315057,,Y
+C1,2301,Julio Cotera,541040,20180319,Short Shipment,73419914,,Y
+C2,2301,Julio Cotera,541043,20180319,Short Shipment,034676-001,,N
+C2,2301,Julio Cotera,541045,20180319,Short Shipment,009999-001,,Y
+C2,4684,Candy Shields,541047,20180319,Short Shipment,78401815,,N
+C2,2301,Julio Cotera,541056,20180319,Short Shipment,55018882,,Y
+C3,8441,Balikpapan Warehouse,541090,20180320,Short Shipment,020123-052,,N
+63,9885,Lance Waddell-Smith,541133,20180320,Misdirected Part/Shipment,442.9073-01,,N/A
+C1,3081,Alias Bochkarev,541151,20180320,Short Shipment,55005676,,
+63,9885,Steven Daly,541152,20180320,Over Shipment,88815209,,N
+C2,2302,Berenice Guzman,541156,20180320,Over Shipment,08002310,,N/A
+C2,2300,C1Deviations,541165,20180320,Damaged Part,55053755,,N/A
+C2,2300,C1Deviations,541174,20180320,Over Shipment,04700406,,N/A
+C1,3081,Alias Bochkarev,541179,20180320,Short Shipment,56037774,,N/A
+C1,3200,Maria Jose,541185,20180320,Misdirected Part/Shipment,55059617,,N
+C1,3200,Maria Jose,541187,20180320,Misdirected Part/Shipment,55186990,,N
+C3,120,Leif Hedberg,541208,20180320,Short Shipment,7733-4651-S48,,
+37,3200,Marisol Galvez,541242,20180320,Misdirected Part/Shipment,442.7911-01,,N
+C2,2300,C1Deviations,541245,20180320,Over Shipment,04691817,,N/A
+C3,8200,Somenath Banerjee,541254,20180320,Short Shipment,55153743,,Y
+C3,8287,Ragi Prakash,541266,20180320,Short Shipment,03389270,,N
+C3,8287,Ragi Prakash,541267,20180320,Short Shipment,87082269,,N
+37,2500,Laura Grigoli,541275,20180320,Misdirected Part/Shipment,714-1839-65,,Y
+37,3200,Margarita De Diego,541298,20180320,Damaged Part,714-2033-65,,Y
+C1,3485,Angelika Remy,541360,20180320,Short Shipment,55065824,,N/A
+C2,4684,Theresa Hazuda,541368,20180320,Damaged Part,04732006,,Y
+C2,2302,Berenice Guzman,541372,20180320,Short Shipment,55199140,,N
+C2,2302,Berenice Guzman,541385,20180320,Over Shipment,04790831,,N/A
+C2,2301,Julio Cotera,541395,20180320,Over Shipment,002219-006,,Y
+C2,6487,Lindy Nyathi,541401,20180320,Short Shipment,64589010,,N/A
+C2,6487,Lindy Nyathi,541402,20180320,Short Shipment,55061387,,N/A
+C2,6487,Lindy Nyathi,541403,20180320,Short Shipment,64113615,,N/A
+C1,6487,Lindy Nyathi,541404,20180320,Short Shipment,09371820,,N/A
+C1,6487,Lindy Nyathi,541405,20180320,Short Shipment,AF10140001,,N/A
+C1,6487,Lindy Nyathi,541406,20180320,Short Shipment,AF25020616,,N/A
+C2,6487,Lindy Nyathi,541409,20180320,Short Shipment,016403-001,,N/A
+C2,6487,Lindy Nyathi,541410,20180320,Short Shipment,003928-001,,N/A
+C2,6487,Lindy Nyathi,541411,20180320,Short Shipment,04696261,,N/A
+C2,2302,Berenice Guzman,541415,20180320,Short Shipment,55014949,,Y
+C2,2302,Berenice Guzman,541416,20180320,Short Shipment,908.0408-00,,Y
+C2,4782,Melissa Duguay,541417,20180320,Short Shipment,56043615,,Y
+C2,2302,Berenice Guzman,541419,20180320,Short Shipment,02950470,,Y
+C2,2302,Berenice Guzman,541422,20180320,Short Shipment,85443529,,N
+C2,2302,Berenice Guzman,541424,20180320,Short Shipment,56023052,,N
+C2,5100,Marcelo Munoz,541426,20180320,Short Shipment,BH00009948,,Y
+C1,5100,Marcelo Munoz,541427,20180320,Short Shipment,04731550,,Y
+C2,4684,Suzanne Mendez,541431,20180320,Short Shipment,56027521,,Y
+C1,2301,Julio Cotera,541455,20180320,Damaged Part,88780929,,Y
+C1,9885,Inventory Brisbane,541464,20180320,Short Shipment,65655462000,,N/A
+C1,9885,Inventory Brisbane,541466,20180320,Short Shipment,AF11460004,,N/A
+C1,9885,Inventory Brisbane,541467,20180320,Short Shipment,442.7997-01,,N/A
+6A,9885,Felicity Smith,541474,20180320,Damaged Part,BG00385921,,N
+,4684,Ashley Zazueta,541482,20180320,Damaged Part,78410572,,Y
+C2,4684,Claudia Torres,541485,20180320,Short Shipment,70460814,,Y
+67,9885,Nita Broughton,541494,20180321,Short Shipment,56212771,,N/A
+67,9885,Nita Broughton,541496,20180321,Short Shipment,55159265,,
+67,9885,Nita Broughton,541498,20180321,Short Shipment,7979-2626,,
+67,9885,Nita Broughton,541499,20180321,Short Shipment,25102528,,
+C2,2302,Berenice Guzman,541527,20180321,Short Shipment,88801109,,N
+63,9885,George Hema,541531,20180321,Short Shipment,88794609,,N/A
+63,9885,George Hema,541545,20180321,Over Shipment,55167045,,N/A
+C3,8961,Munkhtsatsral,541548,20180321,Short Shipment,002301-001,,Y
+C1,9500,Selcuk Unal,541559,20180321,Short Shipment,04940268,,
+C2,2300,C1Deviations,541560,20180321,Over Shipment,04696385,,N/A
+C1,1861,DHL Warehouse,541562,20180321,Over Shipment,06540797,,N
+C2,2302,Berenice Guzman,541581,20180321,Short Shipment,07612142,,Y
+C2,2302,Berenice Guzman,541594,20180321,Short Shipment,70430531,,N
+12,7950,Joann Zacarias,541619,20180321,Short Shipment,7516-7889A-S48,,N/A
+C2,6487,Mavis Mashala,541623,20180321,Short Shipment,007946-053,,N/A
+C1,6487,Mavis Mashala,541625,20180321,Short Shipment,56024635,,N/A
+C2,6487,Mavis Mashala,541626,20180321,Short Shipment,04723002,,N/A
+C2,4684,Tiffany Juggins,541651,20180321,Damaged Part,69043790,,Y
+C2,4684,Claudia Torres,541671,20180321,Short Shipment,32753276,,Y
+C2,5681,Jennyfer Vera,541676,20180321,Over Shipment,77007232,,N/A
+C3,8200,Somenath Banerjee,541679,20180321,Short Shipment,88472049,,Y
+C1,2301,Julio Cotera,541684,20180321,Wrong Part,845.0221-00,,N
+C2,5681,Jennyfer Vera,541695,20180321,Over Shipment,04691019,,N/A
+C2,5681,Yishar Galindo,541703,20180321,Over Shipment,77007728,,N
+C2,5681,Yishar Galindo,541704,20180321,Short Shipment,56027718,,N/A
+C2,2302,Jorge Rodriguez Valadez,541724,20180321,Short Shipment,55071394,,N/A
+C2,5681,ROCIO ZAMORA,541729,20180321,Short Shipment,018034-054,,N
+C2,5681,ROCIO ZAMORA,541751,20180321,Short Shipment,011735-004,,N
+C2,5681,ROCIO ZAMORA,541760,20180321,Over Shipment,001562-012,,Y
+C2,2300,C1Deviations,541811,20180321,Damaged Part,007704-001,,N/A
+C1,5090,Edward Cavalcanti,541825,20180322,Over Shipment,55038500,,Y
+C2,9885,Inventory Brisbane,541836,20180322,Over Shipment,CP45290-5,,N/A
+C2,9885,Inventory Brisbane,541837,20180322,Short Shipment,56040418,,N/A
+C1,5090,Edward Cavalcanti,541838,20180322,Short Shipment,166887,,Y
+C1,5090,Edward Cavalcanti,541840,20180322,Over Shipment,77007816,,Y
+C1,1861,Amy Zheng,541841,20180322,Short Shipment,AF00100735,,Y
+63,9885,Timothy Osborne,541844,20180322,Damaged Part,20891618,,N/A
+C3,1861,Lily.lee,541853,20180322,Short Shipment,442.7950-01,,Y
+67,9885,Nita Broughton,541858,20180322,Short Shipment,AF00500567,,N/A
+67,9885,Nita Broughton,541859,20180322,Short Shipment,20838058,,N/A
+67,9885,Nita Broughton,541860,20180322,Short Shipment,55059178,,N/A
+C3,8181,Nonoy Loriega,541864,20180322,Short Shipment,BG00357245,,Y
+C1,9885,Inbound Perth Hub,541869,20180322,Over Shipment,67006698,,N/A
+C1,3200,Maria Jose,541954,20180322,Damaged Part,001036-077,,N/A
+37,2083,Cedric Hannequau,541982,20180322,Misdirected Part/Shipment,42-4GYY115-S48,,Y
+C1,1281,Thomas Preiss,541985,20180322,Damaged Part,55066261,,N/A
+C2,2300,C1Deviations,541986,20180322,Short Shipment,CP001037,,N/A
+C3,2300,C1Deviations,542009,20180322,Short Shipment,012270-001,,N
+C2,4782,Kevin Montambeault,542011,20180322,Short Shipment,7993-3644,,
+C1,1882,Carol Goodyer,542023,20180322,Short Shipment,167747,,N
+C1,1882,Carol Goodyer,542024,20180322,Over Shipment,167744,,N
+C1,2301,Julio Cotera,542038,20180322,Over Shipment,AF00100737,,Y
+C2,6825,Benedicta Gotah,542044,20180322,Short Shipment,007185-005,,N/A
+C2,4684,Leza Jones,542046,20180322,Misdirected Part/Shipment,56002677,,
+C2,4684,Stacey Anderson,542054,20180322,Damaged Part,88494149,,Y
+C1,5100,Marcelo Munoz,542069,20180322,Short Shipment,04110404,,Y
+C1,5100,Marcelo Munoz,542071,20180322,Short Shipment,06575109,,Y
+C2,5681,Viviana Silva,OBP- Mexico,542072,20180322,Short Shipment,AF00101127,,N
+C1,5100,Marcelo Munoz,542074,20180322,Over Shipment,88282339,,Y
+C1,5100,Marcelo Munoz,542076,20180322,Damaged Part,AF00101230,,N
+C2,5100,Marcelo Munoz,542079,20180322,Damaged Part,001010-069,,Y
+C2,5100,Marcelo Munoz,542087,20180322,Short Shipment,001540-049,,N
+C2,5100,Marcelo Munoz,542088,20180322,Short Shipment,CX006691,,Y
+C2,4782,Lucie Doiron,542089,20180322,Short Shipment,BG00352144,,Y
+C2,5100,Marcelo Munoz,542090,20180322,Over Shipment,64281229,,Y
+C2,5100,Marcelo Munoz,542091,20180322,Over Shipment,71209795,,N
+63,9885,Rylie Thomas,542096,20180322,Short Shipment,30294728,,N
+07,2301,Julio Cotera,542098,20180322,Short Shipment,452.7002-901,,N/A
+63,9885,Rob Hart,542100,20180322,Damaged Part,56048471,,N/A
+63,9885,Rob Hart,542101,20180322,Damaged Part,56211639,,N/A
+C3,2302,Berenice Guzman,542116,20180322,Short Shipment,7314-4455,,
+C2,2302,Berenice Guzman,542119,20180322,Short Shipment,73825613,,N
+C2,2302,Berenice Guzman,542120,20180322,Short Shipment,55150568,,N
+C2,2302,Berenice Guzman,542123,20180322,Over Shipment,55003603,,Y
+C2,5681,Jennyfer Vera,542124,20180322,Misdirected Part/Shipment,64802577,,N/A
+C1,9885,Inventory Brisbane,542126,20180322,Damaged Part,30294728,,N/A
+C2,9885,Inventory Brisbane,542140,20180323,Over Shipment,004756-001,,
+67,9885,Tawnie Herrington,542141,20180323,Damaged Part,CX005408,,N/A
+C1,9885,Inventory Brisbane,542142,20180323,Short Shipment,32305758,,
+C2,2302,Berenice Guzman,542143,20180323,Over Shipment,00696330,,N/A
+C2,2302,Berenice Guzman,542144,20180323,Over Shipment,02798960,,N
+C1,9885,Inventory Brisbane,542146,20180323,Over Shipment,32305628,,
+63,9885,Brian Rushmore,542147,20180323,Short Shipment,15020828,,N/A
+63,1861,Hvss.receipts,542148,20180323,Over Shipment,AFP1009-3,,
+63,1861,Hvss.receipts,542149,20180323,Short Shipment,AF03000029,,
+43,1861,Hvss.receipts,542150,20180323,Over Shipment,7516-4902-R48,,
+43,1861,Hvss.receipts,542151,20180323,Over Shipment,7516-4902-S48,,
+67,9885,Kate Rigby,542163,20180323,Damaged Part,CX021746,,N/A
+C1,280,Jari-Pekka Huttula,542167,20180323,Short Shipment,984.0814-00,,N
+C1,9885,Inbound Perth Hub,542171,20180323,Short Shipment,BG00955877,,N/A
+C3,9181,Elly Li,542188,20180323,Damaged Part,33001698,,N
+C2,1861,C3 Inbound,542248,20180323,Short Shipment,64132922,,
+C4,6481,Andile Soko,542265,20180323,Short Shipment,55032339,,N/A
+C4,6481,Andile Soko,542266,20180323,Damaged Part,BB00000184,,N/A
+C2,5681,Maria Chocoteco,542275,20180323,Damaged Part,001079-001,,N
+C2,6825,Benedicta Gotah,542276,20180323,Short Shipment,001330-223,,N/A
+C1,6825,Benedicta Gotah,542280,20180323,Short Shipment,88021199,,N/A
+C1,6825,Benedicta Gotah,542283,20180323,Short Shipment,88544789,,N/A
+C1,6825,Benedicta Gotah,542295,20180323,Short Shipment,80097529,,N/A
+C2,4684,Theresa Hazuda,542308,20180323,Damaged Part,541200516,,Y
+,2083,Ambre Roy,542311,20180323,Damaged Part,88596329,,N
+C1,9500,Selcuk Unal,542318,20180323,Short Shipment,442.7102-01,,N
+C1,9500,Selcuk Unal,542338,20180323,Short Shipment,BG00208795,,N
+C1,9500,Selcuk Unal,542339,20180323,Short Shipment,04004079,,N
+C2,2301,Julio Cotera,542347,20180323,Short Shipment,55055874,,Y
+C1,1882,Chris Murray,542350,20180323,Damaged Part,902.1104-00,,N/A
+C2,1861,Dermot Carty,542351,20180323,Misdirected Part/Shipment,661608713,,Y
+C2,5681,Luis Angel Cuevas,542361,20180323,Short Shipment,88667809,,N
+C2,2302,Berenice Guzman,542368,20180323,Short Shipment,32-4655-GQA-04C,,N/A
+C2,2302,Berenice Guzman,542378,20180323,Over Shipment,56012766,,N/A
+C2,5681,Yusdivia Avila,542381,20180323,Short Shipment,56022663,,N
+C2,4684,Kevin Arnold,542391,20180323,Short Shipment,32-5160-WMA-04S,,
+07,5100,Marcelo Munoz,542398,20180323,Short Shipment,442.9265-00,,N/A
+07,5100,Marcelo Munoz,542399,20180323,Short Shipment,452.0314-901,,
+C2,4684,Antonia Pierce,542400,20180323,Short Shipment,BH00027567,,Y
+C2,2302,Berenice Guzman,542408,20180323,Over Shipment,55066836,,Y
+C2,2302,Berenice Guzman,542417,20180323,Short Shipment,76315057,,N
+C2,2302,Berenice Guzman,542427,20180323,Damaged Part,71407580,,N
+C2,2302,Berenice Guzman,542429,20180323,Over Shipment,AF00101232,,N/A
+C2,2302,Berenice Guzman,542433,20180324,Short Shipment,AF00101229,,N
+C4,6481,Thabo Malatji,542437,20180324,Over Shipment,BH00022185,,N/A
+C4,6481,Thabo Malatji,542438,20180324,Short Shipment,CX002549,,N/A
+,2302,Berenice Guzman,542442,20180324,Over Shipment,55036158,,N/A
+C1,6635,Jacqueline Warambo,542444,20180324,Short Shipment,55048556,,N/A
+C2,2302,Berenice Guzman,542461,20180324,Short Shipment,55047659,,N
+C3,8441,Sumardianto Samuel,542462,20180325,Over Shipment,08900212,,Y
+C3,8287,KEDAR ROY,542466,20180325,Damaged Part,442.7934-01,,Y
+C1,6635,Jacqueline Warambo,542475,20180325,Short Shipment,55151498,,N/A
+63,9885,Brendan Heuston,542480,20180325,Short Shipment,64101672,,N/A
+63,9885,Brendan Heuston,542482,20180325,Short Shipment,A2U900-472062,,N/A
+63,9885,Brendan Heuston,542483,20180325,Short Shipment,401790124,,N/A
+63,9885,Brendan Heuston,542484,20180325,Short Shipment,0812478,,N/A
+63,9885,George Hema,542487,20180326,Misdirected Part/Shipment,07613049,,N
+67,9885,Erin Schmidt,542490,20180326,Over Shipment,7767-4651A-S48,,Y
+C2,1861,C3 Inbound,542508,20180326,Short Shipment,016153-095,,
+63,9885,Steven Daly,542514,20180326,Short Shipment,26438771,,N
+C1,7950,Joann Zacarias,542585,20180326,Short Shipment,80307109,,N
+C1,7950,Joann Zacarias,542588,20180326,Short Shipment,81558479,,N
+C1,8200,Amruta Gokhale,542609,20180326,Short Shipment,55096799,,N/A
+C3,8200,Amruta Gokhale,542614,20180326,Short Shipment,55036059,,Y
+C1,8200,Amruta Gokhale,542615,20180326,Short Shipment,55036059,,Y
+C3,8200,Amruta Gokhale,542618,20180326,Short Shipment,55036059,,Y
+C2,120,J.R.Bowden,542622,20180326,Short Shipment,500955077,,Y
+C2,4782,Matthew Cormier,542652,20180326,Short Shipment,55212938,,Y
+C1,280,Marita Fagerstedt,542708,20180326,Short Shipment,452.5790-901,,N
+C2,4684,Bobbie Harwood,542730,20180326,Short Shipment,65697273000,,Y
+C1,6487,Lindy Nyathi,542750,20180326,Short Shipment,55095415,,N/A
+C2,5681,Emmanuel Velasquez,542757,20180326,Short Shipment,09373686,,Y
+C2,5681,Emmanuel Velasquez,542760,20180326,Short Shipment,04900630,,Y
+C2,5681,Emmanuel Velasquez,542761,20180326,Short Shipment,04182200,,Y
+C2,5681,Emmanuel Velasquez,542769,20180326,Short Shipment,08001209,,Y
+63,9885,Timothy Osborne,542805,20180326,Damaged Part,55032934,,N/A
+63,9885,Sara Fitzpatrick,542847,20180326,Short Shipment,T5YN,,
+63,9885,Sara Fitzpatrick,542848,20180326,Short Shipment,A2U936-594165,,
+C2,5681,MARCO IVAN PEREZ,542851,20180327,Short Shipment,56213272,,Y
+C2,9885,Inbound Perth Hub,542860,20180327,Damaged Part,035635-001,,N/A
+C2,9885,Inbound Perth Hub,542861,20180327,Short Shipment,CP002286,,N/A
+C1,9885,Inbound Perth Hub,542862,20180327,Short Shipment,81558909,,N/A
+63,9885,Timothy Osborne,542879,20180327,Short Shipment,88129179,,N/A
+63,9885,Timothy Osborne,542893,20180327,Damaged Part,20790608,,N/A
+C1,9885,Inbound Perth Hub,542897,20180327,Short Shipment,56016954,,N/A
+C1,9885,Inbound Perth Hub,542898,20180327,Short Shipment,55162176,,N/A
+C2,9885,Inbound Perth Hub,542899,20180327,Short Shipment,BH00019718,,N/A
+C1,9885,Inbound Perth Hub,542900,20180327,Short Shipment,56208745,,N/A
+C3,9885,Inbound Perth Hub,542901,20180327,Over Shipment,7795-6428-B48,,N/A
+C1,9885,Inventory Brisbane,542908,20180327,Damaged Part,20790608,,N/A
+67,9885,Erin Schmidt,542912,20180327,Short Shipment,42-581D152-S48,,Y
+67,9885,Erin Schmidt,542913,20180327,Short Shipment,42-888E254-S48,,Y
+,6526,Malambo Haampeyo,542927,20180327,Short Shipment,7324-4715C-20,,N/A
+C3,1861,SR43 SMC India,542932,20180327,Damaged Part,7514-4876-S48,,
+C4,6487,Katlego Lepedi,542945,20180327,Short Shipment,67006698,,N/A
+C1,8287,Bhasker Ameta,542946,20180327,Damaged Part,BG00385921,,Y
+C4,6487,Katlego Lepedi,542948,20180327,Short Shipment,55032339,,N/A
+C4,6487,Andrea Schreuder,542982,20180327,Short Shipment,70271378,,N/A
+C4,6487,Andrea Schreuder,542984,20180327,Short Shipment,69036434,,N/A
+C4,6487,Andrea Schreuder,542992,20180327,Short Shipment,56001775,,N/A
+C1,1861,DHL Warehouse,543030,20180327,Over Shipment,56018232,,N
+C1,1861,DHL Warehouse,543032,20180327,Over Shipment,29604902,,N/A
+C2,1161,Mervi Kannisto,543049,20180327,Short Shipment,001763-212,,N/A
+C2,1161,Mervi Kannisto,543050,20180327,Short Shipment,029149-003,,N
+C2,4684,Theresa Hazuda,543066,20180327,Short Shipment,DP218200,,Y
+C2,6526,Malambo Haampeyo,543069,20180327,Short Shipment,04698491,,N/A
+C2,4684,Cathy Kempen,543092,20180327,Short Shipment,BG00215156,,Y
+C2,5681,Jennyfer Vera,543108,20180327,Over Shipment,56044761,,N
+C2,2301,Julio Cotera,543145,20180327,Short Shipment,016308-054,,N
+C2,5681,Luis Angel Cuevas,543149,20180327,Misdirected Part/Shipment,70821062,,N
+C2,2301,Julio Cotera,543150,20180327,Short Shipment,009647-052,,N/A
+C2,5681,Luis Angel Cuevas,543152,20180327,Misdirected Part/Shipment,55199530,,N
+C2,5681,Luis Angel Cuevas,543155,20180327,Misdirected Part/Shipment,26439808,,N
+C2,4684,Richard Pope,543169,20180327,Short Shipment,77014165,,Y
+C2,4684,Richard Pope,543170,20180327,Short Shipment,77014203,,Y
+C1,2301,Julio Cotera,543177,20180327,Over Shipment,55066836,,Y
+C1,2301,Julio Cotera,543178,20180327,Over Shipment,85516179,,Y
+C1,2301,Julio Cotera,543180,20180327,Over Shipment,73930162,,N
+C1,2301,Julio Cotera,543181,20180327,Over Shipment,AF00100736,,Y
+C1,2301,Julio Cotera,543182,20180327,Short Shipment,70250478,,Y
+C1,9885,Inventory Brisbane,543190,20180327,Over Shipment,29605641,,
+C1,9885,Inventory Brisbane,543192,20180327,Short Shipment,22336588,,
+C1,9885,Inventory Brisbane,543217,20180328,Damaged Part,55156731,,N/A
+C1,9885,Inventory Brisbane,543220,20180328,Damaged Part,55156731,,N/A
+C1,9885,Inventory Brisbane,543221,20180328,Damaged Part,55156731,,N/A
+C1,9885,Inventory Brisbane,543222,20180328,Damaged Part,55156731,,N/A
+C1,9885,Inventory Brisbane,543223,20180328,Damaged Part,55156731,,N/A
+C3,8287,Bhasker Ameta,543226,20180328,Short Shipment,AF02600012,,N
+63,9885,Ray Thomas,543229,20180328,Short Shipment,55163685,,
+63,9885,Ray Thomas,543230,20180328,Short Shipment,88663609,,N/A
+C1,9885,Inventory Brisbane,543235,20180328,Damaged Part,505770,,
+67,9885,Inventory Brisbane,543244,20180328,Damaged Part,37-004-00L,,
+C1,9885,Inventory Brisbane,543254,20180328,Short Shipment,55156369,,
+C1,9885,Inventory Brisbane,543255,20180328,Short Shipment,56016256,,N/A
+C1,9885,Inventory Brisbane,543257,20180328,Short Shipment,09144008,,
+C1,9885,Inventory Brisbane,543258,20180328,Shipment Packaging Issue - DRP ONLY,629950104,,
+C1,9885,Inventory Brisbane,543259,20180328,Short Shipment,55018631,,
+63,9885,Paul T Walker,543266,20180328,Short Shipment,BG00550204,,N/A
+C4,1861,C3 Inbound,543268,20180328,Short Shipment,BB00001075,,N/A
+C1,3081,Alias Bochkarev,543270,20180328,Short Shipment,55027767,,N
+C2,6526,Malambo Haampeyo,543275,20180328,Short Shipment,04697431,,N/A
+C3,8441,Balikpapan Warehouse,543277,20180328,Short Shipment,019148-053,,Y
+C2,6526,Malambo Haampeyo,543278,20180328,Short Shipment,04700279,,N/A
+C1,6487,Albert Siaga,543282,20180328,Short Shipment,AF00100736,,N/A
+C2,6526,Malambo Haampeyo,543283,20180328,Short Shipment,55016285,,N/A
+C1,6487,Albert Siaga,543284,20180328,Short Shipment,55006604,,N/A
+C2,6526,Malambo Haampeyo,543288,20180328,Short Shipment,04698780,,N/A
+C2,2300,C1Deviations,543290,20180328,Short Shipment,56006631,,N/A
+C1,9885,Inbound Perth Hub,543291,20180328,Short Shipment,02852030,,N/A
+C2,2302,Berenice Guzman,543324,20180328,Over Shipment,73810109,,N
+C2,2302,Berenice Guzman,543331,20180328,Short Shipment,73810109,,Y
+C2,2300,C1Deviations,543333,20180328,Over Shipment,CP65420-6,,N/A
+C4,6510,Acknowledge Nyajina,543349,20180328,Short Shipment,81514019,,N/A
+C4,6510,Acknowledge Nyajina,543350,20180328,Short Shipment,33001698,,N/A
+C4,6510,Acknowledge Nyajina,543351,20180328,Short Shipment,77025437,,N/A
+C4,6510,Acknowledge Nyajina,543360,20180328,Short Shipment,74830111,,N/A
+C4,6510,Acknowledge Nyajina,543363,20180328,Short Shipment,AF02000006,,N/A
+C4,6510,Acknowledge Nyajina,543364,20180328,Short Shipment,00714630,,N/A
+C4,6510,Acknowledge Nyajina,543381,20180328,Short Shipment,06575110,,N/A
+C4,6510,Acknowledge Nyajina,543384,20180328,Short Shipment,7767-5345A-S48,,N/A
+C2,6526,Malambo Haampeyo,543385,20180328,Short Shipment,04696935,,N/A
+C2,2300,C1Deviations,543398,20180328,Damaged Part,56041837,,N/A
+C4,6510,Acknowledge Nyajina,543407,20180328,Short Shipment,26511761,,N/A
+C4,6510,Acknowledge Nyajina,543408,20180328,Short Shipment,29601326,,N/A
+C4,6510,Acknowledge Nyajina,543411,20180328,Short Shipment,55171441,,N/A
+C4,6510,Acknowledge Nyajina,543412,20180328,Short Shipment,81558479,,N/A
+C4,6510,Acknowledge Nyajina,543413,20180328,Short Shipment,7732-4433C-S48,,N/A
+C4,6510,Acknowledge Nyajina,543414,20180328,Short Shipment,7732-5238-S48,,N/A
+C4,6510,Acknowledge Nyajina,543422,20180328,Short Shipment,BG00549519,,N/A
+C2,6487,Albert Siaga,543425,20180328,Short Shipment,73804184,,N/A
+C2,4684,Christopher Richmond,543430,20180328,Short Shipment,BG00661900,,Y
+C1,1861,Dermot Carty,543444,20180328,Misdirected Part/Shipment,65688426800,,Y
+C2,2300,C1Deviations,543447,20180328,Short Shipment,009481-053,,N/A
+07,2301,Julio Cotera,543479,20180328,Over Shipment,442.9587-02,,N/A
+C2,2301,Julio Cotera,543492,20180328,Over Shipment,55054883,,N
+C2,2301,Julio Cotera,543494,20180328,Over Shipment,80759069,,Y
+C3,5100,Marcelo Munoz,543495,20180328,Short Shipment,009476-002,,Y
+C1,5100,Marcelo Munoz,543496,20180328,Damaged Part,29500280,,N/A
+C2,5100,Marcelo Munoz,543497,20180328,Short Shipment,CP41014-42,,Y
+C1,7030,Kribe Diarra,543508,20180328,Short Shipment,55179656,,N/A
+C1,7030,Kribe Diarra,543509,20180328,Over Shipment,55179656,,N/A
+C1,7030,Kribe Diarra,543512,20180328,Short Shipment,56016941,,N/A
+C2,4782,Tracy Baxter,543517,20180328,Short Shipment,BG00220538,,N
+C2,2302,Berenice Guzman,543548,20180328,Short Shipment,04702020,,Y
+C2,5681,MARCO IVAN PEREZ,543550,20180328,Short Shipment,56213272,,N
+C2,5681,Daniel Alejandro Salcedo Garcia,543552,20180328,Short Shipment,BG00323348,,N
+C2,5681,Emmanuel Velasquez,543555,20180328,Short Shipment,56044183,,N
+C2,5681,Emmanuel Velasquez,543556,20180328,Short Shipment,04694140,,N
+C2,5681,ROCIO ZAMORA,543558,20180328,Short Shipment,70180418,,N
+63,9885,Sara Fitzpatrick,543559,20180328,Damaged Part,018551-002,,N/A
+C1,9995,Constance Hill C2 DHL Supply Chain,543571,20180329,Short Shipment,160942,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543572,20180329,Short Shipment,08001303,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543573,20180329,Short Shipment,06582408,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543574,20180329,Short Shipment,65645786000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543575,20180329,Short Shipment,04790444,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543576,20180329,Short Shipment,64585926,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543577,20180329,Over Shipment,56042622,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543578,20180329,Short Shipment,02803120,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543579,20180329,Short Shipment,55027767,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543581,20180329,Short Shipment,55025361,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543582,20180329,Short Shipment,55038494,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,543583,20180329,Short Shipment,55045836,,Y
+67,9885,Nita Broughton,543596,20180329,Short Shipment,88814169,,N/A
+67,9885,Kevin Dumughn,543597,20180329,Short Shipment,7306-7577-03,,N
+C2,2302,Berenice Guzman,543611,20180329,Over Shipment,81670339,,N
+C2,2300,C1Deviations,543621,20180329,Short Shipment,020878-002,,N/A
+C2,2302,Berenice Guzman,543623,20180329,Short Shipment,85081459,,N
+C2,2300,C1Deviations,543624,20180329,Short Shipment,04700237,,N/A
+C4,6510,Acknowledge Nyajina,543627,20180329,Short Shipment,7767-5602P-S48,,N/A
+C4,6510,Acknowledge Nyajina,543629,20180329,Short Shipment,87187509,,N/A
+C4,6510,Acknowledge Nyajina,543630,20180329,Short Shipment,64548737,,N/A
+C2,2300,C1Deviations,543631,20180329,Short Shipment,04696998,,N/A
+C4,6510,Acknowledge Nyajina,543634,20180329,Short Shipment,77722540,,N/A
+C1,9885,Inbound Perth Hub,543649,20180329,Short Shipment,442.7136-01,,N/A
+C1,9885,Inbound Perth Hub,543651,20180329,Short Shipment,56006912,,N/A
+C1,6487,Albert Siaga,543656,20180329,Short Shipment,81718489,,N/A
+C2,2302,Berenice Guzman,543665,20180329,Over Shipment,15575038,,N/A
+C1,6487,Verlene Christie,543680,20180329,Damaged Part,517487,,N/A
+C1,6487,Albert Siaga,543707,20180329,Short Shipment,300-012-089,,N/A
+C2,2300,C1Deviations,543714,20180329,Over Shipment,04700979,,N/A
+C2,2300,C1Deviations,543729,20180329,Over Shipment,04697044,,N/A
+C2,4684,Theresa Hazuda,543740,20180329,Damaged Part,66811877000,,Y
+63,2300,C1Deviations,543765,20180329,Short Shipment,A2U25-108073,,N/A
+C2,4684,Theresa Hazuda,543770,20180329,Short Shipment,661730059,,Y
+C2,4684,Theresa Hazuda,543771,20180329,Short Shipment,661730057,,Y
+C2,4684,Theresa Hazuda,543773,20180329,Short Shipment,65655616000,,Y
+C1,2500,Alessia Barbieri,543843,20180330,Over Shipment,88021199,,N
+C2,2302,Berenice Guzman,543844,20180330,Over Shipment,06544524,,N
+C2,2302,Berenice Guzman,543847,20180330,Short Shipment,56047178,,Y
+C3,8200,Sachin Kumar,543851,20180330,Short Shipment,04790082,,Y
+C2,2300,C1Deviations,543895,20180330,Over Shipment,55198405,,N/A
+C1,2300,C1Deviations,543898,20180330,Over Shipment,55219608,,
+C4,2300,C1Deviations,543909,20180330,Damaged Part,55025900,,N/A
+C4,2300,C1Deviations,543911,20180330,Over Shipment,BG00872329,,N/A
+C2,4782,Carter Elsasser,543936,20180330,Short Shipment,69039955,,Y
+C2,2300,C1Deviations,543938,20180330,Short Shipment,018781-115,,N/A
+C1,2083,Severine Ghalem-Malric,543941,20180330,Short Shipment,442.8363-01,,N
+C1,2083,Severine Ghalem-Malric,543942,20180330,Short Shipment,912.0139-00,,N
+C1,2083,Severine Ghalem-Malric,543943,20180330,Short Shipment,840.1188-00,,N
+C2,2302,Berenice Guzman,543948,20180330,Over Shipment,15068938,,N
+C2,2302,Berenice Guzman,543951,20180330,Over Shipment,15068938,,N/A
+C2,2300,C1Deviations,543966,20180330,Over Shipment,004546-005,,N/A
+C3,2300,C1Deviations,543982,20180330,Damaged Part,62-052-504HF,,N/A
+C1,5090,Edward Cavalcanti,543985,20180331,Short Shipment,85356169,,Y
+C1,5090,Edward Cavalcanti,543987,20180331,Over Shipment,77023116,,Y
+,5090,Edward Cavalcanti,543988,20180331,Short Shipment,55168792,,N/A
+C1,5090,Edward Cavalcanti,543989,20180331,Over Shipment,15274408,,Y
+C1,5090,Edward Cavalcanti,543990,20180331,Over Shipment,56032651,,Y
+C2,5090,Edward Cavalcanti,543991,20180331,Over Shipment,04699316,,N
+C1,5090,Edward Cavalcanti,543992,20180331,Short Shipment,55193142,,Y
+C3,8200,Somenath Banerjee,543996,20180401,Short Shipment,64280971,,N
+C2,1861,C3 Inbound,544001,20180402,Short Shipment,64592312,,
+C1,1861,Amy Zheng,544008,20180402,Short Shipment,55064566,,N
+C2,2300,C1Deviations,544013,20180402,Damaged Part,86794379,,N/A
+C3,8181,Nonoy Loriega,544022,20180402,Short Shipment,404-800-981-5,,N
+C1,7030,Kribe Diarra,544046,20180402,Misdirected Part/Shipment,88601219,,N/A
+C1,7030,Kribe Diarra,544047,20180402,Misdirected Part/Shipment,56209865,,N/A
+C1,1861,DHL Warehouse,544065,20180402,Short Shipment,80759069,,N
+C1,1861,DHL Warehouse,544070,20180402,Short Shipment,AF02000008,,N
+C1,1861,DHL Warehouse,544071,20180402,Short Shipment,BH00012906,,N
+C1,1861,DHL Warehouse,544073,20180402,Short Shipment,502950001,,N
+C1,1861,DHL Warehouse,544074,20180402,Short Shipment,56041579,,N
+C1,1861,DHL Warehouse,544076,20180402,Damaged Part,56041170,,N
+C2,2302,Berenice Guzman,544093,20180402,Short Shipment,70212618,,N
+67,9995,Constance Hill C2 DHL Supply Chain,544106,20180402,Over Shipment,56017850,,
+C3,9995,Constance Hill C2 DHL Supply Chain,544107,20180402,Damaged Part,BR00042113,,
+C2,4684,Richard Pope,544129,20180402,Short Shipment,77008502,,Y
+C2,5681,Emmanuel Velasquez,544133,20180402,Short Shipment,04710036,,N
+63,9885,George Hema,544145,20180402,Short Shipment,55036897,,N/A
+63,9885,George Hema,544146,20180402,Short Shipment,BG00202641,,N/A
+C2,2302,Berenice Guzman,544161,20180403,Short Shipment,88237349,,N
+C2,2302,Berenice Guzman,544162,20180403,Over Shipment,56044761,,N/A
+C2,2302,Berenice Guzman,544188,20180403,Over Shipment,70361762,,N/A
+C2,2302,Berenice Guzman,544194,20180403,Over Shipment,85516179,,N
+C2,2302,Berenice Guzman,544198,20180403,Over Shipment,BG00014818,,N/A
+37,3200,Maria Jose,544228,20180403,Short Shipment,7870-6124-11,,Y
+C1,1861,C3 Inbound,544231,20180403,Short Shipment,445203323,,
+C1,9885,Inbound Perth Hub,544234,20180403,Short Shipment,55086041,,N/A
+C2,2300,C1Deviations,544238,20180403,Short Shipment,CP16302,,N/A
+C2,2300,C1Deviations,544239,20180403,Short Shipment,BA00000311,,N/A
+C3,2300,C1Deviations,544244,20180403,Short Shipment,BA00000276,,N/A
+C1,1861,DHL Warehouse,544253,20180403,Short Shipment,AF03000031,,N
+,8289,Murthy GSN,544257,20180403,Short Shipment,797-5080-17,,N/A
+C2,6526,Saul Njekwa,544304,20180403,Short Shipment,64589380,,N/A
+07,4684,Cathy Kempen,544354,20180403,Short Shipment,442.8419-01,,
+C2,4782,Robert Thriault,544368,20180403,Damaged Part,56002244,,Y
+C1,2301,Julio Cotera,544371,20180403,Short Shipment,55044377,,N
+C2,5681,Jennyfer Vera,544406,20180403,Over Shipment,56016065,,N
+C1,120,Diego Fernando Ramirez,544418,20180403,Over Shipment,BT00015609,,N/A
+C1,120,Diego Fernando Ramirez,544423,20180403,Short Shipment,016153-296,,N
+C1,120,Diego Fernando Ramirez,544424,20180403,Short Shipment,55029508,,Y
+C1,120,Diego Fernando Ramirez,544425,20180403,Short Shipment,64120257,,Y
+C2,5681,Yishar Galindo,544428,20180403,Damaged Part,56018329,,N
+C1,9995,Constance Hill C2 DHL Supply Chain,544430,20180403,Damaged Part,74196192,,Y
+C1,2301,Julio Cotera,544462,20180403,Over Shipment,06530463,,Y
+C1,2301,Julio Cotera,544463,20180403,Over Shipment,AF00100734,,N
+C1,9885,Inventory Brisbane,544467,20180403,Over Shipment,56034265,,
+C2,5681,Roberto Burciaga,544470,20180403,Short Shipment,AF10140016,,N
+C2,5681,Roberto Burciaga,544471,20180403,Short Shipment,AF10140016,,N
+C2,5681,Roberto Burciaga,544473,20180403,Short Shipment,AF03000031,,N
+C2,5681,Roberto Burciaga,544474,20180403,Short Shipment,83371099,,N
+C2,5681,Roberto Burciaga,544475,20180403,Short Shipment,56036207,,N
+C2,5681,Roberto Burciaga,544477,20180403,Short Shipment,AF00100324,,N
+C2,5681,Roberto Burciaga,544479,20180403,Short Shipment,78402265,,N
+C2,5681,Roberto Burciaga,544481,20180403,Short Shipment,55079198,,N
+C2,5681,Roberto Burciaga,544482,20180403,Short Shipment,AF03000032,,N
+C2,5681,Roberto Burciaga,544483,20180403,Short Shipment,08002284,,N
+C2,5681,Roberto Burciaga,544484,20180403,Short Shipment,AF03000034,,N
+C1,9995,Constance Hill C2 DHL Supply Chain,544486,20180403,Over Shipment,56017520,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,544487,20180403,Short Shipment,04180250,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,544488,20180403,Short Shipment,06429032,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,544489,20180403,Short Shipment,08000150,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,544490,20180403,Short Shipment,08002477,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,544491,20180403,Short Shipment,09370012,,Y
+63,9885,Ruby Sa,544499,20180404,Short Shipment,04696527,,N
+63,9885,Ruby Sa,544500,20180404,Short Shipment,04696527,,N
+C3,8441,Sumardianto Samuel,544507,20180404,Short Shipment,56043629,,N
+C1,3081,Alias Bochkarev,544521,20180404,Short Shipment,038378-001,,N
+C1,3081,Alias Bochkarev,544524,20180404,Short Shipment,15034918,,N/A
+C1,3081,Alias Bochkarev,544525,20180404,Short Shipment,15367138,,N/A
+C1,3081,Alias Bochkarev,544526,20180404,Short Shipment,86878089,,N
+C1,3081,Alias Bochkarev,544527,20180404,Short Shipment,08000091,,N
+C1,3081,Alias Bochkarev,544530,20180404,Short Shipment,77021656,,N
+63,9885,Ruel Lawis,544531,20180404,Short Shipment,904,,N/A
+C4,6487,Rachel Thobejane,544552,20180404,Short Shipment,88259169,,N/A
+C4,2300,C1Deviations,544560,20180404,Short Shipment,404-801-245,,N/A
+C4,6487,Verlene Christie,544601,20180404,Short Shipment,442.8869-01,,N/A
+C3,8441,Balikpapan Warehouse,544615,20180404,Short Shipment,81514019,,N
+C1,6825,Benedicta Gotah,544625,20180404,Damaged Part,55047547,,N/A
+C2,6526,Malambo Haampeyo,544649,20180404,Short Shipment,04698491,,N/A
+C2,4782,Lucie Doiron,544658,20180404,Short Shipment,42-682E165-S48,,Y
+C2,6526,Malambo Haampeyo,544664,20180404,Damaged Part,04696752,,N/A
+C4,6510,Acknowledge Nyajina,544688,20180404,Short Shipment,04695584,,N/A
+C4,6510,Acknowledge Nyajina,544689,20180404,Short Shipment,88748739,,N/A
+,6526,Malambo Haampeyo,544692,20180404,Short Shipment,001111-006,,N/A
+37,1882,Chris Murray,544698,20180404,Misdirected Part/Shipment,BG00514564,,N
+C1,6487,Albert Siaga,544706,20180404,Short Shipment,55025794,,N/A
+37,3200,Margarita De Diego,544707,20180404,Damaged Part,7514-7964-R48,,Y
+C1,6487,Albert Siaga,544708,20180404,Short Shipment,56028868,,N/A
+C1,6487,Albert Siaga,544710,20180404,Short Shipment,87905259,,N/A
+,3485,Michael Banfer,544713,20180404,Short Shipment,831.0016-00,,N/A
+C2,5681,Daniel Alejandro Salcedo Garcia,544725,20180404,Short Shipment,7776-4438-B48,,N/A
+C2,2302,Berenice Guzman,544733,20180404,Damaged Part,73810109,,N
+C1,3208,Marta Raposo,544757,20180404,Short Shipment,14179548,,N/A
+C2,4684,Jean Grant,544772,20180404,Short Shipment,BG00516682,,Y
+C4,2300,C1Deviations,544776,20180404,Damaged Part,56026991,,N/A
+C4,2300,C1Deviations,544781,20180404,Damaged Part,55086137,,N/A
+C2,9885,Inventory Brisbane,544800,20180404,Damaged Part,018551-002,,N/A
+6A,9885,Erin Schmidt,544803,20180404,Short Shipment,7325-7718C-20,,
+63,1861,Hvss.receipts,544805,20180404,Short Shipment,002174-037,,
+63,1861,Hvss.receipts,544806,20180404,Short Shipment,019109-064,,
+67,9885,Nita Broughton,544820,20180405,Short Shipment,09705508,,
+C1,1861,C3 Inbound,544854,20180405,Short Shipment,85854349,,
+C3,8200,Ragi Prakash,544862,20180405,Short Shipment,28922128,,N
+C4,2300,C1Deviations,544864,20180405,Short Shipment,88375889,,N/A
+63,1861,Hvss.receipts,544865,20180405,Over Shipment,A2U913-651005,,
+C2,6526,Malambo Haampeyo,544876,20180405,Short Shipment,64589380,,N/A
+C1,9885,Inbound Perth Hub,544882,20180405,Short Shipment,BG00451123,,N/A
+C4,2300,C1Deviations,544890,20180405,Over Shipment,70730177,,N/A
+37,3200,Alejandro Teba,544895,20180405,Short Shipment,89-442-690-000,,
+C2,2302,Berenice Guzman,544901,20180405,Short Shipment,55038504,,N
+C4,2300,C1Deviations,544903,20180405,Over Shipment,04004047,,N/A
+C1,1861,DHL Warehouse,544920,20180405,Damaged Part,665530869,,N
+C1,1861,DHL Warehouse,544921,20180405,Damaged Part,502302050,,N
+C1,1861,C3 Inbound,544940,20180405,Short Shipment,33059728,,
+C1,1861,C3 Inbound,544941,20180405,Short Shipment,194.0566-012,,
+C2,1861,C3 Inbound,544943,20180405,Short Shipment,64587163,,
+C2,1861,C3 Inbound,544944,20180405,Short Shipment,64109568,,
+63,1861,C3 Inbound,544945,20180405,Short Shipment,114-8516-LFL,,
+C2,1861,C3 Inbound,544946,20180405,Short Shipment,CP000821,,
+C2,1861,C3 Inbound,544948,20180405,Short Shipment,019148-062,,
+C4,6487,Rachel Thobejane,544950,20180405,Short Shipment,00668970,,N/A
+C4,6487,Rachel Thobejane,544951,20180405,Short Shipment,BG00209945,,N/A
+67,2300,C1Deviations,544960,20180405,Short Shipment,56039697,,N/A
+C4,2300,C1Deviations,544979,20180405,Short Shipment,56030751,,N/A
+C4,2300,C1Deviations,544980,20180405,Short Shipment,81723059,,N/A
+C4,2300,C1Deviations,545001,20180405,Short Shipment,77722542,,N/A
+C1,4881,Julio Cotera,545015,20180405,Short Shipment,77019330,,Y
+C2,2302,Berenice Guzman,545016,20180405,Short Shipment,77017365,,N
+C1,6487,Albert Siaga,545017,20180405,Short Shipment,20892628,,N/A
+C1,3081,Alexander Vladykin,545018,20180405,Damaged Part,6EP1337-3BA00,,N/A
+C2,4684,Bobbie Harwood,545032,20180405,Damaged Part,15360328,,Y
+63,9885,Sara Fitzpatrick,545132,20180405,Short Shipment,BS00140633,,
+C3,2301,Julio Cotera,545135,20180405,Over Shipment,7776-4440-B48,,N/A
+C1,2301,Julio Cotera,545141,20180405,Short Shipment,840.0654-00,,N
+C1,2301,Julio Cotera,545142,20180405,Short Shipment,85675399,,N
+C2,2302,Berenice Guzman,545145,20180405,Short Shipment,00696330,,N
+C2,2302,Berenice Guzman,545146,20180405,Short Shipment,70130094,,N
+C1,1861,C3 Inbound,545157,20180406,Short Shipment,488.0141-001,,
+C1,9885,Inbound Perth Hub,545159,20180406,Short Shipment,29445945,,N/A
+C1,9885,Inbound Perth Hub,545160,20180406,Short Shipment,15252308,,N/A
+C1,9885,Inbound Perth Hub,545185,20180406,Short Shipment,56011633,,N/A
+12,2302,Berenice Guzman,545192,20180406,Short Shipment,7854-8631-20,,
+C1,2781,Tomasz Copija,545217,20180406,Short Shipment,65612313000,,N
+C1,2781,Tomasz Copija,545218,20180406,Over Shipment,638950000,,N
+C1,2781,Tomasz Copija,545219,20180406,Over Shipment,65612379850,,N
+C1,1861,DHL Warehouse,545220,20180406,Short Shipment,665530816,,N
+12,8481,Freeport Warehouse Inbound,545225,20180406,Over Shipment,7732-5238-R48,,N/A
+12,8481,Freeport Warehouse Inbound,545227,20180406,Short Shipment,7767-5143A-S48,,N/A
+63,1861,C3 Inbound,545243,20180406,Short Shipment,WU11664,,
+,6526,Titus Sikamikami,545258,20180406,Short Shipment,020370-002,,N/A
+C2,2300,C1Deviations,545268,20180406,Over Shipment,001564-005,,N/A
+C3,8200,Sachin Kumar,545273,20180406,Short Shipment,BG00570267,,N
+C3,8200,Sachin Kumar,545273,20180406,Short Shipment,BG00570267,,N
+C1,1882,Carol Goodyer,545281,20180406,Short Shipment,55190285,,N
+67,9885,Nita Broughton,545283,20180406,Short Shipment,26498041,,
+C1,6487,Albert Siaga,545285,20180406,Damaged Part,67413696,,N/A
+C1,3200,Margarita De Diego,545288,20180406,Short Shipment,512679,,N/A
+C4,2300,C1Deviations,545289,20180406,Short Shipment,56027361,,N/A
+C1,3200,Margarita De Diego,545290,20180406,Short Shipment,512834,,N/A
+C1,2781,Tomasz Copija,545291,20180406,Short Shipment,65639076000,,N
+C1,2781,Tomasz Copija,545292,20180406,Short Shipment,65649971000,,N
+C1,2781,Tomasz Copija,545296,20180406,Short Shipment,450053110,,N
+C4,6487,Rachel Thobejane,545297,20180406,Short Shipment,76315601,,N/A
+,2781,Tomasz Copija,545299,20180406,Over Shipment,56028311,,N
+,2781,Tomasz Copija,545299,20180406,Over Shipment,56028311,,N
+,2781,Tomasz Copija,545299,20180406,Over Shipment,56028311,,N
+C4,2300,C1Deviations,545300,20180406,Short Shipment,04900569,,N/A
+C4,2300,C1Deviations,545306,20180406,Damaged Part,BG00865150,,N/A
+C4,2300,C1Deviations,545307,20180406,Short Shipment,09333378,,N/A
+C4,6481,Gladys Letsitsi,545308,20180406,Wrong Part,23283918,,N/A
+C1,9500,Selcuk Unal,545312,20180406,Short Shipment,112092,,N
+C4,2300,C1Deviations,545323,20180406,Short Shipment,55086137,,N/A
+C1,5100,Marcelo Munoz,545363,20180406,Short Shipment,BG00212157,,Y
+C2,5681,ROCIO ZAMORA,545374,20180406,Short Shipment,BH00017117,,N
+C2,4782,Doug Sibbald,545388,20180406,Short Shipment,CM85811-LB,,Y
+C2,4782,Doug Sibbald,545390,20180406,Short Shipment,CX002977,,Y
+C1,2301,Julio Cotera,545397,20180406,Over Shipment,AF02000008,,Y
+C2,4684,Tiffany Juggins,545418,20180406,Short Shipment,55079260,,Y
+C1,5100,Marcelo Munoz,545431,20180406,Short Shipment,04182401,,Y
+C1,5100,Marcelo Munoz,545432,20180406,Short Shipment,55027767,,Y
+C1,5100,Marcelo Munoz,545433,20180406,Over Shipment,88163949,,Y
+C3,8481,Freeport Warehouse Inbound,545487,20180406,Short Shipment,172448,,N/A
+C3,8481,Freeport Warehouse Inbound,545488,20180407,Short Shipment,87169289,,N/A
+C3,8481,Freeport Warehouse Inbound,545489,20180407,Short Shipment,57210240,,N/A
+C3,8481,Freeport Warehouse Inbound,545491,20180407,Short Shipment,001825-012,,N/A
+C2,1861,C3 Inbound,545494,20180407,Short Shipment,023381-001,,
+C2,2302,Berenice Guzman,545495,20180407,Short Shipment,70271378,,N/A
+C2,2302,Berenice Guzman,545496,20180407,Short Shipment,56013011,,N
+C2,2302,Berenice Guzman,545498,20180407,Over Shipment,73060170,,N
+C1,1861,Amy Zheng,545503,20180408,Short Shipment,66811993000,,N
+C2,5681,Roberto Burciaga,545537,20180408,Short Shipment,AF03000031,,N
+C2,9885,Inventory Brisbane,545538,20180408,Short Shipment,018781-061,,
+C2,5681,Roberto Burciaga,545539,20180408,Short Shipment,26433298,,N
+C2,5681,Roberto Burciaga,545541,20180408,Short Shipment,26439808,,N
+63,9885,Steven Daly,545567,20180409,Short Shipment,69039955,,N
+C2,9885,Inbound Perth Hub,545571,20180409,Damaged Part,BH00013689,,N/A
+C4,9885,Inbound Perth Hub,545572,20180409,Short Shipment,BF00008200,,N/A
+C2,9885,Inbound Perth Hub,545573,20180409,Short Shipment,55053758,,N/A
+C2,9885,Inbound Perth Hub,545575,20180409,Over Shipment,CP41118-01,,N/A
+C1,9885,Inventory Brisbane,545576,20180409,Damaged Part,81258859,,
+C1,9885,Inventory Brisbane,545577,20180409,Short Shipment,86714489,,
+C1,9885,Inventory Brisbane,545578,20180409,Short Shipment,445202904,,
+63,9885,Bob Gourley,545590,20180409,Over Shipment,55200891,,N
+C3,8200,Amruta Gokhale,545601,20180409,Short Shipment,55076838,,Y
+63,9885,George Hema,545603,20180409,Over Shipment,33134178,,N/A
+63,9885,George Hema,545604,20180409,Short Shipment,20988258,,N/A
+63,9885,George Hema,545605,20180409,Over Shipment,20989678,,N/A
+C3,8441,Balikpapan Warehouse,545607,20180409,Short Shipment,BG00298087,,Y
+C1,1281,Thomas Preiss,545610,20180409,Short Shipment,81558479,,N
+C3,8441,Balikpapan Warehouse,545612,20180409,Short Shipment,001129-001,,N
+C2,2300,C1Deviations,545649,20180409,Short Shipment,83371099,,
+C1,1161,Aleksi Laakso,545654,20180409,Misdirected Part/Shipment,02825040,,N
+37,2300,C1Deviations,545662,20180409,Short Shipment,900.0981-00,,N/A
+C2,2300,C1Deviations,545709,20180409,Damaged Part,BG00357250,,N/A
+C1,1861,DHL Warehouse,545711,20180409,Damaged Part,BG00443699,,N/A
+C1,1861,DHL Warehouse,545715,20180409,Damaged Part,69042849,,N
+C1,1861,DHL Warehouse,545718,20180409,Damaged Part,69042849,,N/A
+C1,5100,Marcelo Munoz,545719,20180409,Over Shipment,00695990,,Y
+C1,5100,Marcelo Munoz,545722,20180409,Over Shipment,840.0069-00,,Y
+C1,5100,Marcelo Munoz,545731,20180409,Short Shipment,AF02300006,,Y
+C2,5100,Marcelo Munoz,545732,20180409,Short Shipment,001763-112,,Y
+C2,5100,Marcelo Munoz,545733,20180409,Over Shipment,021522-003,,Y
+C2,2300,C1Deviations,545734,20180409,Short Shipment,445445196,,
+C1,5100,Marcelo Munoz,545735,20180409,Short Shipment,55030221,,Y
+C1,5100,Marcelo Munoz,545736,20180409,Short Shipment,69042235,,Y
+C1,5100,Marcelo Munoz,545737,20180409,Over Shipment,71190812,,Y
+C1,5100,Marcelo Munoz,545738,20180409,Short Shipment,56209865,,Y
+C1,6487,Albert Siaga,545743,20180409,Short Shipment,300-050-566,,N/A
+C2,6487,Albert Siaga,545744,20180409,Short Shipment,CM47907,,N/A
+C2,6487,Albert Siaga,545747,20180409,Short Shipment,04699146,,N/A
+C1,6487,Albert Siaga,545755,20180409,Short Shipment,32543918,,N/A
+C1,2083,Severine Ghalem-Malric,545789,20180409,Short Shipment,88483499,,N
+C2,2302,Berenice Guzman,545826,20180409,Over Shipment,69040888,,N/A
+C2,2302,Berenice Guzman,545831,20180409,Over Shipment,56043724,,N
+C2,5100,Marcelo Munoz,545835,20180409,Over Shipment,021419-011,,N/A
+C2,2300,C1Deviations,545842,20180409,Over Shipment,023211-059,,
+C2,4782,Kathy Crites,545846,20180409,Short Shipment,7870-6106-11,,
+C2,4684,Antonia Pierce,545849,20180409,Short Shipment,004080-093,,Y
+C2,4782,Kathy Crites,545858,20180409,Short Shipment,BG00387230,,
+C2,5681,Emmanuel Velasquez,545867,20180409,Short Shipment,06429031,,N
+67,2300,C1Deviations,545868,20180409,Over Shipment,BC00003429,,
+C2,5681,Emmanuel Velasquez,545870,20180409,Short Shipment,06743102,,N
+C2,5681,Emmanuel Velasquez,545871,20180409,Short Shipment,88732889,,N
+C2,4684,Stacey Anderson,545877,20180409,Damaged Part,BG00641499,,N/A
+C1,2301,Julio Cotera,545881,20180409,Short Shipment,81670189,,N
+C2,5681,ROCIO ZAMORA,545892,20180409,Misdirected Part/Shipment,55017536,,
+C2,5681,ROCIO ZAMORA,545893,20180409,Misdirected Part/Shipment,55017536,,
+C2,5681,ROCIO ZAMORA,545895,20180409,Misdirected Part/Shipment,006677-226,,
+C2,5681,ROCIO ZAMORA,545896,20180409,Misdirected Part/Shipment,006677-430,,
+C2,5681,Marisol Luna,545902,20180409,Short Shipment,7329-6035-05,,N/A
+63,9885,Sara Fitzpatrick,545914,20180410,Short Shipment,88483499,,
+C1,1861,C3 Inbound,545920,20180410,Short Shipment,88770059,,
+C1,9885,Inventory Brisbane,545924,20180410,Over Shipment,55196044,,N/A
+C1,9885,Inventory Brisbane,545925,20180410,Over Shipment,87902639,,
+C1,9885,Inventory Brisbane,545927,20180410,Over Shipment,88114079,,
+63,9885,Ray Thomas,545931,20180410,Damaged Part,55059183,,N/A
+C4,6487,DAVID MASHABELA,545964,20180410,Short Shipment,77005028,,N/A
+12,8481,Freeport Warehouse Inbound,545965,20180410,Short Shipment,7767-5143A-S48,,N/A
+C4,6487,DAVID MASHABELA,545967,20180410,Short Shipment,55223206,,N/A
+07,1861,Dermot Carty,545990,20180410,Over Shipment,452.3027-003,,N
+C3,8200,Bhanage Dinanath,545992,20180410,Short Shipment,88665349,,N/A
+C4,6487,Rachel Thobejane,546036,20180410,Short Shipment,76350014,,N/A
+C4,6487,Rachel Thobejane,546037,20180410,Short Shipment,56213317,,N/A
+C2,2300,C1Deviations,546040,20180410,Over Shipment,004490-005,,
+C2,2300,C1Deviations,546051,20180410,Over Shipment,BG00359486,,N/A
+C1,1281,Kay Moen,546057,20180410,Over Shipment,09260298,,N/A
+C2,4782,Lucie Doiron,546085,20180410,Short Shipment,CX002519,,Y
+C1,2301,Julio Cotera,546096,20180410,Over Shipment,55032288,,N/A
+C1,2301,Julio Cotera,546099,20180410,Over Shipment,52204190,,Y
+C2,2301,Julio Cotera,546109,20180410,Short Shipment,CX005204,,Y
+C2,4782,Lucie Doiron,546112,20180410,Short Shipment,33191232,,Y
+C1,2301,Julio Cotera,546156,20180410,Short Shipment,33001698,,Y
+C1,2301,Julio Cotera,546159,20180410,Short Shipment,86930549,,N
+C1,2301,Julio Cotera,546162,20180410,Over Shipment,87218939,,N
+C1,2301,Julio Cotera,546163,20180410,Over Shipment,73410145,,Y
+C1,6487,Albert Siaga,546167,20180410,Short Shipment,00512740,,N/A
+C2,5681,Miriam Rivas,546168,20180410,Short Shipment,7515-4889-S48,,N/A
+C1,6487,Albert Siaga,546169,20180410,Short Shipment,55023117,,N/A
+C1,6487,Albert Siaga,546172,20180410,Short Shipment,55049092,,N/A
+C1,6487,Albert Siaga,546174,20180410,Short Shipment,00713560,,N/A
+C1,6487,Albert Siaga,546176,20180410,Short Shipment,13545258,,N/A
+C2,5681,Miriam Rivas,546178,20180410,Short Shipment,55025293,,N/A
+C2,5681,Rafael Vilches,546180,20180410,Short Shipment,70821228,,N/A
+C1,6487,Albert Siaga,546185,20180410,Short Shipment,55049092,,N/A
+C2,5681,Miriam Rivas,546189,20180410,Short Shipment,7733-5248A-S48,,N/A
+C2,5681,Yishar Galindo,546197,20180410,Damaged Part,56040819,,N
+C2,5681,Luis Angel Cuevas,546214,20180410,Short Shipment,55199530,,N
+C2,5681,Luis Angel Cuevas,546229,20180410,Short Shipment,26439808,,N
+C2,5681,Luis Angel Cuevas,546242,20180410,Short Shipment,70821062,,N/A
+C2,5681,Luis Angel Cuevas,546250,20180410,Short Shipment,70900057,,N/A
+63,9885,Wayne Fleet,546274,20180410,Short Shipment,751.0576-001,,
+C1,9995,Constance Hill C2 DHL Supply Chain,546287,20180411,Short Shipment,65632321000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546288,20180411,Short Shipment,66811298000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546289,20180411,Short Shipment,BG00517155,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546290,20180411,Short Shipment,66811298000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546291,20180411,Short Shipment,873.0040-00,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546292,20180411,Short Shipment,66811298000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546293,20180411,Short Shipment,29612951,,Y
+C2,2302,Berenice Guzman,546294,20180411,Short Shipment,BG00836651,,N/A
+C2,2302,Berenice Guzman,546295,20180411,Short Shipment,42-481B115-R55,,N/A
+C2,2302,Berenice Guzman,546297,20180411,Short Shipment,56040821,,N/A
+C1,9995,Constance Hill C2 DHL Supply Chain,546298,20180411,Short Shipment,65632321000,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546299,20180411,Short Shipment,77012602,,Y
+12,2302,Jorge Rodriguez Valadez,546300,20180411,Short Shipment,7379-8715-26,,
+67,9885,Nita Broughton,546310,20180411,Over Shipment,88814169,,
+63,9885,Timothy Osborne,546320,20180411,Damaged Part,55156731,,N/A
+C3,8481,Freeport Warehouse Inbound,546326,20180411,Short Shipment,85356169,,N/A
+C4,6487,DAVID MASHABELA,546327,20180411,Short Shipment,80759069,,N/A
+C1,3081,Alias Bochkarev,546329,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546331,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546332,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546334,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546335,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546336,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546337,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546338,20180411,Damaged Part,69042849,,N
+C1,3081,Alias Bochkarev,546339,20180411,Damaged Part,69042849,,N
+C3,8200,Sachin Kumar,546342,20180411,Short Shipment,AF03000031,,N/A
+C2,2300,C1Deviations,546348,20180411,Short Shipment,76350093,,
+67,9885,Nita Broughton,546368,20180411,Over Shipment,69039965,,
+67,9885,Nita Broughton,546370,20180411,Short Shipment,69039961,,
+C2,2300,C1Deviations,546385,20180411,Over Shipment,04700648,,N/A
+C2,2300,C1Deviations,546386,20180411,Short Shipment,001109-023,,
+07,7950,Myla Ramos,546395,20180411,Short Shipment,825.0148-00,,
+C3,8200,Somenath Banerjee,546400,20180411,Short Shipment,442.6635-90,,Y
+C1,280,Karolina Kangas,546436,20180411,Misdirected Part/Shipment,BG01024133,,Y
+C2,2302,Berenice Guzman,546437,20180411,Short Shipment,87936809,,N
+C2,2302,Berenice Guzman,546438,20180411,Short Shipment,88650099,,N/A
+C2,2302,Berenice Guzman,546440,20180411,Short Shipment,BG00334558,,N/A
+C2,2302,Berenice Guzman,546443,20180411,Short Shipment,55071666,,N/A
+C2,4782,Doug Sibbald,546467,20180411,Damaged Part,56040819,,N/A
+C1,5100,Marcelo Munoz,546471,20180411,Over Shipment,15574978,,Y
+C1,5100,Marcelo Munoz,546472,20180411,Short Shipment,15575038,,Y
+C1,5100,Marcelo Munoz,546474,20180411,Over Shipment,56027851,,N
+C2,120,J.R.Bowden,546481,20180411,Short Shipment,500955077,,Y
+C2,2302,Berenice Guzman,546490,20180411,Short Shipment,55026554,,N/A
+C2,2302,Berenice Guzman,546491,20180411,Short Shipment,55035148,,N
+C4,9995,Constance Hill C2 DHL Supply Chain,546492,20180411,Damaged Part,037169-001,,N/A
+C4,9995,Constance Hill C2 DHL Supply Chain,546493,20180411,Damaged Part,005117-001,,N/A
+C4,9995,Constance Hill C2 DHL Supply Chain,546494,20180411,Damaged Part,64131210,,N/A
+C4,9995,Constance Hill C2 DHL Supply Chain,546495,20180411,Damaged Part,CM16210,,N/A
+C4,9995,Constance Hill C2 DHL Supply Chain,546497,20180411,Over Shipment,56019020,,N/A
+C2,4782,chris rollins,546499,20180411,Short Shipment,74130420,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546500,20180411,Short Shipment,70020960,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546501,20180411,Short Shipment,70180413,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546502,20180411,Short Shipment,70271379,,Y
+C2,6487,Albert Siaga,546511,20180411,Short Shipment,002581-001,,N/A
+C2,6487,Albert Siaga,546512,20180411,Short Shipment,013732-002,,N/A
+C1,9995,Constance Hill C2 DHL Supply Chain,546526,20180411,Over Shipment,620060800,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546530,20180411,Short Shipment,79590263,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546531,20180411,Over Shipment,77007056,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546540,20180411,Short Shipment,81158159,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546548,20180411,Short Shipment,08002379,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546549,20180411,Short Shipment,08002380,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546550,20180411,Short Shipment,04182216,,Y
+C1,9885,Inventory Brisbane,546551,20180411,Short Shipment,953785,,
+C1,9995,Constance Hill C2 DHL Supply Chain,546552,20180411,Short Shipment,04600113,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546557,20180411,Short Shipment,04730729,,Y
+C1,9995,Constance Hill C2 DHL Supply Chain,546561,20180411,Short Shipment,09256478,,Y
+63,9885,George Hema,546573,20180411,Misdirected Part/Shipment,751.0576-001,,N/A
+63,1861,Hvss.receipts,546581,20180412,Over Shipment,65639291000,,N/A
+67,9885,Erin Schmidt,546583,20180412,Short Shipment,7767-5148A-S80,,
+63,1861,Hvss.receipts,546584,20180412,Short Shipment,65687051400,,N/A
+67,9885,Erin Schmidt,546585,20180412,Misdirected Part/Shipment,7324-6749-20,,
+67,9885,Erin Schmidt,546587,20180412,Short Shipment,7767-1664-S48,,N/A
+C2,1861,Amy Zheng,546590,20180412,Short Shipment,64103682,,N
+63,1861,Hvss.receipts,546591,20180412,Damaged Part,A2U900-522037,,
+63,9885,George Hema,546592,20180412,Over Shipment,61507641,,N/A
+C2,2302,Berenice Guzman,546593,20180412,Short Shipment,04730785,,N/A
+63,9885,George Hema,546594,20180412,Short Shipment,BG00786139,,N/A
+67,9885,Ruby Sa,546597,20180412,Short Shipment,55051973,,
+67,9885,Nita Broughton,546601,20180412,Short Shipment,88505529,,
+C2,6487,Albert Siaga,546614,20180412,Short Shipment,04699978,,N/A
+C3,120,Leif Hedberg,546620,20180412,Damaged Part,7324-6755-20,,
+C1,2500,Laura Grigoli,546621,20180412,Short Shipment,30809118,,N
+C1,1861,DHL Warehouse,546644,20180412,Over Shipment,81558349,,N/A
+C1,1161,Paula Asplund,546652,20180412,Short Shipment,902.0806-00,,N/A
+C1,1161,Paula Asplund,546657,20180412,Damaged Part,442.9307-01,,N
+C2,120,Leif Hedberg,546689,20180412,Short Shipment,7324-6755-20,,
+C1,1861,DHL Warehouse,546700,20180412,Short Shipment,70271379,,N
+C1,1861,DHL Warehouse,546704,20180412,Short Shipment,15027638,,N
+C2,2302,Berenice Guzman,546707,20180412,Short Shipment,15252698,,N/A
+C1,1861,DHL Warehouse,546709,20180412,Short Shipment,AF00500829,,N
+C1,1861,DHL Warehouse,546721,20180412,Over Shipment,04600113,,N/A
+C1,4881,Alejandro Ferraiolo,546743,20180412,Short Shipment,88021199,,Y
+C1,4881,Alejandro Ferraiolo,546745,20180412,Short Shipment,70460801,,Y
+C2,4782,Robert Thriault,546767,20180412,Short Shipment,88601219,,N/A
+C2,4782,Robert Thriault,546773,20180412,Over Shipment,CP48001-0219,,N/A
+C3,5800,Zaida Gallegos,546776,20180412,Misdirected Part/Shipment,64257394,,N/A
+C2,5681,Miguel Angel Garcia,546794,20180412,Short Shipment,70391152,,N/A
+C1,5100,Marcelo Munoz,546811,20180412,Over Shipment,485.0091-001,,N
+C1,5100,Marcelo Munoz,546812,20180412,Over Shipment,485.0091-001,,Y
+C1,5100,Marcelo Munoz,546815,20180412,Short Shipment,840.0638-00,,N
+C1,5100,Marcelo Munoz,546816,20180412,Short Shipment,840.0652-00,,N
+C1,5100,Marcelo Munoz,546817,20180412,Short Shipment,847.0014-00,,N
+C1,5100,Marcelo Munoz,546818,20180412,Short Shipment,930.0274-00,,Y
+C2,2300,C1Deviations,546819,20180412,Damaged Part,56025927,,N/A
+C2,2300,C1Deviations,546826,20180412,Over Shipment,56017850,,N/A
+C2,2300,C1Deviations,546827,20180412,Damaged Part,001988-004,,
+C1,2301,Julio Cotera,546852,20180412,Over Shipment,246945,,N
+C2,2302,Berenice Guzman,546854,20180412,Short Shipment,56002244,,
+C2,2302,Berenice Guzman,546855,20180412,Short Shipment,00696280,,N/A
+63,9885,Martin Rogers,546889,20180413,Misdirected Part/Shipment,56048471,,N/A
+67,9885,Nita Broughton,546890,20180413,Over Shipment,CX001774,,N/A
+C2,2302,Berenice Guzman,546897,20180413,Short Shipment,55013321,,N/A
+C1,1861,C3 Inbound,546898,20180413,Short Shipment,507379,,
+C1,1861,C3 Inbound,546899,20180413,Short Shipment,55184429,,
+C1,1861,C3 Inbound,546900,20180413,Short Shipment,56029993,,
+6C,9885,Sheridan Mollenhauer,546908,20180413,Short Shipment,56023060,,
+,9885,Sara Fitzpatrick,546909,20180413,Short Shipment,BU00006974,,
+C2,1861,C3 Inbound,546918,20180413,Short Shipment,004042-001,,
+C1,5090,Edward Cavalcanti,546923,20180413,Over Shipment,88815209,,N/A
+C2,5090,Edward Cavalcanti,546926,20180413,Short Shipment,001109-019,,N/A
+C1,5090,Edward Cavalcanti,546927,20180413,Short Shipment,86944229,,
+43,5090,Edward Cavalcanti,546933,20180413,Over Shipment,63-030KTA,,N/A
+C2,2302,Berenice Guzman,546935,20180413,Damaged Part,56002246,,N/A
+C2,5090,Edward Cavalcanti,546943,20180413,Short Shipment,001554-150,,N/A
+C1,5090,Edward Cavalcanti,546946,20180413,Over Shipment,87043679,,
+C2,2302,Berenice Guzman,546974,20180413,Short Shipment,85516179,,N/A
+C1,2083,Severine Ghalem-Malric,546977,20180413,Short Shipment,88483499,,N
+C1,1161,Mervi Kannisto,547000,20180413,Short Shipment,BG00738951,,N
+C2,4684,Jean Grant,547046,20180413,Over Shipment,442.8802-01,,
+C2,4782,Doug Sibbald,547052,20180413,Short Shipment,1510704,,
+C2,4684,Antonia Pierce,547061,20180413,Over Shipment,56036989,,
+C2,2302,Berenice Guzman,547072,20180413,Short Shipment,56031342,,N
+C2,5090,Renner Santos,547080,20180413,Short Shipment,60141124,,
+C2,4782,Mike Gurini,547105,20180413,Damaged Part,55038926,,
+C2,4684,Antonia Pierce,547109,20180413,Over Shipment,AF03000032,,
+C2,4684,Cathy Kempen,547128,20180413,Short Shipment,442.9408-01,,
+C2,4684,Cathy Kempen,547130,20180413,Short Shipment,442.7105-00,,
+C2,5681,Yishar Galindo,547142,20180413,Over Shipment,AF01400007,,N/A
+C2,2302,Berenice Guzman,547152,20180414,Over Shipment,26511761,,
+C2,2302,Berenice Guzman,547161,20180414,Damaged Part,56040905,,
+C2,2302,Berenice Guzman,547164,20180414,Damaged Part,55033745,,
+C3,8200,Bhasker Ameta,547168,20180414,Short Shipment,15574978,,N/A
+C2,2302,Jorge Rodriguez Valadez,547170,20180414,Short Shipment,70212554,,
+C2,2302,Jorge Rodriguez Valadez,547171,20180414,Short Shipment,70880191,,
+C3,8200,Somenath Banerjee,547174,20180415,Short Shipment,56025948,,N/A
+63,8990,Mila Bai,547198,20180416,Short Shipment,A2U130-492018,,Y
+67,9885,Nita Broughton,547228,20180416,Short Shipment,BG00326360,,N/A
+C4,9885,Inventory Brisbane,547232,20180416,Damaged Part,WU14239,,N/A
+C1,9885,Inventory Brisbane,547233,20180416,Short Shipment,06575017,,
+C1,9885,Inventory Brisbane,547236,20180416,Over Shipment,55005676,,
+C1,9885,Inventory Brisbane,547237,20180416,Over Shipment,55027766,,
+C1,9885,Inventory Brisbane,547240,20180416,Short Shipment,55038498,,
+C1,1861,C3 Inbound,547255,20180416,Short Shipment,04790109,,
+C1,1861,DHL Warehouse,547271,20180416,Short Shipment,04700608,,N
+C1,1861,DHL Warehouse,547275,20180416,Short Shipment,69038993,,N
+C1,1861,DHL Warehouse,547279,20180416,Over Shipment,15235798,,
+C1,1861,DHL Warehouse,547283,20180416,Over Shipment,09372181,,
+C1,1861,C3 Inbound,547289,20180416,Short Shipment,55200660,,
+37,2300,C1Deviations,547294,20180416,Over Shipment,452.5543-901,,
+C1,2083,Elodie Hourrier,547295,20180416,Short Shipment,400.3157-001,,
+C2,2300,C1Deviations,547317,20180416,Over Shipment,56025927,,
+43,2300,C1Deviations,547326,20180416,Over Shipment,32-5130-RMA-16S,,
+C2,2300,C1Deviations,547354,20180416,Short Shipment,015279-001,,
+37,2300,C1Deviations,547385,20180416,Short Shipment,873.1219-00,,N/A
+C2,120,J.R.Bowden,547393,20180416,Damaged Part,500955077,,
+C2,4782,Martin Houle,547400,20180416,Short Shipment,7325-7743-70,,
+C1,1161,Susanne Niskanen,547417,20180416,Short Shipment,BG00296623,,
+C1,1161,Susanne Niskanen,547418,20180416,Short Shipment,56033991,,
+C1,6487,Albert Siaga,547421,20180416,Short Shipment,BT00002881,,
+C2,6487,Albert Siaga,547423,20180416,Short Shipment,64589010,,
+C2,6487,Albert Siaga,547425,20180416,Short Shipment,CP48001-0503,,
+C2,6487,Albert Siaga,547426,20180416,Over Shipment,007207-001,,
+C2,6487,Albert Siaga,547428,20180416,Short Shipment,64586184,,
+C3,8200,Bhasker Ameta,547435,20180416,Short Shipment,56024134,,N/A
+C3,8200,Bhasker Ameta,547437,20180416,Short Shipment,64582804,,N/A
+C2,4782,Doug Sibbald,547447,20180416,Over Shipment,00766840,,
+C2,4782,Melissa Duguay,547470,20180416,Short Shipment,09084548,,
+37,5100,Marcelo Munoz,547496,20180416,Short Shipment,902.0636-00,,Y
+63,9885,George Hema,547524,20180416,Short Shipment,BU00010922,,
+C1,9885,Inventory Brisbane,547531,20180417,Over Shipment,04779208,,
+C1,9885,Inventory Brisbane,547532,20180417,Short Shipment,44283270,,
+C1,9885,Inventory Brisbane,547533,20180417,Short Shipment,AF02300015,,
+63,9885,Brendan Heuston,547534,20180417,Short Shipment,88601349,,N/A
+C2,2302,Berenice Guzman,547538,20180417,Short Shipment,55014896,,
+C3,8881,Yuki Yoshioka,547539,20180417,Damaged Part,AF03000034,,
+C2,2302,Berenice Guzman,547540,20180417,Short Shipment,56024134,,
+C2,2302,Berenice Guzman,547541,20180417,Over Shipment,56023052,,
+C1,1861,C3 Inbound,547543,20180417,Short Shipment,59200383,,
+C3,9690,Nurol Hijjah,547545,20180417,Damaged Part,85081459,,
+63,9885,Bob Gourley,547559,20180417,Over Shipment,56023053,,
+63,9885,Bob Gourley,547560,20180417,Over Shipment,56023052,,N/A
+C3,2300,C1Deviations,547597,20180417,Short Shipment,88701359,,N/A
+12,1861,Akiha Oda,547603,20180417,Short Shipment,7324-4737-70,,
+63,8990,Lei Wang,547605,20180417,Damaged Part,BD00001101,,Y
+12,1861,Akiha Oda,547606,20180417,Short Shipment,7853-3324-30,,
+63,8990,Lei Wang,547625,20180417,Damaged Part,A2U900-195087,,Y
+C2,1861,C3 Inbound,547632,20180417,Short Shipment,001690-001,,
+C1,1861,C3 Inbound,547693,20180417,Short Shipment,170474,,
+C3,8441,Edy Sucipto,547710,20180417,Short Shipment,714-1639-65,,N/A
+C1,3485,Angelika Remy,547712,20180417,Short Shipment,20796938,,
+C1,3485,Angelika Remy,547713,20180417,Short Shipment,87345749,,
+C4,6487,Corry Selete,547749,20180417,Short Shipment,523755000,,
+C4,2300,C1Deviations,547753,20180417,Short Shipment,BA00000247,,
+C1,3081,Alias Bochkarev,547755,20180417,Short Shipment,55006724,,
+C1,3081,Alias Bochkarev,547756,20180417,Short Shipment,86798699,,
+C1,6487,Albert Siaga,547804,20180417,Short Shipment,55047472,,
+C1,6487,Albert Siaga,547805,20180417,Short Shipment,AF25010507,,
+C1,6487,Albert Siaga,547807,20180417,Short Shipment,55027773,,
+C1,3200,Marisol Galvez,547813,20180417,Short Shipment,55096584,,
+C2,4684,Jean Grant,547824,20180417,Short Shipment,488.0360-901,,
+C1,7030,Kribe Diarra,547825,20180417,Short Shipment,55089269,,
+C2,4684,Theresa Hazuda,547874,20180417,Short Shipment,65648614000,,
+C2,4684,Theresa Hazuda,547875,20180417,Short Shipment,65650189000,,
+C2,5681,NIDRA LOZANO,547879,20180417,Short Shipment,33001698,,
+C2,5681,ROCIO ZAMORA,547884,20180417,Short Shipment,018294-001,,
+C2,2302,Berenice Guzman,547899,20180418,Short Shipment,56041859,,
+43,2301,Julio Cotera,547902,20180418,Short Shipment,7733-5245A-S48,,
+63,9885,Brendan Heuston,547905,20180418,Short Shipment,BG00764246,,N/A
+C1,9885,Inventory Brisbane,547913,20180418,Short Shipment,585000022063,,
+C1,9885,Inventory Brisbane,547917,20180418,Short Shipment,BG00837556,,
+C3,8481,Freeport Warehouse Inbound,547920,20180418,Short Shipment,AF01000223,,N/A
+C1,1861,Hvss.receipts,547924,20180418,Short Shipment,65694367002,,
+63,9885,Rylie Thomas,547925,20180418,Damaged Part,BG00488404,,
+C2,2302,Berenice Guzman,547933,20180418,Short Shipment,71055050,,
+C2,2302,Berenice Guzman,547934,20180418,Short Shipment,73391824,,
+C2,2302,Berenice Guzman,547935,20180418,Over Shipment,71406550,,
